@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Careers
 permalink: /careers
 ---

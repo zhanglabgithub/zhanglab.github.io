@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: news
 title: News & Events
 permalink: /news
 ---
@@ -26,3 +26,18 @@ permalink: /news
 
 ### January 2019
 - Xihao (Sherlock) is the recipient of a Parker Institute for Cancer Immunotherapy (PICI) Scholar Award.
+
+### Archieve
+<details>
+<summary><b>2018</b></summary>
+<b>December</b>
+<ul>
+<li>Bo Li started his assistant professor position at UT South Western.</li>
+</ul>
+<b>September</b>
+<ul>
+<li>Shirley and DFCI colleagues received the Cancer Immunologic Data Commons (CIDC) and Cancer Immune Monitoring and Analysis Center (CIMAC) from the NCI Moonshot Initiative.</li>
+<li>Shirley, Wei and Bo presentated at the Cold Spring Harbor Asia Conference on Precision Cancer Medicine.</li>
+<li>Postdoc Peng Jiang spoke at the Rising Star Symposium at University of Chicago.</li>
+</ul>
+</details>

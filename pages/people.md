@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: People
 subtitle: People in Liu Lab
 permalink: /people

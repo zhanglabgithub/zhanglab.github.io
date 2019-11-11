@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Publications
 subtitle: Publications in Liu Lab
 permalink: /publication
