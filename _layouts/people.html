@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-lg-5">
+        <img width="200" style="margin-bottom: 10px" src="/img/{{page.permalink}}.png" data-action="zoom"> <br>
+        {% if page.office %}
+        <i class="fa fa-building"></i> {{page.office}} <br>
+        {% endif %}
+        {% if page.email %}
+        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.email}}"> xsliu@ds.dfci.harvard.edu</a>  <br>
+        {% endif %}
+        {% if page.website %}
+        <i class="fa fa-globe"> Website</i>
+        { endif }
+        {% if page.cv %}
+        <i class="fa fa-file"></i><a href="{{page.cv}}"> CV</a>
+        {% endif %}
+        {% if page.google_scholar %}
+        <i class="fa fa-google"></i><a href="{{page.google_scholar}}"> Google Scholar</a> <br>
+        {% endif %}
+        {% if page.twitter %}
+        <i class="fa fa-twitter-square"></i><a href="{{page.twitter}}"> Twitter</a> <br>
+        {% endif %}
+        {% if page.facebook %}
+        <i class="fa fa-facebook-square"></i><a href="{{page.facebook}}">  Facebook</a> <br>
+        {% endif %}
+    </div>
+    <div class="col-lg-7">
+        <!--<h3>Bio</h3>-->
+        <h3>{{page.name}}</h3>
+        <p>{{page.description}}</p>
+    </div>
+</div>
+
+<hr>
+
+<!--<h3>Research Interests</h3>-->
+<!--<p>{{page.research}}</p>-->
+
+{{content}}

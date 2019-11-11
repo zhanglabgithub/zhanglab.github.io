@@ -9,22 +9,30 @@ permalink: /people
 
 ### Current lab members
 
-- X. Shirley Liu (Principle investigator)
-- Cliff Meyer (Senior research scientist)
-- Chen-hao Chen (Computational biologist)
+- [X. Shirley Liu, PhD](/people/shirley_liu) (Principle investigator)
+- Cliff Meyer, PhD (Senior research scientist)
+- Chen-hao Chen, PhD (Computational biologist)
 - Aashna Jhaveri (Data scientist)
 - David Cohen (Bioinformatics Analyst)
 - Len Taing (Programmer)
 - Shawn Mims (Grant Manager)
-- Avinash Sahu (Computational postdoc)
-- Li Song (Computational postdoc)
-- Collin Tokheim (Computational postdoc)
-- Chenfei Wang (Computational postdoc)
-- Zexian Davis Zeng (Computational postdoc)
-- Yi Zhang (Computational postdoc)
-- Shengqing Gu (Experimental postdoc)
-- Qin Tang (Experimental postdoc)
-- Xiaoqing Wang (Experimental postdoc)
+- Avinash Sahu, PhD (Computational postdoc)
+- Li Song, PhD (Computational postdoc)
+- Collin Tokheim, PhD (Computational postdoc)
+- Chenfei Wang, PhD (Computational postdoc)
+- Zexian Zeng, PhD (Computational postdoc)
+- Yi Zhang, PhD (Computational postdoc)
+- Shengqing Gu, PhD (Experimental postdoc)
+- Qin Tang, PhD (Experimental postdoc)
+- Xiaoqing Wang, PhD (Experimental postdoc)
+- Jingxin Fu (Visiting Scholar)
+- Xin Huang (Visiting Scholar)
+- Zhangyi Ouyang (Visiting Scholar)
+- Xiaoman Wang (Visiting Scholar)
+- Jijun Yu (Visiting Scholar)
+- Wubing Zhang (Visiting Scholar)
+- Zhe Zhang (Visiting Scholar)
+
 
 ### Alumni with at least six month stay
 
