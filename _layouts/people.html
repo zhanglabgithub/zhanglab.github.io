@@ -2,14 +2,16 @@
 layout: default
 ---
 
+{% if page.status == "current" %}
+
 <div class="row">
-    <div class="col-lg-5">
+    <div class="col-lg-4">
         <img width="200" style="margin-bottom: 10px" src="/img/{{page.permalink}}.png" data-action="zoom"> <br>
         {% if page.office %}
         <i class="fa fa-building"></i> {{page.office}} <br>
         {% endif %}
-        {% if page.email %}
-        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.email}}"> xsliu@ds.dfci.harvard.edu</a>  <br>
+        {% if page.eml %}
+        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.eml}}"> xsliu@ds.dfci.harvard.edu</a>  <br>
         {% endif %}
         {% if page.website %}
         <i class="fa fa-globe"> Website</i>
@@ -20,17 +22,26 @@ layout: default
         {% if page.google_scholar %}
         <i class="fa fa-google"></i><a href="{{page.google_scholar}}"> Google Scholar</a> <br>
         {% endif %}
+        {% if page.github %}
+        <i class="fa fa-github"></i><a href="{{page.github}}"> GitHub</a> <br>
+        {% endif %}
+        {% if page.linkedin %}
+        <i class="fa fa-linkedin-square"></i><a href="{{page.linkedin}}"> LinkedIn</a> <br>
+        {% endif %}
         {% if page.twitter %}
         <i class="fa fa-twitter-square"></i><a href="{{page.twitter}}"> Twitter</a> <br>
         {% endif %}
         {% if page.facebook %}
         <i class="fa fa-facebook-square"></i><a href="{{page.facebook}}">  Facebook</a> <br>
         {% endif %}
+        {% if page.instagram %}
+        <i class="fa fa-instagram"></i><a href="{{page.instagram}}"> Instagram</a> <br>
+        {% endif %}
     </div>
-    <div class="col-lg-7">
+    <div class="col-lg-8">
         <!--<h3>Bio</h3>-->
-        <h3>{{page.name}}</h3>
-        <p>{{page.description}}</p>
+        <h3>{{page.pname}}</h3>
+        <p>{{page.desp}}</p>
     </div>
 </div>
 
@@ -40,3 +51,5 @@ layout: default
 <!--<p>{{page.research}}</p>-->
 
 {{content}}
+
+{% endif %}

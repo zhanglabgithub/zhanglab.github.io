@@ -2,7 +2,7 @@
 layout: default
 title: Software
 subtitle: Softwares in Liu Lab
-permalink: /software
+permalink: /software/
 ---
 
 # Softwares
