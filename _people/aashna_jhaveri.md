@@ -1,7 +1,7 @@
 ---
-title: aashna-jhaveri
+title: aashna_jhaveri
 layout: people
-permalink: /people/aashna-jhaveri
+permalink: /people/aashna_jhaveri
 status: current
 pname: Aashna Jhaveri
 position: Data Scientist

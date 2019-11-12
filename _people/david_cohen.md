@@ -1,7 +1,7 @@
 ---
-title: david-cohen
+title: david_cohen
 layout: people
-permalink: /people/david-cohen
+permalink: /people/david_cohen
 status: current
 pname: David Cohen
 position: Bioinformatics Analyst

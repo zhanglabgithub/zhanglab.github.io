@@ -1,7 +1,7 @@
 ---
-title: chenhao-chen
+title: chenhao_chen
 layout: people
-permalink: /people/chenhao-chen
+permalink: /people/chenhao_chen
 status: current
 pname: Chen-hao Chen, PhD
 position: Computational Biologist

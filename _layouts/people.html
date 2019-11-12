@@ -5,22 +5,22 @@ layout: default
 {% if page.status == "current" %}
 
 <div class="row">
-    <div class="col-lg-4">
+    <div class="col-lg-3">
         <img width="200" style="margin-bottom: 10px" src="/img/{{page.permalink}}.png" data-action="zoom"> <br>
         {% if page.office %}
         <i class="fa fa-building"></i> {{page.office}} <br>
         {% endif %}
         {% if page.eml %}
-        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.eml}}"> xsliu@ds.dfci.harvard.edu</a>  <br>
+        <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.eml}}"> {{page.eml}}</a>  <br>
         {% endif %}
         {% if page.website %}
-        <i class="fa fa-globe"> Website</i>
+        <i class="fa fa-globe"></i> <a href="{{page.website}}"> Website</a> <br>
         {% endif %}
         {% if page.cv %}
-        <i class="fa fa-file"></i><a href="{{page.cv}}"> CV</a>
+        <i class="fa fa-file"></i><a href="{{page.cv}}"> CV</a> <br>
         {% endif %}
         {% if page.google_scholar %}
-        <i class="fa fa-google"></i><a href="{{page.google_scholar}}"> Google Scholar</a> <br>
+        <i class="fa fa-graduation-cap"></i><a href="{{page.google_scholar}}"> Google Scholar</a> <br>
         {% endif %}
         {% if page.github %}
         <i class="fa fa-github"></i><a href="{{page.github}}"> GitHub</a> <br>
@@ -38,7 +38,7 @@ layout: default
         <i class="fa fa-instagram"></i><a href="{{page.instagram}}"> Instagram</a> <br>
         {% endif %}
     </div>
-    <div class="col-lg-8">
+    <div class="col-lg-9">
         <!--<h3>Bio</h3>-->
         <h3>{{page.pname}}</h3>
         <p>{{page.desp}}</p>
