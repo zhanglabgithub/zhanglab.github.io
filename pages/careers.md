@@ -16,7 +16,8 @@ A representative list of recent projects and publications (with Liu Lab as major
 ## Lab openings
 ### Lead computational biologist, cancer immunologic data commons (CIDC)
 Dana-Farber Cancer Institute (DFCI) was recently awarded a five-year grant from the National Cancer Institute (NCI) as part of the Cancer Moonshot Project to build a Cancer Immunologic Data Commons (CIDC). NCI plans to conduct comprehensive profiling of tumor, blood, and fecal samples from NCI-sponsored immuno-oncology trials at four Cancer Immune Monitoring and Analysis Centers (CIMACs: Stanford, MD Anderson, Mt Sinai, and DFCI). The CIDC is responsible for building the database infrastructure, bioinformatics pipelines, computational algorithms for the resulting profiling data and related clinical data, enabling integrated analysis across trials and sharing of all data by the larger immuno-oncology research community. The goal of the project is to enable systematic incorporation of biomarker studies in NCI-supported early immunotherapy clinical trials to better understand and predict which patients respond to certain immunotherapy treatments. <br>
-The CIDC project currently seeks a Lead Computational Biologist for the CIDC. The Lead Computational Biologist will work closely with laboratories of DFCI, CIMAC and CIDC investigators, especially laboratories of Drs. X. Shirley Liu, Ethan Cerami, Catherine Wu, and Steve Hodi on various bioinformatics aspects of immune-profiling tools and analyses. We are looking for exceptional candidates with strong computational biology, immunogenomics, and communication skills. <br>
+The CIDC project currently seeks a Lead Computational Biologist for the CIDC. The Lead Computational Biologist will work closely with laboratories of DFCI, CIMAC and CIDC investigators, especially laboratories of Drs. X. Shirley Liu, Ethan Cerami, Catherine Wu, and Steve Hodi on various bioinformatics aspects of immune-profiling tools and analyses. We are looking for exceptional candidates with strong computational biology, immunogenomics, and communication skills.
+
 [Apply online here>>](https://careers-dfci.icims.com/jobs/12318/lead-computational-biologist%2C-cancer-immunologic-data-commons-%28cidc%29/job?mobile=false&width=934&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 
 ### Computational biology postdoc position at the X. Shirley Liu Lab
@@ -26,7 +27,8 @@ The CIDC project currently seeks a Lead Computational Biologist for the CIDC. Th
 4. Strong programming skills: ((Python or C or C++ or Java) & R)
 5. At least two first authored English papers (or three if co-first authors) with submitted, accepted or published status in journals
 6. Good spoken and written communication skills in English
-Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact of three references to xsliu (At) jimmy (Dot) harvard (Dot) edu with subject line “Postdoctoral application”. <br>
+Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact of three references to xsliu (At) jimmy (Dot) harvard (Dot) edu with subject line “Postdoctoral application”.
+
 [Apply here>>](mailto:xsliu@jimmy.harvard.edu)
 
 ### Data scientist in translational cancer research
