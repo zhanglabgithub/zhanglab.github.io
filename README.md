@@ -8,6 +8,7 @@
 - [News & Events](#news_and_events)
 - [People](#people)
 - [Publications](#publications)
+- [Teaching](#teaching)
 - [Careers](#careers)
 - [Contact](#contact)
 
@@ -21,7 +22,7 @@ This webpage is built based on the [Beautiful Jekyll](https://github.com/daattal
 
 ## Home
 
-The home page is located at `pages/home.html`. 
+The home page is located at `index.html`. 
 
 ## Software
 
@@ -38,6 +39,10 @@ To add people, you can just add a `md` file in `_people` named by `lastname_firs
 ## Publications
 
 The Publications is located at `pages/publications.md`.
+
+### Teaching
+
+Then Teaching is located at `pages/teaching.md`
 
 ## Careers
 
