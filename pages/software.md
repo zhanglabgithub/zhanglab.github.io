@@ -8,12 +8,12 @@ permalink: /software/
 # Softwares
 
 ### Cancer Immunotherapy
+- [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp;
+The latest version of TRUST.
 - [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp;
 Tumor IMmune Estimation Resource, or TIMER, is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp;
 T cell receptor Repertoire Utilities for Solid Tissue/Tumor, or TRUST is a toolbox for analyzing T cell receptors in solid tumors using unselected RNA-seq data based on de novo assembly.
-- [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp;
-The latest version of TRUST.
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
 
