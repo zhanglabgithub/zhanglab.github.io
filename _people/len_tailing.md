@@ -1,9 +1,9 @@
 ---
-tittle: len_tailing
+tittle: len_taing
 layout: people
-permalink: /people/len_tailing
+permalink: /people/len_taing
 status: current
-pname: Len Tailing
+pname: Len Taing
 position: Programmer
 office: 
 eml: 
