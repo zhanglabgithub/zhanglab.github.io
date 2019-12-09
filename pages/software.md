@@ -6,6 +6,9 @@ permalink: /software/
 ---
 
 # Softwares
+### Single Cell 
+- [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
+Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
 
 ### Cancer Immunotherapy
 - [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp;
@@ -17,13 +20,15 @@ T cell receptor Repertoire Utilities for Solid Tissue/Tumor, or TRUST is a toolb
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
 
-### CANCER PRECISION MEDICINE
+### Cancer Precision Medicine
 - [**CARE**](http://care.dfci.harvard.edu/) &nbsp;
 CARE is a software developed to enable large-scale inference of response biomarkers and drug combinations for targeted therapies using compound screen data.
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
+- [**2LNet**](https://github.com/liulab-dfci/2LNet) &nbsp;
+2LNet is a dual-layer integrated cell line-drug network model, which uses both cell line similarity network (CSN) data and drug similarity network (DSN) data to predict the drug response of a given cell line using a weighted model.
 
-### CRISPR ANALYSIS
+### CRISPR Analysis
 - [**MAGeCKFLute**](http://bioconductor.org/packages/release/bioc/html/MAGeCKFlute.html) &nbsp;
 MAGeCKFlute is designed to support downstream analysis, utilizing the gene summary data provided through MAGeCK or MAGeCK-VISPR. Quality control, normalization, and screen hit identification for CRISPR screen data are performed in pipeline. Identified hits within the pipeline are categorized based on experimental design, and are subsequently interpreted by functional enrichment analysis.
 - [**MAGeCK-VISPR**](http://bitbucket.org/liulab/mageck-vispr/) &nbsp;
@@ -35,9 +40,11 @@ Network Essentiality Scoring Tool (NEST) is designed to predict gene essentialit
 - [**SSC**](https://sourceforge.net/projects/spacerscoringcrispr/) &nbsp;
 Sequence Scan for CRISPR gRNA efficiency.
 
-### CHIP-SEQ AND EPIGENETICS ANALYSIS
+### CHIP-Seq and Epigenetics Analysis
 - [**Cistrome-GO**](http://go.cistrome.org/) &nbsp;
 Cistrome-GO is a webserver for functional enrichment analysis of transcription factor ChIP-seq peaks.
+- [**Cistrome DB Toolkit**](http://dbtoolkit.cistrome.org/) &nbsp;
+Backed by the huge collection of Cistrome DB, the Toolkit allows users to quickly examine their hypothesis regarding gene regulation through public ChIP-seq (protein factors and histone marks), chromatin accessibility (DNase-seq and ATAC-seq) data. Three functions have been implemented in Cistrome DB Toolkit website.
 - [**RABIT**](http://rabit.dfci.harvard.edu/) &nbsp;
 Regression Analysis with Background Integration (RABIT) is a very efficient feature selection algorithm. We applied RABIT to find tumor associated regulators in diverse cancer types. 
 - [**Cistrome**](http://cistrome.org/ap/) &nbsp;
@@ -59,30 +66,30 @@ A standalone Python package for analyzing ChIP-chip/seq data.
 - [**Cis-regulatory Element Annotation System(CEAS)**](http://ceas.cbi.pku.edu.cn/) &nbsp;
 An integrated webserver for analyzing ChIP-chip data.
  
-### TRANSCRIPTOME ANALYSIS
+### Transcriptome Analysis
 - [**GFold**](https://bitbucket.org/feeldead/gfold) &nbsp;
 Generalized fold change for ranking differentially expressed genes from RNA-seq data.
-- [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**]() &nbsp;
+- [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**](http://liulab.dfci.harvard.edu/sageExpress/) &nbsp;
 Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel normalization method using empirical Bayes and differential gene analysis.
 
-### CHIP-CHIP ANALYSIS
-- [**Model-based Analysis of Tiling-array (MAT)**]() &nbsp;
+### CHIP-chip Analysis
+- [**Model-based Analysis of Tiling-array (MAT)**](http://liulab.dfci.harvard.edu/MAT/) &nbsp;
 A model-based algorithm for finding enriched regions in ChIP-Chip experiments.
-- [**Model-based Analysis of 2-Color Arrays (MA2C)**]() &nbsp;
+- [**Model-based Analysis of 2-Color Arrays (MA2C)**](http://liulab.dfci.harvard.edu/MA2C/MA2C.htm) &nbsp;
 A model-based algorithm for analyzing 2-color microarrays.
-- [**extreme MApping of OligoNucleotides (xMAN)**]() &nbsp;
+- [**extreme MApping of OligoNucleotides (xMAN)**](http://liulab.dfci.harvard.edu/xMAN/xMAN-09252006.tar.gz) &nbsp;
 A simple and efficient method for the mapping of millions of queryoligonucleotide fragments to the subject genome of any given length, at least an order of magnitude faster than other popular existing tools.
-- [**Hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays (HMMTiling)**]() &nbsp;
+- [**Hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays (HMMTiling)**](http://liulab.dfci.harvard.edu/Software/HMMTiling/HMMTiling_Readme.htm) &nbsp;
 HMMTiling is a comprehensive software package for tiling array data analysis. It includes command line python applications for filtering, mapping, quantile-normalizing and enriched-region identification from ChIP-chip experiments on tiling arrays.
-- [**Microarray Blob Remover (MBR)**]() &nbsp;
+- [**Microarray Blob Remover (MBR)**](http://liulab.dfci.harvard.edu/Software/MBR/MBR.htm.html) &nbsp;
 A microarray JAVA tool which allows rapid visualization, detection, and removalof blob-like defects as an initial quality control step.
 
-### TRANSCRIPTION FACTOR MOTIF FINDING
-- [**CompareProspector**]() &nbsp;
+### Transcription Factor Motif Finding
+- [**CompareProspector**](http://compareprospector.stanford.edu/) &nbsp;
 A sequence motif-finding algorithm.
-- [**Motif Regressor**]() &nbsp;
+- [**Motif Regressor**](http://www.math.umass.edu/~conlon/mr.html) &nbsp;
 A program for finding DNA sequence motifs.
-- [**MDscan**]() &nbsp;
+- [**MDscan**](http://robotics.stanford.edu/~xsliu/MDscan/) &nbsp;
 A Fast and Accurate Motif Finding Algorithm With Applications To Chromatin Immunoprecipitation Microarray Experiments.
-- [**BioProspector**]() &nbsp;
+- [**BioProspector**](http://robotics.stanford.edu/~xsliu/BioProspector/) &nbsp;
 Discovering Conserved DNA Motifs in Upstream Regulatory Regions of Co-ExpressedGenes.
