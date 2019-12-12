@@ -5,7 +5,7 @@ subtitle: Softwares in Liu Lab
 permalink: /software/
 ---
 
-# Softwares
+# Software
 ### Single Cell 
 - [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
@@ -25,8 +25,8 @@ TIDE is a gene expression biomarker to predict the clinical response to immune c
 CARE is a software developed to enable large-scale inference of response biomarkers and drug combinations for targeted therapies using compound screen data.
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
-- [**2LNet**](https://github.com/liulab-dfci/2LNet) &nbsp;
-2LNet is a dual-layer integrated cell line-drug network model, which uses both cell line similarity network (CSN) data and drug similarity network (DSN) data to predict the drug response of a given cell line using a weighted model.
+- [**DrugCellNet**](https://github.com/liulab-dfci/2LNet) &nbsp;
+DrugCellNet is a dual-layer integrated cell line-drug network model, which uses both cell line similarity network (CSN) data and drug similarity network (DSN) data to predict the drug response of a given cell line using a weighted model.
 
 ### CRISPR Analysis
 - [**MAGeCKFLute**](http://bioconductor.org/packages/release/bioc/html/MAGeCKFlute.html) &nbsp;
