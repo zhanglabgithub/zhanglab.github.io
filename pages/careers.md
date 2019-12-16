@@ -11,7 +11,7 @@ A representative list of recent projects and publications (with Liu Lab as major
 - Data integration: (Jiang et al, PNAS 2015; Jiang et al, Nat Genet 2015; Jiang et al, Genome Biol 2015; Zang et al, Nat Comm 2016 ; Du et al, Nat Comm 2016)
 - Cancer Epigenetics: (He et al, Nat Genet 2010; Xu et al, Science 2012; He et al, Nat Meth 2014; Liu et al, PNAS 2017; Mei et al, Cancer Res 2017 )
 - CRISPR screens: ( Li et al, Genome Biol 2014; Xu et al, Genome Res 2015; Zhu et al, Nat Biotech 2016; Fei et al, PNAS 2017 )
-- Cancer Immunology: ( Li et al, Genome Biol 2016 ; Li et al, Nat Genet 2016 ; Liu & Mardis, Cell 2017 ; Li et al, Cancer Res 2017 ; Pan et al, Science 2017
+- Cancer Immunology: ( Li et al, Genome Biol 2016 ; Li et al, Nat Genet 2016 ; Liu & Mardis, Cell 2017 ; Li et al, Cancer Res 2017 ; Pan et al, Science 2017 )
 
 ## Lab openings
 ### Lead computational biologist, cancer immunologic data commons (CIDC)
