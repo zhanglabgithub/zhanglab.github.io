@@ -51,7 +51,7 @@ Regression Analysis with Background Integration (RABIT) is a very efficient feat
 A web-based integrative platform for transcriptional regulation studies, from peak calling, correlation and association studies, expression analyses, to motif discovery.
 - [**Cistrome DB**](http://cistrome.org/db) &nbsp;
 Collects and processes public ChIP-seq / DNase-seq data for quality control, visualization, and download.
-- [**Model-based Analysis of ChIP-Seq (MACS)**](http://liulab.dfci.harvard.edu/MACS/) &nbsp;
+- [**Model-based Analysis of ChIP-Seq (MACS)**](https://github.com/taoliu/MACS) &nbsp;
 A model-based algorithm for finding enriched regions in ChIP-Seq experiments.
 - [**ChiLin**](http://cistrome.org/chilin/) &nbsp;
 ChiLin is an extensible software suite that is ideal for processing and quality control of large batches of ChIP-seq and DNase-seq data. Publication submitted.
