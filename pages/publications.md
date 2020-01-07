@@ -27,7 +27,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 [[Full Paper]](/resources/publications/Wang_NatPro_2019.pdf)
 - Hu X, Zhang J, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll MC, Wucherpfennig KW, Hacohen N, Zhang F, Zhang P, Liu JS, Li B, **Liu XS**. Landscape of B cell immunity and related immune evasion in human cancers. Nat Genet. 2019 Mar;51(3):560-567. 2019. PubMed PMID: 30742113
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30742113)
-[[Full Paper]](/resources/publications/Hu_NatGen_2019.pdf)
+[[Full Paper]](/resources/publications/Hu_NatGen_2018.pdf)
 
 ## 2018
 - Zheng R, Wan C, Mei S, Qin Q, Wu Q, Sun H, Chen CH, Brown M, Zhang X, **Meyer CA**, **Liu XS**. Cistrome Data Browser: expanded datasets and new tools for gene regulatory analysis. Nucleic Acids Res. 2018. (epub) PubMed PMID: 30462313
