@@ -40,7 +40,7 @@ Network Essentiality Scoring Tool (NEST) is designed to predict gene essentialit
 - [**SSC**](https://sourceforge.net/projects/spacerscoringcrispr/) &nbsp;
 Sequence Scan for CRISPR gRNA efficiency.
 
-### CHIP-Seq and Epigenetics Analysis
+### ChIP-Seq and Epigenetics Analysis
 - [**Cistrome-GO**](http://go.cistrome.org/) &nbsp;
 Cistrome-GO is a webserver for functional enrichment analysis of transcription factor ChIP-seq peaks.
 - [**Cistrome DB Toolkit**](http://dbtoolkit.cistrome.org/) &nbsp;
@@ -72,7 +72,7 @@ Generalized fold change for ranking differentially expressed genes from RNA-seq 
 - [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**](http://liulab.dfci.harvard.edu/sageExpress/) &nbsp;
 Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel normalization method using empirical Bayes and differential gene analysis.
 
-### CHIP-chip Analysis
+### ChIP-chip Analysis
 - [**Model-based Analysis of Tiling-array (MAT)**](http://liulab.dfci.harvard.edu/MAT/) &nbsp;
 A model-based algorithm for finding enriched regions in ChIP-Chip experiments.
 - [**Model-based Analysis of 2-Color Arrays (MA2C)**](http://liulab.dfci.harvard.edu/MA2C/MA2C.htm) &nbsp;
