@@ -5,7 +5,18 @@ permalink: /news
 ---
 
 # News and Events
+
+## 2020
+### Jan
+- Our new lab admin Holly Bartel started, Yeah!
+
 ## 2019
+
+### Dec
+- Our [LISA](http://lisa.cistrome.org/) paper was accepted to Genome Biology!
+
+
+
 ### May
 - Postdoc’s Amy Peng and Sherlock Hu left the Liu Lab to start working at BlueBird and GV20 Therapeutics. 
 - Our lab technician Nicole Traugh finished her work in the Liu Lab and will start her PhD at Tufts University this fall.
