@@ -33,7 +33,7 @@ DrugCellNet is a dual-layer integrated cell line-drug network model, which uses 
 MAGeCKFlute is designed to support downstream analysis, utilizing the gene summary data provided through MAGeCK or MAGeCK-VISPR. Quality control, normalization, and screen hit identification for CRISPR screen data are performed in pipeline. Identified hits within the pipeline are categorized based on experimental design, and are subsequently interpreted by functional enrichment analysis.
 - [**MAGeCK-VISPR**](http://bitbucket.org/liulab/mageck-vispr/) &nbsp;
 Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout + Visualization of CRISPR Screens (MAGeCK-VISPR) is a comprehensive pipeline for analyzing and visualizing results from genome-scale CRISPR-Cas9 knockout screens. 
-- [**MAGeCK**](http://liulab.dfci.harvard.edu/Mageck/) &nbsp;
+- [**MAGeCK**](https://bitbucket.org/liulab/mageck/src/master/) &nbsp;
 Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) is a computational tool to identify important genes from genome-scale CRISPR-Cas9 knockout screens.
 - [**NEST**](http://nest.dfci.harvard.edu/) &nbsp;
 Network Essentiality Scoring Tool (NEST) is designed to predict gene essentiality based on protein interaction network and gene expression. It can also be used to enhance the quality of CRISPR screen results.  Publication submitted.
@@ -61,7 +61,7 @@ Targets analysis pipeline by integration of transcriptome and ChIP-seq data.
 Binding Inference from Nucleosome Occupancy Changes.
 - [**Nucleosome Positioning from Sequencing (NPS)**](/resources/software/NPS.zip) &nbsp;
 A signal processing-based algorithm for identifying positioned nucleosomes fromsequencing experiments at the nucleosome level.
-- [**Cis-regulatory Element Annotation System(CEAS) - Standalone version**](http://liulab.dfci.harvard.edu/CEAS/) &nbsp;
+- [**Cis-regulatory Element Annotation System(CEAS) - Standalone version**](/resources/software/CEAS.zip) &nbsp;
 A standalone Python package for analyzing ChIP-chip/seq data.
 - [**Cis-regulatory Element Annotation System(CEAS)**](http://ceas.cbi.pku.edu.cn/) &nbsp;
 An integrated webserver for analyzing ChIP-chip data.
@@ -69,11 +69,11 @@ An integrated webserver for analyzing ChIP-chip data.
 ### Transcriptome Analysis
 - [**GFold**](https://bitbucket.org/feeldead/gfold) &nbsp;
 Generalized fold change for ranking differentially expressed genes from RNA-seq data.
-- [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**](http://liulab.dfci.harvard.edu/sageExpress/) &nbsp;
+- [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**](/resources/software/sageExpress.zip) &nbsp;
 Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel normalization method using empirical Bayes and differential gene analysis.
 
 ### ChIP-chip Analysis
-- [**Model-based Analysis of Tiling-array (MAT)**](http://liulab.dfci.harvard.edu/MAT/) &nbsp;
+- [**Model-based Analysis of Tiling-array (MAT)**](/resources/software/MAT-3.07312009.tar.gz) &nbsp;
 A model-based algorithm for finding enriched regions in ChIP-Chip experiments.
 - [**Model-based Analysis of 2-Color Arrays (MA2C)**](/resources/software/MA2C.zip) &nbsp;
 A model-based algorithm for analyzing 2-color microarrays.
