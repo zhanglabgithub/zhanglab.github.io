@@ -21,13 +21,13 @@ The CIDC project currently seeks a Lead Computational Biologist for the CIDC. Th
 [Apply here>>](https://careers-dfci.icims.com/jobs/12318/lead-computational-biologist%2C-cancer-immunologic-data-commons-%28cidc%29/job?mobile=false&width=934&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 
 ### Computational biology postdoc position at the X. Shirley Liu Lab
-1. Ideal applicant should have: <br>
-2. A PhD degree in related field (bioinformatics, physics, statistics, engineering, etc) received in the last 3 years
-3. Strong quantitative background (machine learning, Bayesian inference, etc.) or computational genomics experiences (high throughput sequence analysis, etc.)
-4. Strong programming skills: ((Python or C or C++ or Java) & R)
-5. At least two first authored English papers (or three if co-first authors) with submitted, accepted or published status in journals
-6. Good spoken and written communication skills in English
-Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact of three references to xsliu (At) jimmy (Dot) harvard (Dot) edu with subject line “Postdoctoral application”.
+Ideal applicant should have: <br>
+1. A PhD degree in related field (bioinformatics, physics, statistics, engineering, etc) received in the last 3 years
+2. Strong quantitative background (machine learning, Bayesian inference, etc.) or computational genomics experiences (high throughput sequence analysis, etc.)
+3. Strong programming skills: ((Python or C or C++ or Java) & R)
+4. At least two first authored English papers (or three if co-first authors) with submitted, accepted or published status in journals
+5. Good spoken and written communication skills in English. 
+Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact of three references to [Shirley Liu](mailto:xsliu@ds.dfci.harvard.edu) with subject line “Postdoctoral application”.
 
 [Apply here>>](mailto:xsliu@ds.dfci.harvard.edu)
 
