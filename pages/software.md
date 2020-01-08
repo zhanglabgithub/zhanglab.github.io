@@ -57,9 +57,9 @@ A model-based algorithm for finding enriched regions in ChIP-Seq experiments.
 ChiLin is an extensible software suite that is ideal for processing and quality control of large batches of ChIP-seq and DNase-seq data. Publication submitted.
 - [**BETA**](http://cistrome.org/BETA) &nbsp;
 Targets analysis pipeline by integration of transcriptome and ChIP-seq data.
-- [**BINOCh**](http://liulab.dfci.harvard.edu/BINOCh) &nbsp;
+- [**BINOCh**](/resources/software/BINOCh.zip) &nbsp;
 Binding Inference from Nucleosome Occupancy Changes.
-- [**Nucleosome Positioning from Sequencing (NPS)**](http://liulab.dfci.harvard.edu/NPS/) &nbsp;
+- [**Nucleosome Positioning from Sequencing (NPS)**](/resources/software/NPS.zip) &nbsp;
 A signal processing-based algorithm for identifying positioned nucleosomes fromsequencing experiments at the nucleosome level.
 - [**Cis-regulatory Element Annotation System(CEAS) - Standalone version**](http://liulab.dfci.harvard.edu/CEAS/) &nbsp;
 A standalone Python package for analyzing ChIP-chip/seq data.
@@ -75,11 +75,11 @@ Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel nor
 ### ChIP-chip Analysis
 - [**Model-based Analysis of Tiling-array (MAT)**](http://liulab.dfci.harvard.edu/MAT/) &nbsp;
 A model-based algorithm for finding enriched regions in ChIP-Chip experiments.
-- [**Model-based Analysis of 2-Color Arrays (MA2C)**](http://liulab.dfci.harvard.edu/MA2C/MA2C.htm) &nbsp;
+- [**Model-based Analysis of 2-Color Arrays (MA2C)**](/resources/software/MA2C.zip) &nbsp;
 A model-based algorithm for analyzing 2-color microarrays.
-- [**extreme MApping of OligoNucleotides (xMAN)**](http://liulab.dfci.harvard.edu/xMAN/xMAN-09252006.tar.gz) &nbsp;
+- [**extreme MApping of OligoNucleotides (xMAN)**](/resources/software/xMAN/xMAN.tar.gz) &nbsp;
 A simple and efficient method for the mapping of millions of queryoligonucleotide fragments to the subject genome of any given length, at least an order of magnitude faster than other popular existing tools.
-- [**Hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays (HMMTiling)**](http://liulab.dfci.harvard.edu/Software/HMMTiling/HMMTiling_Readme.htm) &nbsp;
+- [**Hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays (HMMTiling)**](/resources/software/HMMTiling.zip) &nbsp;
 HMMTiling is a comprehensive software package for tiling array data analysis. It includes command line python applications for filtering, mapping, quantile-normalizing and enriched-region identification from ChIP-chip experiments on tiling arrays.
 - [**Microarray Blob Remover (MBR)**](http://liulab.dfci.harvard.edu/Software/MBR/MBR.htm.html) &nbsp;
 A microarray JAVA tool which allows rapid visualization, detection, and removalof blob-like defects as an initial quality control step.
