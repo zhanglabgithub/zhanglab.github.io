@@ -77,11 +77,11 @@ Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel nor
 A model-based algorithm for finding enriched regions in ChIP-Chip experiments.
 - [**Model-based Analysis of 2-Color Arrays (MA2C)**](/resources/software/MA2C.zip) &nbsp;
 A model-based algorithm for analyzing 2-color microarrays.
-- [**extreme MApping of OligoNucleotides (xMAN)**](/resources/software/xMAN/xMAN.tar.gz) &nbsp;
+- [**extreme MApping of OligoNucleotides (xMAN)**](/resources/software/xMAN.tar.gz) &nbsp;
 A simple and efficient method for the mapping of millions of queryoligonucleotide fragments to the subject genome of any given length, at least an order of magnitude faster than other popular existing tools.
 - [**Hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays (HMMTiling)**](/resources/software/HMMTiling.zip) &nbsp;
 HMMTiling is a comprehensive software package for tiling array data analysis. It includes command line python applications for filtering, mapping, quantile-normalizing and enriched-region identification from ChIP-chip experiments on tiling arrays.
-- [**Microarray Blob Remover (MBR)**](http://liulab.dfci.harvard.edu/Software/MBR/MBR.htm.html) &nbsp;
+- [**Microarray Blob Remover (MBR)**](/resources/software/MBR.zip) &nbsp;
 A microarray JAVA tool which allows rapid visualization, detection, and removalof blob-like defects as an initial quality control step.
 
 ### Transcription Factor Motif Finding
