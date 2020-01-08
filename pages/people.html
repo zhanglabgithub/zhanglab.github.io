@@ -7,31 +7,39 @@ permalink: /people
 
 <h1>People</h1>
 <h3>Current lab members</h3>
-<ul>
+
     <h4>Principle Investigator</h4>
-        <li><a href="/people/shirley_liu">X. Shirley Liu, PhD</a>&nbsp;(Principle Investigator)</li>
+        <ul>
+            <li><a href="/people/shirley_liu">X. Shirley Liu, PhD</a>&nbsp;(Principle Investigator)</li>
+        </ul>
 
     <h4>Stuff</h4>
-    {% for people in site.people %}
-    {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position != "Computational Postdoc" and people.position != "Experimental Postdoc" %}
-    <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
-    {% endif %}
-    {% endfor %}
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position != "Computational Postdoc" and people.position != "Experimental Postdoc" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
 
     <h4>Experimental Postdoc</h4>
-    {% for people in site.people %}
-    {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position == "Experimental Postdoc" %}
-    <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
-    {% endif %}
-    {% endfor %}
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position == "Experimental Postdoc" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
 
     <h4>Computational Postdoc</h4>
-    {% for people in site.people %}
-    {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position == "Computational Postdoc" %}
-    <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
-    {% endif %}
-    {% endfor %}
-</ul>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position == "Computational Postdoc" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
 
 <h3>Alumni with at least six month stay</h3>
 <h4>Postdoc Fellows and Current Status</h4>
