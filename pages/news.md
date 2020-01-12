@@ -24,7 +24,7 @@ permalink: /news
 - Postdoc Zexian (Davis) had a baby girl Grace. Congrats!
 
 ### Oct
-- Shirley gave the keynote talk at the [Johns Hopkins Genomics and Bioinformatics symposium] (http://genomics.jhu.edu/symposium.html)
+- Shirley gave the keynote talk at the [Johns Hopkins Genomics and Bioinformatics symposium](http://genomics.jhu.edu/symposium.html)
 - Another of Shirley Liu's renewal of the [Breast Cancer Research Foundation Investigator Award](https://www.bcrf.org/researchers/xiaole-shirley-liu).
 
 ### Sept
