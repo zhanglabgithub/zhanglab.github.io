@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-### 1. [Blog](https://www.longwoodgenomics.org/) of Xiaole Shirley Liu
+### 1. X Shirley Liu's [Blog](https://www.longwoodgenomics.org/)
 
 ### 2. [STAT115/215 BIO/BST282 2020](https://canvas.harvard.edu/courses/66883) Introduction to Computational Biology and Bioinformatics
 
