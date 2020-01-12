@@ -8,7 +8,7 @@ permalink: /news
 
 ## 2020
 ### Jan
-- Our new lab admin Holly Bartel started, Yeah!
+- Our new lab admin / program coordinator Holly Bartel started. Welcome!
 
 ## 2019
 
@@ -21,6 +21,8 @@ permalink: /news
 - Shirley is an organizer for the [Harvard PQG Conference on the Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/).
 
 ### July
+- Postdoc Peng Jiang started his own lab as an [NIH Stadtman Investigator at NCI](https://ccr.cancer.gov/cancer-data-science-laboratory/peng-jiang).
+- New postdoc Yi Zhang (PhD from UIUC) just joined the lab. Welcome Yi!
 - Our summer intern Cynthia Chen was awarded the [2019 Davidson Fellow](https://www.davidsongifted.org/fellows-scholarship/2019-fellows).
 
 ### June
@@ -59,6 +61,7 @@ permalink: /news
 - Xiaoqing Wang is the proud father of baby James!
 - Rongbin’s Cistrome DB paper appeared online in Nucleic Acids Research. 
 - Xihao (Sherlock) and Jian’s paper on how to evaluate immune repertoire inference algorithms is published in Nat Biotech. 
+- Former Visiting scholar Jian Zhang's immune repertoire paper in AML was published on [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0681-3). 
 
 ### October
 - Liu Lab welcomes postdocs Collin Tolkheim, Chenfei Wang, and Li Song.
