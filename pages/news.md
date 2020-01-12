@@ -14,8 +14,17 @@ permalink: /news
 
 ### Dec
 - Our [LISA](http://lisa.cistrome.org/) paper was accepted to Genome Biology!
+- Liu Lab lab was awarded a [Sanofi Innovation Award](https://www.sanofi.com/en/science-and-innovation/sanofi-innovation-awards).
 
+### Nov
+- Liu Lab lab was awarded a DFCI / Takeda collaboration project
+- Shirley is an organizer for the [Harvard PQG Conference on the Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/).
 
+### July
+- Our summer intern Cynthia Chen was awarded the [2019 Davidson Fellow](https://www.davidsongifted.org/fellows-scholarship/2019-fellows).
+
+### June
+- Avinash Sahu was awarded the [Michelson Prize](https://www.humanvaccinesproject.org/prize-winner/avinash-das-sahu-ph-d/).
 
 ### May
 - Postdoc’s Amy Peng and Sherlock Hu left the Liu Lab to start working at BlueBird and GV20 Therapeutics. 
