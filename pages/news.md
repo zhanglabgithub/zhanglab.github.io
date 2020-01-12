@@ -30,6 +30,7 @@ permalink: /news
 ### Sept
 - Shirley gave a talk at the [22th Annual Meeting of Chinese Society of Clinical Oncology](http://www.csco.ac.cn/).
 - Shirley is an organizer for the [6th Annual HMS Epigenetics & Gene Dynamics Annual Symposium](https://postdoc.hms.harvard.edu/event/6th-annual-hms-epigenetics-gene-dynamics-annual-symposium?delta=0)
+- LiuLab welcome new experimental postdoc Boning Zhang from Purdue University!
 
 ### Aug
 - The Liu Lab welcomes experimental postdoc Boning Zhang!
