@@ -1,9 +1,9 @@
 ---
-tittle: shengqing_gu
+title: shengqing_gu
 layout: people
 permalink: /people/shengqing_gu
 status: current
-pname: Shengqing Gu, PhD
+pname: Shengqing Stan Gu, PhD
 position: Experimental Postdoc
 office: 
 eml: 

@@ -1,5 +1,5 @@
 ---
-tittle: qin_tang
+title: qin_tang
 layout: people
 permalink: /people/qin_tang
 status: current
