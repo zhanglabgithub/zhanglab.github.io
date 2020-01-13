@@ -4,7 +4,11 @@ title: Teaching
 permalink: /teaching
 ---
 
-### 1. [Blog](https://www.longwoodgenomics.org/) of Xiaole Shirley Liu
+### 1. X Shirley Liu's [Blog](https://www.longwoodgenomics.org/)
 
-### 2. [STAT115](https://canvas.harvard.edu/courses/49497/assignments/syllabus) at Harvard University
-**Course Description:** The course will cover basic technology platforms, data analysis problems and algorithms in computational biology. Topics include sequence alignment and search, high throughput experiments for gene expression, transcription factor binding and epigenetic profiling, motif finding, RNA/protein structure prediction, proteomics and genome-wide association studies. Computational algorithms covered include hidden Markov model, Gibbs sampler, clustering and classification methods.
+### 2. [STAT115/215 BIO/BST282 2020](https://canvas.harvard.edu/courses/66883) Introduction to Computational Biology and Bioinformatics
+
+#### [STAT115/215 BIO/BST282 2019](https://canvas.harvard.edu/courses/49497)
+#### [STAT115/215 BIO/BST282 2018](https://canvas.harvard.edu/courses/39391)
+
+### 3. [STAT316](https://canvas.harvard.edu/courses/50485) Big data statistics in genomic and genetic research
