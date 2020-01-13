@@ -1,5 +1,5 @@
 ---
-tittle: jingyu_fan
+title: jingyu_fan
 layout: people
 permalink: /people/jingyu_fan
 status: current

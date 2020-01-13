@@ -1,5 +1,5 @@
 ---
-tittle: li_song
+title: li_song
 layout: people
 permalink: /people/li_song
 status: current

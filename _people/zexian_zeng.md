@@ -1,5 +1,5 @@
 ---
-tittle: zexian_zeng
+title: zexian_zeng
 layout: people
 permalink: /people/zexian_zeng
 status: current

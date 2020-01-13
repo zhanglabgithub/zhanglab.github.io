@@ -1,5 +1,5 @@
 ---
-tittle: jingxin_fu
+title: jingxin_fu
 layout: people
 permalink: /people/jingxin_fu
 status: current

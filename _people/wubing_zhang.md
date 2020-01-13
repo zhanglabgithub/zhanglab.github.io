@@ -1,5 +1,5 @@
 ---
-tittle: wubing_zhang
+title: wubing_zhang
 layout: people
 permalink: /people/wubing_zhang
 status: current

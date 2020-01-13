@@ -1,5 +1,5 @@
 ---
-tittle: xiaoman_wang
+title: xiaoman_wang
 layout: people
 permalink: /people/xiaoman_wang
 status: current

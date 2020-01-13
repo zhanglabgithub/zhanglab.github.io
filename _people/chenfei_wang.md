@@ -1,5 +1,5 @@
 ---
-tittle: chenfei_wang
+title: chenfei_wang
 layout: people
 permalink: /people/chenfei_wang
 status: current

@@ -1,5 +1,5 @@
 ---
-tittle: xiaoqing_wang
+title: xiaoqing_wang
 layout: people
 permalink: /people/xiaoqing_wang
 status: current

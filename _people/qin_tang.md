@@ -2,7 +2,7 @@
 title: qin_tang
 layout: people
 permalink: /people/qin_tang
-status: current
+status: alumni
 pname: Qin Tang, PhD
 position: Experimental Postdoc
 office: 

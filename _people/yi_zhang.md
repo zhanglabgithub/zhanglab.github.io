@@ -1,5 +1,5 @@
 ---
-tittle: yi_zhang
+title: yi_zhang
 layout: people
 permalink: /people/yi_zhang
 status: current

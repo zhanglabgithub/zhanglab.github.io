@@ -1,5 +1,5 @@
 ---
-tittle: boning_zhang
+title: boning_zhang
 layout: people
 permalink: /people/boning_zhang
 status: current

@@ -1,5 +1,5 @@
 ---
-tittle: avinash_sahu
+title: avinash_sahu
 layout: people
 permalink: /people/avinash_sahu
 status: current

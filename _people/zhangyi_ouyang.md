@@ -1,5 +1,5 @@
 ---
-tittle: zhangyi_ouyang
+title: zhangyi_ouyang
 layout: people
 permalink: /people/zhangyi_ouyang
 status: current

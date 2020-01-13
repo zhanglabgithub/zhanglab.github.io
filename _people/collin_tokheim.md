@@ -1,5 +1,5 @@
 ---
-tittle: collin_tokheim
+title: collin_tokheim
 layout: people
 permalink: /people/collin_tokheim
 status: current

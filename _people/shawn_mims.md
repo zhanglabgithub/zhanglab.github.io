@@ -1,5 +1,5 @@
 ---
-tittle: shawn_mims
+title: shawn_mims
 layout: people
 permalink: /people/shawn_mims
 status: current

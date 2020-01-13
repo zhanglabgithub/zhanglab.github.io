@@ -1,5 +1,5 @@
 ---
-tittle: len_taing
+title: len_taing
 layout: people
 permalink: /people/len_taing
 status: current

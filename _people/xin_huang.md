@@ -1,5 +1,5 @@
 ---
-tittle: xin_huang
+title: xin_huang
 layout: people
 permalink: /people/xin_huang
 status: current
