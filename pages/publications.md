@@ -10,6 +10,12 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details.
 
 ## 2019
+- Fei T, Li W, Peng J, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019. PubMed PMID: 31727847 <br>
+[Abstract]
+[[Full Paper]](/resources/publications/Fei_PNAS_2019.pdf)
+- Zhang J, Hu X, Wang J, Sahu AD, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X\*, Li B\*, **Liu XS**\*. Immune receptor repertoires in pediatric and adult acute myeloid leukemia. Genome Med. 2019. PubMed PMCID:PMC6880565 <br>
+[Abstract]
+[[Full Paper]](/resources/publications/Zhang_GenMed_2019.pdf)
 - Campbell PT, Ambrosone CB, Nishihara R, Aerts HJWL, Bondy M, Chatterjee N, Garcia-Closas M, Giannakis M, Golden JA, Heng YJ, Kip NS, Koshiol J, **Liu XS**, Lopes-Ramos CM, Mucci LA, Nowak JA, Phipps AI, Quackenbush J, Schoen RE, Sholl LM, Tamimi RM, Wang M, Weijenberg MP, Wu CJ, Wu K, Yao S, Yu KH, Zhang X, Rebbeck TR, Ogino S. Proceedings of the fourth international molecular pathological epidemiology (MPE) meeting. Cancer Causes Control. 2019. Review. PubMed PMID: 31069578 <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31069578)
 [[Full Paper]](/resources/publications/Campbell_CCC_2019.pdf)
