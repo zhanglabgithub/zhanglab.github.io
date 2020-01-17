@@ -10,277 +10,277 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details.
 
 ## 2019
-- Fei T, Li W, Peng J, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019. PubMed PMID: 31727847 <br>
-[Abstract]
+- Fei T, Li W, Peng J, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019 Dec 10;115(50):25186-25195.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31727847)
 [[Full Paper]](/resources/publications/Fei_PNAS_2019.pdf)
-- Zhang J, Hu X, Wang J, Sahu AD, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X\*, Li B\*, **Liu XS**\*. Immune receptor repertoires in pediatric and adult acute myeloid leukemia. Genome Med. 2019. PubMed PMCID:PMC6880565 <br>
-[Abstract]
+- Zhang J, Hu X, Wang J, Sahu AD, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X\*, Li B\*, **Liu XS**\*. Immune receptor repertoires in pediatric and adult acute myeloid leukemia. Genome Med. 2019 Nov 26;11(1)73.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31771646)
 [[Full Paper]](/resources/publications/Zhang_GenMed_2019.pdf)
-- Campbell PT, Ambrosone CB, Nishihara R, Aerts HJWL, Bondy M, Chatterjee N, Garcia-Closas M, Giannakis M, Golden JA, Heng YJ, Kip NS, Koshiol J, **Liu XS**, Lopes-Ramos CM, Mucci LA, Nowak JA, Phipps AI, Quackenbush J, Schoen RE, Sholl LM, Tamimi RM, Wang M, Weijenberg MP, Wu CJ, Wu K, Yao S, Yu KH, Zhang X, Rebbeck TR, Ogino S. Proceedings of the fourth international molecular pathological epidemiology (MPE) meeting. Cancer Causes Control. 2019. Review. PubMed PMID: 31069578 <br>
+- Campbell PT, Ambrosone CB, Nishihara R, Aerts HJWL, Bondy M, Chatterjee N, Garcia-Closas M, Giannakis M, Golden JA, Heng YJ, Kip NS, Koshiol J, **Liu XS**, Lopes-Ramos CM, Mucci LA, Nowak JA, Phipps AI, Quackenbush J, Schoen RE, Sholl LM, Tamimi RM, Wang M, Weijenberg MP, Wu CJ, Wu K, Yao S, Yu KH, Zhang X, Rebbeck TR, Ogino S. Proceedings of the fourth international molecular pathological epidemiology (MPE) meeting. Cancer Causes Control. 2019 Aug;30(8):799-811<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31069578)
 [[Full Paper]](/resources/publications/Campbell_CCC_2019.pdf)
-- Li S, Wan C, Zheng R, Fan J, Dong X, Meyer CA, **Liu XS**. Cistrome-GO: a web server for functional enrichment analysis of transcription factor ChIP-seq peaks. Nucleic Acids Res. 2019. [Epub ahead of print] PubMed PMID: 31053864 <br>
+- Li S, Wan C, Zheng R, Fan J, Dong X, Meyer CA, **Liu XS**. Cistrome-GO: a web server for functional enrichment analysis of transcription factor ChIP-seq peaks. Nucleic Acids Res. 2019 July 2;47(W1):W206-W211<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31053864)
 [[Full Paper]](/resources/publications/Li_OxfordPress_2019.pdf)
-- Cato L, de Tribolet-Hardy J, Lee I, Rottenberg JT, Coleman I, Melchers D, Houtman R, Xiao T, Li W, Uo T, Sun S, Kuznik NC, Göppert B, Ozgun F, van Royen ME, Houtsmuller AB, Vadhi R, Rao PK, Li L, Balk SP, Den RB, Trock BJ, Karnes RJ, Jenkins RB, Klein EA, Davicioni E, Gruhl FJ, Long HW, **Liu XS**, Cato ACB, Lack NA, Nelson PS, Plymate SR, Groner AC, Brown M. ARv7 Represses Tumor-Suppressor Genes in Castration-Resistant Prostate Cancer. Cancer Cell. 2019. PubMed PMID:30773341
+- Cato L, de Tribolet-Hardy J, Lee I, Rottenberg JT, Coleman I, Melchers D, Houtman R, Xiao T, Li W, Uo T, Sun S, Kuznik NC, Göppert B, Ozgun F, van Royen ME, Houtsmuller AB, Vadhi R, Rao PK, Li L, Balk SP, Den RB, Trock BJ, Karnes RJ, Jenkins RB, Klein EA, Davicioni E, Gruhl FJ, Long HW, **Liu XS**, Cato ACB, Lack NA, Nelson PS, Plymate SR, Groner AC, Brown M. ARv7 Represses Tumor-Suppressor Genes in Castration-Resistant Prostate Cancer. Cancer Cell. 2019 Mar 18;35(3):401-413. e6
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30773341)
 [[Full Paper]](/resources/publications/Cato_CellPress_2019.pdf)
-- Köster J, Brown M, **Liu, XS**. (2018). A Bayesian model for single cell transcript expression analysis on MERFISH data. Bioinformatics, Volume 35, Issue 6, 15. 2019, Pages 995–1001. PubMed PMID: 30875429
+- Köster J, Brown M, **Liu, XS**. (2018). A Bayesian model for single cell transcript expression analysis on MERFISH data. Bioinformatics. 2019 Mar 15;35(6):995–1001.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30875429)
 [[Full Paper]](/resources/publications/Koster_OxfordPress_2019.pdf)
-- Wang B, Wang M, Zhang W, Xiao T, Chen CH, Wu A, Wu F, Traugh N, Wang X, Li Z, Mei S, Cui Y, Shi S, Lipp JJ, Hinterndorfer M, Zuber J, Brown M, Li W, **Liu XS**. Integrative analysis of pooled CRISPR genetic screens using MAGeCKFlute. Nat Protoc. 2019. PubMed PMID: 30710114
+- Wang B, Wang M, Zhang W, Xiao T, Chen CH, Wu A, Wu F, Traugh N, Wang X, Li Z, Mei S, Cui Y, Shi S, Lipp JJ, Hinterndorfer M, Zuber J, Brown M, Li W, **Liu XS**. Integrative analysis of pooled CRISPR genetic screens using MAGeCKFlute. Nat Protoc. 2019 Mar;14(3):756-780
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30710114)
 [[Full Paper]](/resources/publications/Wang_NatPro_2019.pdf)
-- Hu X, Zhang J, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll MC, Wucherpfennig KW, Hacohen N, Zhang F, Zhang P, Liu JS, Li B, **Liu XS**. Landscape of B cell immunity and related immune evasion in human cancers. Nat Genet. 2019 Mar;51(3):560-567. 2019. PubMed PMID: 30742113
+- Hu X, Zhang J, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll MC, Wucherpfennig KW, Hacohen N, Zhang F, Zhang P, Liu JS, Li B, **Liu XS**. Landscape of B cell immunity and related immune evasion in human cancers. Nat Genet. 2019 Mar;51(3):560-567. 
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30742113)
 [[Full Paper]](/resources/publications/Hu_NatGen_2018.pdf)
 
 ## 2018
-- Zheng R, Wan C, Mei S, Qin Q, Wu Q, Sun H, Chen CH, Brown M, Zhang X, Meyer CA, **Liu XS**. Cistrome Data Browser: expanded datasets and new tools for gene regulatory analysis. Nucleic Acids Res. 2018. (epub) PubMed PMID: 30462313
+- Zheng R, Wan C, Mei S, Qin Q, Wu Q, Sun H, Chen CH, Brown M, Zhang X, Meyer CA, **Liu XS**. Cistrome Data Browser: expanded datasets and new tools for gene regulatory analysis. Nucleic Acids Res. 2018. Jan 8;47(D1):D729-D735.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30462313)
 [[Full Paper]](/resources/publications/Zheng_Oxford_2018.pdf)
-- Rafiei S, Gui B, Wu J, **Liu XS**, Kibel AS, Jia L. Targeting the MIF/CXCR7/AKT Signaling Pathway in Castration-Resistant Prostate Cancer. Mol Cancer Res. 2019 (1):263-276. PubMed PMID: 30224544
+- Rafiei S, Gui B, Wu J, **Liu XS**, Kibel AS, Jia L. Targeting the MIF/CXCR7/AKT Signaling Pathway in Castration-Resistant Prostate Cancer. Mol Cancer Res. 2019 Jan 17;(1):263-276.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30224544)
 [[Full Paper]](/resources/publications/Rafei_AACR_2018.pdf)
-- Chen CH, Xiao T, Xu H, Jiang P, Meyer CA, Li W, Brown M\*, **Liu XS**\*. Improved design and analysis of CRISPR knockout screens. Bioinformatics 2018; PubMed PMID: 29868757 
+- Chen CH, Xiao T, Xu H, Jiang P, Meyer CA, Li W, Brown M\*, **Liu XS**\*. Improved design and analysis of CRISPR knockout screens. Bioinformatics 2018 Dec 1;34(23):4095-4101 
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29868757)
 [[Full Paper]](/resources/publications/Chen_BioInfo_2018.pdf)
-- Hu X, Zhang J, Liu JS, Li B, **Liu XS**.Evaluation of immune repertoire inference methods from RNA-seq data. Nat Biotechnol. 2018. 9;36(11):1034. PubMed PMID: 30412202
+- Hu X, Zhang J, Liu JS, Li B, **Liu XS**.Evaluation of immune repertoire inference methods from RNA-seq data. Nat Biotechnol. 2018 Nov 9;36(11):1034.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30412202)
 [[Full Paper]](/resources/publications/Hu_NatBio_2018.pdf)
-- Jiang P, Gu S, Pan D, Fu J, Sahu A, Hu X, Li Z, Traugh N, Bu X, Li B, Liu J, Freeman GJ, Brown MA, Wucherpfennig KW, **Liu XS**. Signatures of T cell dysfunction and exclusion predict cancer immunotherapy response Nat Med. 2018; PubMed PMID: 30127393 
+- Jiang P, Gu S, Pan D, Fu J, Sahu A, Hu X, Li Z, Traugh N, Bu X, Li B, Liu J, Freeman GJ, Brown MA, Wucherpfennig KW, **Liu XS**. Signatures of T cell dysfunction and exclusion predict cancer immunotherapy response Nat Med. 2018 Oct;24(10):1550-1558
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30127393)
 [[Full Paper]](/resources/publications/Jiang_NatMed_2018.pdf)
-- Cader FZ, Schackmann RCJ, Hu X, Wienand K, Redd R, Chapuy B, Quyang J, Paul N, Gjini E, Lipshitz M, Armand P, Wu D, Fromm JR, Neuberg D, **Liu XS**, Rodig SJ, Shipp MA. Mass cytometry of Hodgkin lymphoma reveals a CD4+ exhausted T-effector and T-regulatory cell rich microenvironment. Blood 2018; PubMed PMID: 29880615
+- Cader FZ, Schackmann RCJ, Hu X, Wienand K, Redd R, Chapuy B, Quyang J, Paul N, Gjini E, Lipshitz M, Armand P, Wu D, Fromm JR, Neuberg D, **Liu XS**, Rodig SJ, Shipp MA. Mass cytometry of Hodgkin lymphoma reveals a CD4+ exhausted T-effector and T-regulatory cell rich microenvironment. Blood 2018 Aug 23;132(8):825-836
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/29880615)
 [[Full Paper]](/resources/publications/Cader_BloodJournal_2018.pdf)
-- Xiao T, Li W, Wang X, Xu H, Yang J, Wu Q, Huang Y, Geradts J, Jiang P, Fei T, Chi D, Zang C, Liao Q, Rennhack J, Andrechek E, Li N, Detre S, Dowsett M, Jeselsohn RM, **Liu XS**, Brown M. Estrogen-regulated feedback loop limits the efficacy of estrogen receptor-targeted breast cancer therapy. Proc Natl Acad Sci U S A. 2018.  31;115(31):7869-7878. PubMed PMID: 29987050
+- Xiao T, Li W, Wang X, Xu H, Yang J, Wu Q, Huang Y, Geradts J, Jiang P, Fei T, Chi D, Zang C, Liao Q, Rennhack J, Andrechek E, Li N, Detre S, Dowsett M, Jeselsohn RM, **Liu XS**, Brown M. Estrogen-regulated feedback loop limits the efficacy of estrogen receptor-targeted breast cancer therapy. Proc Natl Acad Sci U S A. 2018 July 31;115(31):7869-7878. 
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29987050)
 [[Full Paper]](/resources/publications/Xiao_ProcNat_2018.pdf)
-- Jiang P, Sellers W, **Liu, XS**. Big Data Approaches for Modeling Response and Resistance to Cancer Drugs. Annual Review of Biomedical Data Science, 2018 1:1, 1-27
+- Jiang P, Sellers W, **Liu, XS**. Big Data Approaches for Modeling Response and Resistance to Cancer Drugs. Annual Review of Biomedical Data Science. 2018 Jul;1:1-27.
 <br>[[Abstract]](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-080917-013350#abstractSection)
 [[Full Paper]](/resources/publications/big_data_approaches_for_modeling_response_and_resistance_to_cancer_drugs.pdf)
-- Cornwell M\*, Vangala M\*, Taing L\*, Herbert Z, Koster J, Li B, Sun H, Li T, Zhang J, Qiu X, Pun M, Jeselsohn R, Brown M, **Liu XS**, Long HW#. VIPER: Visualization pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis. BMC Bioinformatics 2018;19(1):135. PubMed PMID: 29649993 
+- Cornwell M\*, Vangala M\*, Taing L\*, Herbert Z, Koster J, Li B, Sun H, Li T, Zhang J, Qiu X, Pun M, Jeselsohn R, Brown M, **Liu XS**, Long HW#. VIPER: Visualization pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis. BMC Bioinformatics 2018 Apr 12;19(1):135.  
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29649993)
 [[Full Paper]](/resources/publications/None.pdf)
-- Zhang X, Xiao W, Hu X. Predicting essential proteins by integrating orthology, gene expressions, and PPI networks. PLoS One. 2018 10;13(4):e0195410. PubMed PMID: 29634727
+- Zhang X, Xiao W, Hu X. Predicting essential proteins by integrating orthology, gene expressions, and PPI networks. PLoS One. 2018 Apr 10;13(4):e0195410.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29634727)
 [[Full Paper]](/resources/publications/Zhang_PLOS_2018.pdf)
-- Jiang P, Lee W, Li X, Johnson C, Liu JS, Brown M, Aster JC\*, **Liu XS**\*. Genome-scale signatures of gene interaction from compound screens predict clinical efficacy of targeted cancer therapies. Cell Syst 2018;6(3):343-354. PubMed PMID: 29428415
+- Jiang P, Lee W, Li X, Johnson C, Liu JS, Brown M, Aster JC\*, **Liu XS**\*. Genome-scale signatures of gene interaction from compound screens predict clinical efficacy of targeted cancer therapies. Cell Syst. 2018 Mar 28;6(3):343-354.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29428415)
 [[Full Paper]](/resources/publications/Jiang_OCP_2018.pdf)
-- Sun T, Du SY, Armenia J, Qu F, Fan J, Wang X, Fei T, Komura K. **Liu XS**, Lee GSM, Kantoff PW. Expression of IncRNA MIR222HG co-transcribed from the miR-221/222 gene promoter facilitates the development of castration-resistant prostate cancer. Oncogenesis 2018; 7(3):30. PubMed PMID: 29540675 
+- Sun T, Du SY, Armenia J, Qu F, Fan J, Wang X, Fei T, Komura K. **Liu XS**, Lee GSM, Kantoff PW. Expression of IncRNA MIR222HG co-transcribed from the miR-221/222 gene promoter facilitates the development of castration-resistant prostate cancer. Oncogenesis. 2018 Mar 13;7(3):30.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29540675)
 [[Full Paper]](/resources/publications/Sun_NPG_2018.pdf)
-- Pan D\*, Kobayashi A\*, Jiang P\*, Ferrari de Andrade L, Tay RE, Luoma A, Tsoucas D, Qiu X, Lim K, Rao P, Long HW, Yuan GC, Doench J, Brown M, **Liu XS**#, Wucherpfennig KW#. A major chromatin regulator determines resistance of tumor cells to T cell-mediated killing. Science 2018; 359(6377):770-5. PubMed PMID: 29301958
+- Pan D\*, Kobayashi A\*, Jiang P\*, Ferrari de Andrade L, Tay RE, Luoma A, Tsoucas D, Qiu X, Lim K, Rao P, Long HW, Yuan GC, Doench J, Brown M, **Liu XS**#, Wucherpfennig KW#. A major chromatin regulator determines resistance of tumor cells to T cell-mediated killing. Science. 2018 Feb 16;359(6377):770-5.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29301958)
 [[Full Paper]](/resources/publications/Pan_Science_2018.pdf)
-- Jeselsohn R, Bergholz JS, Pun M, Cornwell M, Liu W, Nardone A, Xiao T, Li W, Qiu X, Buchwalter G, Feiglin A, Abell-Hart K, Fei T, Rao P, Long H, Kwiatkowski N, Zhang T, Gray N, Melchers D, Houtman R, **Liu XS**, Cohen O, Wagle N, WIner EP, Zhao J, Brown M. Allele-specific chromatin recruitment and therapeutic vulnerabilities of ESR1 activating mutations. Cancer Cell 2018;33(2):173-186. PubMed PMID: 29438694
+- Jeselsohn R, Bergholz JS, Pun M, Cornwell M, Liu W, Nardone A, Xiao T, Li W, Qiu X, Buchwalter G, Feiglin A, Abell-Hart K, Fei T, Rao P, Long H, Kwiatkowski N, Zhang T, Gray N, Melchers D, Houtman R, **Liu XS**, Cohen O, Wagle N, WIner EP, Zhao J, Brown M. Allele-specific chromatin recruitment and therapeutic vulnerabilities of ESR1 activating mutations. Cancer Cell. 2018 Feb 12;33(2):173-186.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29438694)
 [[Full Paper]](/resources/publications/Jeselsohn_CellPress_2018.pdf)
-- Chen D, Fang L, Mei S, Li H, Xu X, Des Marais TL, Lu K, **Liu XS**, Jin C. Erratum: Regulation of chromatin assembly and cell transformation by formaldehyde exposure in human cells. Environ Health Perspect 2018;126(1):019001. PubMed PMID: 29326091
+- Chen D, Fang L, Mei S, Li H, Xu X, Des Marais TL, Lu K, **Liu XS**, Jin C. Erratum: Regulation of chromatin assembly and cell transformation by formaldehyde exposure in human cells. Environ Health Perspect. 2018 Jan 3;126(1):019001.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29326091)
 [[Full Paper]](/resources/publications/Chen_EHP_2018.pdf)
 
 ## 2017
-- Chen D, Fang L, Mei S, Li H, Xu X, Des Marais TL, Lu K, **Liu XS**, Jin C. Regulation of chromatin assembly and cell transformation by formaldehyde exposure in human cells. Environ Health Perspect. 2017; 125(9):097019. 
+- Chen D, Fang L, Mei S, Li H, Xu X, Des Marais TL, Lu K, **Liu XS**, Jin C. Regulation of chromatin assembly and cell transformation by formaldehyde exposure in human cells. Environ Health Perspect. 2017 Sep 21;125(9):097019. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28937961)
 [[Full Paper]](/resources/publications/EHP17_097019.pdf)
-- Gao W, Li W, Xiao T, **Liu XS**, Kaelin WG Jr. Inactivation of the PBRM1 tumor suppressor gene amplifies the HIF-response in VHL-/- clear cell renal carcinoma.Proc Natl Acad Sci U S A. 2017; 114(5):1027-1032. 
+- Gao W, Li W, Xiao T, **Liu XS**, Kaelin WG Jr. Inactivation of the PBRM1 tumor suppressor gene amplifies the HIF-response in VHL-/- clear cell renal carcinoma.Proc Natl Acad Sci U S A. 2017 Jan 31;114(5):1027-1032. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28082722)
 [[Full Paper]](/resources/publications/PNAS17_1027.pdf)
-- Li T, Fan J, Wang B, Traugh N, Chen Q, Liu S, Li B\*, **Liu XS**\*. TIMER: A web server for comprehensive analysis of tumor-infiltrating immune cells. Cancer Res2017; 77(21):e108-110. 
+- Li T, Fan J, Wang B, Traugh N, Chen Q, Liu S, Li B\*, **Liu XS**\*. TIMER: A web server for comprehensive analysis of tumor-infiltrating immune cells. Cancer Res. 2017 Nov 1;77(21):e108-110. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/29092952)
 [[Full Paper]](/resources/publications/CancerRes17_e108.pdf)
-- Mei S#, Meyer CA#, Zheng R, Qin Q, Wu Q, Jiang P, Li B, Shi X, Wang B, Fan J, Brown M, Zang C\*, **Liu XS**\*. Cistrome Cancer: a web resource for integrative gene regulation modeling in cancer. Cancer Res 2017; 77(21):e19-22. 
+- Mei S#, Meyer CA#, Zheng R, Qin Q, Wu Q, Jiang P, Li B, Shi X, Wang B, Fan J, Brown M, Zang C\*, **Liu XS**\*. Cistrome Cancer: a web resource for integrative gene regulation modeling in cancer. Cancer Res. 2017 Nov 1;77(21):e19-22. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/29092931)
 [[Full Paper]](/resources/publications/CancerRes17_e19.pdf)
-- Choi SH, Severson E, Pear WS, **Liu XS**, Aster JC, Blacklow SC. The common oncogenomic program of NOTCH1 and NOTCH3 signaling in T-cell acute lymphoblastic leukemia. PLoSOne 2017; 12(10):e0185762.
+- Choi SH, Severson E, Pear WS, **Liu XS**, Aster JC, Blacklow SC. The common oncogenomic program of NOTCH1 and NOTCH3 signaling in T-cell acute lymphoblastic leukemia. PLoSOne. 2017 Oct 12;12(10):e0185762.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/29023469)
 [[Full Paper]](/resources/publications/PLosOne17_185762.pdf)
-- Severson E, Arnett KL, Wang H, Zang C Taing L, Liu H, Pear WS, **Liu XS**, Blacklow SC, Aster JC. Genome-wide identification and characterization of Notch transcription complex-binding sequence-paired sites in leukemia cells. SciSignal 2017; 10:eaag1598.
+- Severson E, Arnett KL, Wang H, Zang C Taing L, Liu H, Pear WS, **Liu XS**, Blacklow SC, Aster JC. Genome-wide identification and characterization of Notch transcription complex-binding sequence-paired sites in leukemia cells. SciSignal. 2017 May 2;10(477).pil:eaag1598.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28465412)
 [[Full Paper]](/resources/publications/SciSignal17_eaag.pdf)
-- Carey CD, Gusenleitner D, Lipschitz M, Roemer MGM, Stack EC, Gjini E, Hu X, Redd R, Freeman GJ, Neuberg D, Hodi FS, **Liu XS**, Shipp MA, Rodig SJ. Topological analysis reveals a PD-L1 associated microenvironmental niche for Reed-Sternberg cells in Hodgkin Lymphoma. Blood 2017; Sept 11, epub 
+- Carey CD, Gusenleitner D, Lipschitz M, Roemer MGM, Stack EC, Gjini E, Hu X, Redd R, Freeman GJ, Neuberg D, Hodi FS, **Liu XS**, Shipp MA, Rodig SJ. Topological analysis reveals a PD-L1 associated microenvironmental niche for Reed-Sternberg cells in Hodgkin Lymphoma. Blood. 2017 Nov 30;130(22):2420-2430. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28893733)
 [[Full Paper]](/resources/publications/Blood17_Sept11.pdf)
-- Cao Q, Ma J, Chen C-H, Xu H, Chen Z\*, Li W\*, **Liu XS**\*. CRISPR-FOCUS: a web server for designing focused CRISPR screening experiments. PLoS One 2017; 12(9):e0184281.
+- Cao Q, Ma J, Chen C-H, Xu H, Chen Z\*, Li W\*, **Liu XS**\*. CRISPR-FOCUS: a web server for designing focused CRISPR screening experiments. PLoS One. 2017 Sep 5;12(9):e0184281.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28873439)
 [[Full Paper]](/resources/publications/PLosOne17_184281.pdf)
-- Li B, Liu JS\*, **Liu XS**\*. Revisit linear regression-based deconvolution methods for tumor gene expression data. Genome Biology 2017; 18:127.
+- Li B, Liu JS\*, **Liu XS**\*. Revisit linear regression-based deconvolution methods for tumor gene expression data. Genome Biology. 2017 Jul 15;18(1):127.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28679386)
 [[Full Paper]](/resources/publications/GenomeBiol17_127.pdf)
-- Fei T, Chen Y, Xiao T, Li W, Cato L, Zhang P, Cotter MB, Bowden M, Lis RT, Zhao SG, Wu Q, Feng FY, Loda M, He HH, **Liu XS** Brown M. Genome-wide CRISPR screen idetifies HNRNPL as a prostate cancer dependecy regulating RNA splicing. PNAS 2017; E5207-E5215.
+- Fei T, Chen Y, Xiao T, Li W, Cato L, Zhang P, Cotter MB, Bowden M, Lis RT, Zhao SG, Wu Q, Feng FY, Loda M, He HH, **Liu XS** Brown M. Genome-wide CRISPR screen idetifies HNRNPL as a prostate cancer dependecy regulating RNA splicing. PNAS. 2017 Jun 27;114(26):E5207-E5215.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28611215)
 [[Full Paper]](/resources/publications/PNAS17_E5207.pdf)
-- Huang T#, Zhang P#, Li W#, Zhao T, Zhang Z, Chen S, Yang Y, Feng Y, Li F, **Liu XS**, Jiang G, Zhang F\*. G91 promotes tumor cell growth and invasion by silencing CASP1 in non-small-cell lung cancer cells. Cell Death Dis 2017; 8(4):e2726.
+- Huang T#, Zhang P#, Li W#, Zhao T, Zhang Z, Chen S, Yang Y, Feng Y, Li F, **Liu XS**, Jiang G, Zhang F\*. G91 promotes tumor cell growth and invasion by silencing CASP1 in non-small-cell lung cancer cells. Cell Death Dis. 2017 Apr 6;8(4):e2726.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28383547)
 [[Full Paper]](/resources/publications/CellDeathDis17_e2726.pdf)
-- Li MJ, Zhang J, Liang Q, Xuan C, Wu J, Jiang P, Li W, Zhu Y, Wang P, Fernandez D, Shen Y, Chen Y, Kocher JA, Yu Y, Sham PC, Wang J\*, Wang Liu JS\*, **Liu XS**\*. Exploring genetic associations with ceRNA regulation in the human genome. Nucleic Acids Res 2017; May 2. doi 10.1093/nar/gkx331.
+- Li MJ, Zhang J, Liang Q, Xuan C, Wu J, Jiang P, Li W, Zhu Y, Wang P, Fernandez D, Shen Y, Chen Y, Kocher JA, Yu Y, Sham PC, Wang J\*, Wang Liu JS\*, **Liu XS**\*. Exploring genetic associations with ceRNA regulation in the human genome. Nucleic Acids Res. 2017 Jun 2;45(10):5653-5665.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28472449)
 [[Full Paper]](/resources/publications/NucleicAcidsRes17_May2.pdf)
-- Liu Y#, Chen S#, Wang S, Soares F, Fischer M, Meng F, Du Z, Lin C, Meyer C, DeCaprio JA, Brown M\*, **Liu XS**\*, He HH. Transcriptional landscape of the human cell cycle. PNAS USA 2017; Mar13
+- Liu Y#, Chen S#, Wang S, Soares F, Fischer M, Meng F, Du Z, Lin C, Meyer C, DeCaprio JA, Brown M\*, **Liu XS**\*, He HH. Transcriptional landscape of the human cell cycle. PNAS USA. 2017 Mar 28;114(113):3473-3478.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28289232)
 [[Full Paper]](/resources/publications/PNAS17_Mar13.pdf)
-- **Liu XS**\*, Mardis ER\*. Applications of immunogenomics to cancer. Cell 2017; 168(4): 600-612 
+- **Liu XS**\*, Mardis ER\*. Applications of immunogenomics to cancer. Cell. 2017 Feb 9;168(4):600-612. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28187283)
 [[Full Paper]](/resources/publications/Cell17_600.pdf)
-- Li B\*, Li T, Wang B, Dou R, Zhang J, Liu JS, **Liu XS**\*. Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data. Nat Genet2017; 49(4):482-3.
+- Li B\*, Li T, Wang B, Dou R, Zhang J, Liu JS, **Liu XS**\*. Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data. Nat Genet. 2017 Mar30;49(4):482-483.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/28358132)
 [[Full Paper]](/resources/publications/NatGenet17_482.pdf)
-
-## 2016
-- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Yang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*.Addendum: REST and stress resistance in ageing and Alzheimer’s disease. Nature 2016; November 16. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27851730)
-[[Corrections and Amendments]](/resources/publications/Nature16_Addendumto14_448.pdf)
-- Mei S#, Qin Q#, Wu Q#, Sun H, Zhen R, Zang C, Zhu M, Wu J, Shi X, Taing L, Liu T, Brown M, Meyer CA\*, **Liu XS**\*. Cistrome data browser: a data portal for ChIP-Seq and chromatin accessibility data in human and mouse. Nucleic Acids Res 2016; Oct 26. Pii:gkw983 
+- Mei S#, Qin Q#, Wu Q#, Sun H, Zhen R, Zang C, Zhu M, Wu J, Shi X, Taing L, Liu T, Brown M, Meyer CA\*, **Liu XS**\*. Cistrome data browser: a data portal for ChIP-Seq and chromatin accessibility data in human and mouse. Nucleic Acids Res. 2017 Jan 4;45(D1):D658-D662. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27789702)
 [[Full Paper]](/resources/publications/NucleicAcidsRes16_Oct26.pdf)
-- Wang S#, Zang C#, Xiao T, Fan J, Mei S, Qin Q, Wu Q , Li XJ, Xu K, He HH, Brown M, Meyer CA\*, **Liu XS**\*. Modeling cis-regulation with a compendium of genome-wide histone H3K27ac profiles. Genome Res 2016; Jul 27. 
+
+## 2016
+- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Yang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*.Addendum: REST and stress resistance in ageing and Alzheimer’s disease. Nature. 2016 Dec 15;540(7633):470. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27851730)
+[[Corrections and Amendments]](/resources/publications/Nature16_Addendumto14_448.pdf)
+- Wang S#, Zang C#, Xiao T, Fan J, Mei S, Qin Q, Wu Q , Li XJ, Xu K, He HH, Brown M, Meyer CA\*, **Liu XS**\*. Modeling cis-regulation with a compendium of genome-wide histone H3K27ac profiles. Genome Res. 2016 Oct;26(10)1417-1429. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27466232)
 [[Full Paper]](/resources/publications/GenomeRes16_Jul27.pdf)
-- Ni T#, Li XY#, Lu N#, An T, Liu Zp, Fu R, Zhang YW, Xu XJ, Grant Rowe R, Lin YS, Scherer A, Feinberg T, Zhen XQ, Chen BA, **Liu XS**, Guo QL, Wu ZQ\*, Weiss SJ\*. Snail1-dependent p53 repression regulates expansion and activity of tumour-initiating cells in breast cancer. Nat Cell Biol 2016; 18(11):1221-32.
+- Ni T#, Li XY#, Lu N#, An T, Liu Zp, Fu R, Zhang YW, Xu XJ, Grant Rowe R, Lin YS, Scherer A, Feinberg T, Zhen XQ, Chen BA, **Liu XS**, Guo QL, Wu ZQ\*, Weiss SJ\*. Snail1-dependent p53 repression regulates expansion and activity of tumour-initiating cells in breast cancer. Nat Cell Biol. 2016 Nov;18(11):1221-1232.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27749822)
 [[Full Paper]](/resources/publications/NatureCellBiol16_1221.pdf)
-- Ma J, Koster J, Qin Q, Hu S, Li W, Chen C, Cao Q, Wang J, Mei S, Liu Q\*, Xu H\*, **Liu XS**\* . CRISPR-DO for genome-wide CRISPR design and optimization.Bioinformatics 2016; 32(21):3336-38. 
+- Ma J, Koster J, Qin Q, Hu S, Li W, Chen C, Cao Q, Wang J, Mei S, Liu Q\*, Xu H\*, **Liu XS**\* . CRISPR-DO for genome-wide CRISPR design and optimization.Bioinformatics. 2016 Nov 1;32(21):3336-38. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27402906)
 [[Full Paper]](/resources/publications/Bioinformatics16_32.pdf)
-- Zhu S#, Li W#, Liu J, Chen CH Liao Q, Xu P, Xu H, Xiao T, Cao Z, Peng J, Yuan P, Brown M, **Liu XS**\*, Wei W\*. Genome-scale deletion screening of human long non-coding RNAs using a paired-guide RNA CRISPR-Cas9 library. Nature Biotech 2016; 34(12):1279-86. 
+- Zhu S#, Li W#, Liu J, Chen CH Liao Q, Xu P, Xu H, Xiao T, Cao Z, Peng J, Yuan P, Brown M, **Liu XS**\*, Wei W\*. Genome-scale deletion screening of human long non-coding RNAs using a paired-guide RNA CRISPR-Cas9 library. Nature Biotech. 2016 Dec;34(12):1279-86. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27798563)
 [[Full Paper]](/resources/publications/NatBiotech16_1279.pdf)
-- Qin Q#, Mei S#, Wu Q#, Sun H, Li L, Taing L, Chen S, Li F, Liu T, Zang C, Xu H, Chen Y, Meyer CA, Zhang Y, Brown M, Long HW\*, **Liu XS**\*. ChiLin: a comprehensive ChIP-seq and DNase -seq quality control and analysis pipeline. BMC Bioinformatics 2016; 17(1):404. 
+- Qin Q#, Mei S#, Wu Q#, Sun H, Li L, Taing L, Chen S, Li F, Liu T, Zang C, Xu H, Chen Y, Meyer CA, Zhang Y, Brown M, Long HW\*, **Liu XS**\*. ChiLin: a comprehensive ChIP-seq and DNase -seq quality control and analysis pipeline. BMC Bioinformatics. 2016 Oct 3;17(1):404. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27716038)
 [[Full Paper]](/resources/publications/BMCBioinformatics16_404.pdf)
-- Zang C#, Luyten A#, Chen J, **Liu XS**. Shivdasani RA\*. NF-E2, FLI1 and RUNX1 collaborate at areas of dynamic chromatin to activate transcription in mature mouse megakaryocytes. Sci Rep 2016; Jul 26; 6:30255. 
+- Zang C#, Luyten A#, Chen J, **Liu XS**. Shivdasani RA\*. NF-E2, FLI1 and RUNX1 collaborate at areas of dynamic chromatin to activate transcription in mature mouse megakaryocytes. Sci Rep. 2016 Jul 26;6:30255. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27457419)
 [[Full Paper]](/resources/publications/srep16_30255.pdf)
-- Li B, Severson E, Pignon JC, Zhao H, Li T, Novak J, Jiang P, Shen H, Aster JC, Rodig S, Signoretti S, Liu JS\*, **Liu XS**\*. Comprehensive analyses of tumor immunity: implications for cancer immunotherapy. Genome Biol 2016; 17:174. 
+- Li B, Severson E, Pignon JC, Zhao H, Li T, Novak J, Jiang P, Shen H, Aster JC, Rodig S, Signoretti S, Liu JS\*, **Liu XS**\*. Comprehensive analyses of tumor immunity: implications for cancer immunotherapy. Genome Biol. 2016 Aug 22;17(1):174. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27549193)
 [[Full Paper]](/resources/publications/GenomeBiol16_174.pdf)
-- Li B#, Li T#, Pignon JC, Wang B, Wang J, Shukla SA, Dou R, Chen Q, Hodi FS, Choueiri TK, Wu C, Hacohen N, Signoretti S, Liu JS\*, **Liu XS**\*. Landscape of tumor-infiltrating T cell repertoire of human cancers. Nat Genet 2016; 48(7):725-32. 
+- Li B#, Li T#, Pignon JC, Wang B, Wang J, Shukla SA, Dou R, Chen Q, Hodi FS, Choueiri TK, Wu C, Hacohen N, Signoretti S, Liu JS\*, **Liu XS**\*. Landscape of tumor-infiltrating T cell repertoire of human cancers. Nat Genet. 2016 Jul;48(7):725-32. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27240091)
 [[Full Paper]](/resources/publications/NatGenet16_725.pdf)
-- Cejas P, Li L, O’Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, Garcia-Olmo D, Bellmunt J, Mullane S, Hirsch M, Sweeney CJ, Richardson A, **Liu XS**, Brown M, Shivdasani RA\*, Long HW\*. Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles. Nat Med 2016; 22(6):685-91. 
+- Cejas P, Li L, O’Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, Garcia-Olmo D, Bellmunt J, Mullane S, Hirsch M, Sweeney CJ, Richardson A, **Liu XS**, Brown M, Shivdasani RA\*, Long HW\*. Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles. Nat Med. 2016 Jun;22(6):685-91. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27111282)
 [[Full Paper]](/resources/publications/NatMed16_685.pdf)
-- Zang C#, Wang T#, Deng K, Li B, Hu S, Qin Q, Xiao T, Zhang S, **Meyer CA**, He HH, Brown M, Liu JS, Xie Y\*, **Liu XS**\*. High-dimensional genomic data bias correction and data integration using MANCIE. Nat Commun 2016; Apr 13;7:11305. 
+- Zang C#, Wang T#, Deng K, Li B, Hu S, Qin Q, Xiao T, Zhang S, **Meyer CA**, He HH, Brown M, Liu JS, Xie Y\*, **Liu XS**\*. High-dimensional genomic data bias correction and data integration using MANCIE. Nat Commun. 2016 Apr 13;7:11305. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27072482)
 [[Full Paper]](/resources/publications/NatCommun16_11305.pdf)
-- Kong L#, Zhang P#, Li W, Yang Y, Tian Y, Wang X, Chen S, Yang Y, Huang T, Zhao T, Tang L, Su B, Li F, **Liu XS**, Zhang F\*. KDM1A promotes tumor cell invasion by silencing TIMP3 in non-small cell lung cancer cells. Oncotarget 2016; 7(19):27959-74. 
+- Kong L#, Zhang P#, Li W, Yang Y, Tian Y, Wang X, Chen S, Yang Y, Huang T, Zhao T, Tang L, Su B, Li F, **Liu XS**, Zhang F\*. KDM1A promotes tumor cell invasion by silencing TIMP3 in non-small cell lung cancer cells. Oncotarget. 2016 May 10;7(19):27959-74. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27058897)
 [[Full Paper]](/resources/publications/Oncotarget16_27959.pdf)
-- Goel S\*, Wang Q, Watt AC, Tolaney SM, Dillon DA, Li W, Ramm S, Palmer AC, Yuzugullu H, Varadan V, Tuck D, Harris LN, Wong KK, **Liu XS**, Sicinski P, Winer EP, Krop IE, Zhao JJ\*. Overcoming therapeutic resistance in HER2-positive breast cancers with CDK4/6 inhibitors. Cancer Cell 2016; 29(3):255-69. 
+- Goel S\*, Wang Q, Watt AC, Tolaney SM, Dillon DA, Li W, Ramm S, Palmer AC, Yuzugullu H, Varadan V, Tuck D, Harris LN, Wong KK, **Liu XS**, Sicinski P, Winer EP, Krop IE, Zhao JJ\*. Overcoming therapeutic resistance in HER2-positive breast cancers with CDK4/6 inhibitors. Cancer Cell. 2016 Mar 14;29(3):255-269. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26977878)
 [[Full Paper]](/resources/publications/CancerCell16_255.pdf)
-- Du Z#, Sun T#, Hacisuleyman E, Fei T, Wang X, Brown M, Rinn JL, Lee MG, Chen Y\*, Kantoff PW\*, **Liu XS**\*. Integrative analyses reveal a long noncoding RNA-mediated sponge regulatory network in prostate cancer. Nat Commun 2016; 6:10982. 
+- Du Z#, Sun T#, Hacisuleyman E, Fei T, Wang X, Brown M, Rinn JL, Lee MG, Chen Y\*, Kantoff PW\*, **Liu XS**\*. Integrative analyses reveal a long noncoding RNA-mediated sponge regulatory network in prostate cancer. Nat Commun. 2016 Mar 15;7:10982. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26975529)
 [[Full Paper]](/resources/publications/NatCommun16_10982.pdf)
-- Liu Y, Fei T, Zheng X, Brown M, Zhang P\*, **Liu XS**\*, Wang H\*. An integrative pharmacogenomic approach identifies two-drug combination therapies for personalized cancer medicine. Sci Rep 2016; 6:22120. 
+- Liu Y, Fei T, Zheng X, Brown M, Zhang P\*, **Liu XS**\*, Wang H\*. An integrative pharmacogenomic approach identifies two-drug combination therapies for personalized cancer medicine. Sci Rep. 2016 Feb 26;6:22120. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26916442)
 [[Full Paper]](/resources/publications/SciRep16_22120.pdf)
-- Shu S#, Lin CY#, He HH#, Witwicki RM#, Tabassum DP, Roberts JM, Janiszewska M, Huh SJ, Liang Y, Ryan J, Doherty E, Mohammed H, Guo H, Stover DG, Ekram MB, Peluffo G, Brown J, D’Santos C, Krop IE, Dillong D, McKeown M, Ott C, Qi J, Ni M, Rao PK, Duarte M, Wu SY, Chiang CM, Anders L, Young RA, Winer EP, Letai A, Barry WT, Carroll JS, Long HW, Brown M, **Liu XS**, **Meyer CA**, Bradner JE\*, Polyak K\*. Response and resistance to BET bromodomain inhibitors in triple-negative breast cancer. Nature 2016; 529(7586):413-7. 
+- Shu S#, Lin CY#, He HH#, Witwicki RM#, Tabassum DP, Roberts JM, Janiszewska M, Huh SJ, Liang Y, Ryan J, Doherty E, Mohammed H, Guo H, Stover DG, Ekram MB, Peluffo G, Brown J, D’Santos C, Krop IE, Dillong D, McKeown M, Ott C, Qi J, Ni M, Rao PK, Duarte M, Wu SY, Chiang CM, Anders L, Young RA, Winer EP, Letai A, Barry WT, Carroll JS, Long HW, Brown M, **Liu XS**, Meyer CA, Bradner JE\*, Polyak K\*. Response and resistance to BET bromodomain inhibitors in triple-negative breast cancer. Nature. 2016 Jan 21;529(7586):413-7. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26735014)
 [[Full Paper]](/resources/publications/Nature16_413.pdf)
-- Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, Hu S, Li F, Long H, Brown M\*, **Liu XS**\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. Mol Cancer Res 2016; 14(2):163-72. 
+- Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, Hu S, Li F, Long H, Brown M\*, **Liu XS**\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. Mol Cancer Res. 2016 Feb;14(2):163-72. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26659825)
 [[Full Paper]](/resources/publications/MolCancerRes16_163.pdf)
 
 ## 2015
-- Du Z, Fei T, Brown M, **Liu XS**, Chen Y. Data integration on noncoding RNA Studies. Chapter in: Tseng G, Ghosh D, Zhou XJ, eds. Integrating Omics Data.Cambridge University Press: Cambridge, England. Sept 2015: 403-424. 
+- Du Z, Fei T, Brown M, **Liu XS**, Chen Y. Data integration on noncoding RNA Studies. Chapter in: Tseng G, Ghosh D, Zhou XJ, eds. Integrating Omics Data.Cambridge University Press: Cambridge, England. Sep 2015: 403-424. 
 <br>[[Full Chapter]](/resources/publications/2015_IntegratingOmicsData_Chapter.pdf)
-- Li W#, Koster J#, Xu H, Chen CH, Xiao T, Liu JS, Brown M\*, **Liu XS**\*. Quality control, modeling and visualization of CRISPR screens with MAGeCK-VISPR. Genome Biol 2015; 16(1):281.
+- Li W#, Koster J#, Xu H, Chen CH, Xiao T, Liu JS, Brown M\*, **Liu XS**\*. Quality control, modeling and visualization of CRISPR screens with MAGeCK-VISPR. Genome Biol. 2015 Dec 16;16(1):281.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26673418)
 [[Full Paper]](/resources/publications/GenomeBiol15_281.pdf)
-- Jiang P, Wang H, Li W, Zang C, Li B, Wong YJ, Meyer C, Liu JS, Aster JC, **Liu XS**\*. Network analysis of gene essentiality in functional genomics experiments. Genome Biol epub_Oct 30.
+- Jiang P, Wang H, Li W, Zang C, Li B, Wong YJ, Meyer C, Liu JS, Aster JC, **Liu XS**\*. Network analysis of gene essentiality in functional genomics experiments. Genome Biol. 2015 Oct 30;16:239.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26518695)
 [[Full Paper]](/resources/publications/GenomeBiol15_239.pdf)
-- Zhang J#, Wang C#, Chen X, Takada M, Fan C, Zheng X, Wen H, Liu Y, Wang C, Pestell RG, Aird KM, Kaelin WG Jr **Liu XS**, Zhang Q\*. EgIN2 associates with NFR-1PGC1a omplex and controls mitochondrial function in breast cancer. EMBO J. epub_Oct 22.
+- Zhang J#, Wang C#, Chen X, Takada M, Fan C, Zheng X, Wen H, Liu Y, Wang C, Pestell RG, Aird KM, Kaelin WG Jr **Liu XS**, Zhang Q\*. EgIN2 associates with NFR-1PGC1a omplex and controls mitochondrial function in breast cancer. EMBO J. 2015 Dec 2;34(23):2953-70.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26492917)
 [[Full Paper]](/resources/publications/EMBO15_Octepub.pdf)
-- Zhang N#, Wang H#, Fang Y, Wang J\*, Zheng X\*, **Liu XS**\*. Predicting anticancer drug responses using a dual-layer integrated cell line-drug network model. PLOS Computational Biology. 2015;doi:10.1371/100498_Sept 29.
+- Zhang N#, Wang H#, Fang Y, Wang J\*, Zheng X\*, **Liu XS**\*. Predicting anticancer drug responses using a dual-layer integrated cell line-drug network model. PLOS Computational Biology. 2015 Sep 29;11(9):e1004498.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26418249)
 [[Full Paper]](/resources/publications/PLoSComputationalBiology15_1004498.pdf)
-- Xu H#, Xiao T#, Chen CH, Meyer CA, Wu Q, Wu D, Cong L, Zhang F, Liu JS, Brown M\*, **Liu XS**\*. Sequence determinants of improved CRISPR sgRNA design. Genome Res. 2015;25:(8)1147-57.
+- Xu H#, Xiao T#, Chen CH, Meyer CA, Wu Q, Wu D, Cong L, Zhang F, Liu JS, Brown M\*, **Liu XS**\*. Sequence determinants of improved CRISPR sgRNA design. Genome Res. 2015 Aug;25:(8)1147-57.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26063738)
 [[Full Paper]](/resources/publications/GenomeRes15_1147.pdf)
-- Fei Q#, Yang X#, Jiang H, Wang Q, Yu Y, Yu Y, Yi W, Zhou S, Chen T, Lu C, Atadja P, **Liu XS**, Li E, Zhang Y\*, Shou J\*. SETDB1 modulates PRC2 activity at developmental genes independently of H3K9 trimethylation in mouse ES cells. Genome Res. 2015.
+- Fei Q#, Yang X#, Jiang H, Wang Q, Yu Y, Yu Y, Yi W, Zhou S, Chen T, Lu C, Atadja P, **Liu XS**, Li E, Zhang Y\*, Shou J\*. SETDB1 modulates PRC2 activity at developmental genes independently of H3K9 trimethylation in mouse ES cells. Genome Res. 2015 Sep;25(9):1325-35.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26160163)
 [[Full Paper]](/resources/publications/GenomeRes15_Jul9.pdf)
-- Jiang P, Freedman ML, Liu JS, **Liu XS**\*. Inference of transcriptional regulation in cancers. PNAS 2015; doi/10.1073.
+- Jiang P, Freedman ML, Liu JS, **Liu XS**\*. Inference of transcriptional regulation in cancers. PNAS. 2015 Jun 23;112(25):7731-6.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26056275)
 [[Full Paper]](/resources/publications/pnas15_doi_10.1073.pdf)
-- Jiang P, **Liu XS**\*. Big data mining yields novel insights on cancer. Nature Genetics 2015; 47(2):103-4.
+- Jiang P, **Liu XS**\*. Big data mining yields novel insights on cancer. Nature Genetics. 2015 Feb;47(2):103-4.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25627899)
 [[Full Paper]](/resources/publications/NatGen15_103.pdf)
-- Wang H, Zang C, **Liu XS**., Aster JC\*. The role of notch receptors in transcriptional regulation. J Cell Physiol 2015; 230(5):982-8. PMCID:PMC4442318
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/%2025418913)
+- Wang H, Zang C, **Liu XS**., Aster JC\*. The role of notch receptors in transcriptional regulation. J Cell Physiol. 2015 May;230(5):982-8.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25418913)
 [[Full Paper]](/resources/publications/JCellPhysiol15_982.pdf)
 
 ## 2014
-- Zhang Y#,\*, Vastenhouw NL#,\*, Feng J, Fu K, Wang C, Ge Y, van Hummelen P, Schier AF\*, **Liu XS**\*. Canonical nucleosome organization at promoters forms during genome activation. Genome Res 2014; 24(2):260-6. PMCID:PMC3912416
+- Zhang Y#,\*, Vastenhouw NL#,\*, Feng J, Fu K, Wang C, Ge Y, van Hummelen P, Schier AF\*, **Liu XS**\*. Canonical nucleosome organization at promoters forms during genome activation. Genome Res. 2014 Feb;24(2):260-6. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24285721)
 [[Full Paper]](/resources/publications/GenomeRes14_260.pdf)
-- Wang Q#, Huang J#, Sun H#, Liu J, Wang J, Wang Q, Qin Q, Mei S, Zhao C, Yang X, **Liu XS**\*, Zhang Y\*. CR Cistrome: a ChIP-Seq database for chromatin regulators and histone modification linkages in human and mouse. Nucl Acids Res 2014; 42:D450-8. PMCID:PMC3965064
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/%2024253304)
+- Wang Q#, Huang J#, Sun H#, Liu J, Wang J, Wang Q, Qin Q, Mei S, Zhao C, Yang X, **Liu XS**\*, Zhang Y\*. CR Cistrome: a ChIP-Seq database for chromatin regulators and histone modification linkages in human and mouse. Nucl Acids Res. 2014 Jan;42:D450-8.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24253304)
 [[Full Paper]](/resources/publications/NucleicAcidsRes14_D450.pdf)
-- Sun T, Wang X, He HH, Sweeney CJ, **Liu XS**, Brown M, Balk S, Lee GS\*, Kantoff PW\*. MiR-221 promotes the development of androgen independence in prostate cancer cells via downregulation of HECTD2 and RAB1A. Oncogene 2014; 33(21):2790-80. PMCID:PMC3883998
+- Sun T, Wang X, He HH, Sweeney CJ, **Liu XS**, Brown M, Balk S, Lee GS\*, Kantoff PW\*. MiR-221 promotes the development of androgen independence in prostate cancer cells via downregulation of HECTD2 and RAB1A. Oncogene. 2014 May 22;33(21):2790-80.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/23770851)
 [[Full Paper]](/resources/publications/Oncogene14_2790.pdf)
-- Wang H#, Zang C#, Taing L, Arnett K, Wong YJ, Pear WS, Blacklow SC, **Liu XS**\*, Aster JC\*. NOTCH1/RBPJ complexes drive target gene expression through dynamic interactions with super-enhancers. PNAS 2014; 111(2):705-10. PMCID:PMC3896193
+- Wang H#, Zang C#, Taing L, Arnett K, Wong YJ, Pear WS, Blacklow SC, **Liu XS**\*, Aster JC\*. NOTCH1/RBPJ complexes drive target gene expression through dynamic interactions with super-enhancers. PNAS. 2014 Jan 14;111(2):705-10. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24374627)
 [[Full Paper]](/resources/publications/PNAS14_705.pdf)
-- Wee S, Dhanak D, Li H, Armstrong SC, Copeland RA, Sims R,Baylin SB, **Liu XS**, Schweizer L\*. Targeting epigenetic regulators for cancer therapy. Annals NYAS2014; 30-6.
+- Wee S, Dhanak D, Li H, Armstrong SC, Copeland RA, Sims R,Baylin SB, **Liu XS**, Schweizer L\*. Targeting epigenetic regulators for cancer therapy. Annals NYAS. 2014 Feb;1309:30-6.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24571255)
 [[Full Paper]](/resources/publications/NYAS14_30.pdf)
-- Watanabe H#, Ma Q#, Peng S, Adelmant G, Swain D, Song W, Fox C, Francis JM, Pedamallu CS, Deluca DS, Brooks AN, Wang S, Que J, Rustgi AK, Wong KK, Ligon KL, **Liu XS**, Marto JA, Meyerson M, Bass AJ\*. SOX2 and p63 colocalize at genetic loci in squamous cell carcinomas. J Clin Invest 2014; 124(4):1636-45. PMCID:PMC3973117
+- Watanabe H#, Ma Q#, Peng S, Adelmant G, Swain D, Song W, Fox C, Francis JM, Pedamallu CS, Deluca DS, Brooks AN, Wang S, Que J, Rustgi AK, Wong KK, Ligon KL, **Liu XS**, Marto JA, Meyerson M, Bass AJ\*. SOX2 and p63 colocalize at genetic loci in squamous cell carcinomas. J Clin Invest. 2014 Apr;124(4):1636-45.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24590290)
 [[Full Paper]](/resources/publications/JClinInvest14_Mar3.pdf)
-- Chen X, Iliopoulos D, Zhang Q, Tang Q, Greeenblatt MB, Hatziapostolou M, Ni M, Chen Y, Lim E, Hu DZ, Hu B, Song M, Brown M, **Liu XS**, Glimcher LH\*. XBP1 sustains tumor initiating cells in triple negative breast cancer by controlling the hypoxia response. Nature 2014; 508(7494):103-7. PMCID:PMC41505133
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/2467064)
+- Chen X, Iliopoulos D, Zhang Q, Tang Q, Greeenblatt MB, Hatziapostolou M, Ni M, Chen Y, Lim E, Hu DZ, Hu B, Song M, Brown M, **Liu XS**, Glimcher LH\*. XBP1 sustains tumor initiating cells in triple negative breast cancer by controlling the hypoxia response. Nature. 2014 Apr 3;508(7494):103-7.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24670641)
 [[Full Paper]](/resources/publications/Nature14_103.pdf)
-- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Tang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*. REST and stress resistance in ageing and Alzheimer’s disease. Nature 2014; 507(7493):448-54. PMCID:PMC4110979
+- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Tang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*. REST and stress resistance in ageing and Alzheimer’s disease. Nature. 2014 Mar 27;507(7493):448-54.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24670762)
 [[Full Paper]](/resources/publications/Nature14_448.pdf)
-- Yamamoto S#, Wu Z#, Russnes HG, Takagi S, Peluffo G, Vaske C, Zhao X, Moen Vollan HK, Maruyama R, Ekram MB, Sun H, Kim JH, Carver K, Zucca M, Feng J, Almendro V, Bessarabova M, Rueda OM, Nikolsky Y, Caldas C, **Liu XS**, Polyak K\*. JARID1B is a luminal lineage-driving oncogene in breast cancer. Cancer Cell2014; 25(6):762-77. PMCID:PMC4079039
+- Yamamoto S#, Wu Z#, Russnes HG, Takagi S, Peluffo G, Vaske C, Zhao X, Moen Vollan HK, Maruyama R, Ekram MB, Sun H, Kim JH, Carver K, Zucca M, Feng J, Almendro V, Bessarabova M, Rueda OM, Nikolsky Y, Caldas C, **Liu XS**, Polyak K\*. JARID1B is a luminal lineage-driving oncogene in breast cancer. Cancer Cell. 2014 Jun 16;25(6):762-77.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24937458)
 [[Full Paper]](/resources/publications/CancerCell14_762.pdf)
-- Hsieh CL, Fei T, Chen Y, Li T, Gao Y, Wang X, Sun T, Sweeney CJ, Lee GS, Chen S, Balk SP, **Liu XS**, Brown M, Kantoff PW\*. Enchancer RNAs participate in androgen receptor-driven looping that selectively enhances gene activation. Proc Natl Acad Sci USA 2014; 111(20):7319-24. PMCID:PMC4034202
+- Hsieh CL, Fei T, Chen Y, Li T, Gao Y, Wang X, Sun T, Sweeney CJ, Lee GS, Chen S, Balk SP, **Liu XS**, Brown M, Kantoff PW\*. Enchancer RNAs participate in androgen receptor-driven looping that selectively enhances gene activation. Proc Natl Acad Sci USA. 2014 May 20;111(20):7319-24.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24778216)
 [[Full Paper]](/resources/publications/PNAS14_7319.pdf)
-- Wang J, Lin X, Wang S, Wang C, Wang Q, Duan X, Lu P, Wang Q, Wang C, **Liu XS**, Huang J\*. PHF8 and REST/NRSF co-occupy gene promoters to regulate proximal gene expression. Sci Rep 2014; 4:5508. PMCID:PMC4031473
+- Wang J, Lin X, Wang S, Wang C, Wang Q, Duan X, Lu P, Wang Q, Wang C, **Liu XS**, Huang J\*. PHF8 and REST/NRSF co-occupy gene promoters to regulate proximal gene expression. Sci Rep. 2014 May 23;4:5508.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24852203)
 [[Full Paper]](/resources/publications/SciRep14_5008.pdf)
-- Zheng X#, Zhao Q#, Wu HJ#, Li W, Wang H, Meyer CA, Qin QA, Xu H, Zang C, Jiang P, Li F, Hou Y, He J, Wang J, Wang J, Zhang P\*, Zhang Y\*, **Liu XS**\*. MethylPurify:tumor purity deconvolution and differential methylation detecton from single tumor DNA methylomes. Genome Biol 2014; 15(8):419. PMCID:PMC4165374.
+- Zheng X#, Zhao Q#, Wu HJ#, Li W, Wang H, Meyer CA, Qin QA, Xu H, Zang C, Jiang P, Li F, Hou Y, He J, Wang J, Wang J, Zhang P\*, Zhang Y\*, **Liu XS**\*. MethylPurify:tumor purity deconvolution and differential methylation detecton from single tumor DNA methylomes. Genome Biol. 2014 Aug 7;15(8):419.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25103624)
 [[Full Paper]](/resources/publications/GenomeBiol14_419.pdf)
-- Meyer CA\*, **Liu XS**\* . Identifying and mitigating bias in next-generation sequencing methods for chromatin biology. Nat Rev Genet 2014; 15(11):709-21.
+- Meyer CA\*, **Liu XS**\* . Identifying and mitigating bias in next-generation sequencing methods for chromatin biology. Nat Rev Genet. 2014 Nov;15(11):709-21.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25223782)
 [[Full Paper]](/resources/publications/NatRevGenet14_709.pdf)
-- Stoeck A\*, Lejnine S, Truong A, Pan L, Wang H, Zang C, Yuan J, Ware C, MacLean J, Garrett-Engele PW, Kluk M, Laskey J, Haines BB, Moskaluk C, Zawel L, Fawell S, Gilliland G, Zhang T, Kremer B, Knoechel B, Bernstein Be, Pear WS, **Liu XS** , Aster JC\*, Sathyanarayanan S\*. Discovery of biomarkers predictive of GSI response in triple negative breast cancer and adenoid cystic carcinoma. Cancer Discov 2014; 4(10):1154-67. PMCID:PMC4184927
+- Stoeck A\*, Lejnine S, Truong A, Pan L, Wang H, Zang C, Yuan J, Ware C, MacLean J, Garrett-Engele PW, Kluk M, Laskey J, Haines BB, Moskaluk C, Zawel L, Fawell S, Gilliland G, Zhang T, Kremer B, Knoechel B, Bernstein Be, Pear WS, **Liu XS** , Aster JC\*, Sathyanarayanan S\*. Discovery of biomarkers predictive of GSI response in triple negative breast cancer and adenoid cystic carcinoma. Cancer Discov. 2014 Oct;4(10):1154-67.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25104330)
 [[Full Paper]](/resources/publications/CancerDiscov14_1154.pdf)
-- Luyten A#, Zang C#, **Liu XS**\* , Shivdasani RA\*. Active enhancers are delineated de novo during hematopoiesis, with limited lineage fidelity among specified primary blood cells. Genes Dev 2014; 28(16):1827-39. Genes Dev 2014; 28(16):1827-39. PMCID:PMC4197967
+- Luyten A#, Zang C#, **Liu XS**\* , Shivdasani RA\*. Active enhancers are delineated de novo during hematopoiesis, with limited lineage fidelity among specified primary blood cells. Genes Dev 2014; 28(16):1827-39. Genes Dev. 2014 Aug 15;28(16):1827-39.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25128499)
 [[Full Paper]](/resources/publications/GenesDev14_1827.pdf)
-- Meng FL#, Du Z#, Federation A, Hu J, Wang Q, Kieffer-Kwon KR, Meyers RM, Amor C, Wasserman CR, Neuberg D, Casellas R, Nussenzweig MC, Bradner JE\*, **Liu XS**\*, Alt FW\*. Convergent transcription at intragenic super-enhancers targets AID-initiated genomic instability. Cell 2014; 159(7):1538-48. PMCID:PMC4322776
+- Meng FL#, Du Z#, Federation A, Hu J, Wang Q, Kieffer-Kwon KR, Meyers RM, Amor C, Wasserman CR, Neuberg D, Casellas R, Nussenzweig MC, Bradner JE\*, **Liu XS**\*, Alt FW\*. Convergent transcription at intragenic super-enhancers targets AID-initiated genomic instability. Cell. 2014 Dec;159(7):1538-48.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25483776)
 [[Full Paper]](/resources/publications/Cell14_1538.pdf)
-- Cai C#,\*, He HH#,\*, Gao S, Chen S, Yu Z, Gao Y, Chen S, Chen MW, Zhang J, Ahmed M, Wang Y, Metzger E, Schule R, **Liu XS**, Brown M, Balk SP. Lysine-specific demethylase 1 has dual functions as a major regulator of androgen receptor transcriptional activity. Cell Rep 2014; 9(5):1618-27. PMCID:PMC4268359
+- Cai C#,\*, He HH#,\*, Gao S, Chen S, Yu Z, Gao Y, Chen S, Chen MW, Zhang J, Ahmed M, Wang Y, Metzger E, Schule R, **Liu XS**, Brown M, Balk SP. Lysine-specific demethylase 1 has dual functions as a major regulator of androgen receptor transcriptional activity. Cell Rep. 2014 Dec 11;9(5):1618-1627.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25482560)
 [[Full Paper]](/resources/publications/CellRep14_1618.pdf)
-- Li W#, Xu H#, Xiao T, Cong L, Love MI, Zhang F, Irizarry RA, Liu JS, Brown M, **Liu XS**\*. MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens. Genome Biol 2014; 15(12):554. PMCID:PMC4290824
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/%2025476604)
+- Li W#, Xu H#, Xiao T, Cong L, Love MI, Zhang F, Irizarry RA, Liu JS, Brown M, **Liu XS**\*. MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens. Genome Biol. 2014;15(12):554.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25476604)
 [[Full Paper]](/resources/publications/GenomeBiol14_554.pdf)
-- Yashiro-Ohtani Y#, Wang H#, Zang C, Arnett KL, Bailis W, Ho Y, Knoechel B, Lanauze C, Louis L, Forsyth KS, Chen S, Chung Y, Schug J, Blobel GA, Liebhaber SA, Bernstein BE, Blacklow SC, **Liu XS**, Aster JC, Pear WS\*. Long-range enhance activity determines Myc sensitivity to Notch inhibitors in T cell leukemia. Proc Natl Acad Sci U S A 2014; 111(46):E4946-53. PMCID:PMC4246292
+- Yashiro-Ohtani Y#, Wang H#, Zang C, Arnett KL, Bailis W, Ho Y, Knoechel B, Lanauze C, Louis L, Forsyth KS, Chen S, Chung Y, Schug J, Blobel GA, Liebhaber SA, Bernstein BE, Blacklow SC, **Liu XS**, Aster JC, Pear WS\*. Long-range enhance activity determines Myc sensitivity to Notch inhibitors in T cell leukemia. Proc Natl Acad Sci U S A. 2014 Nov 18;111(46):E4946-53.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25369933)
 [[Full Paper]](/resources/publications/PNAS14_4946.pdf)
-- Hu CY, Mohtat D, Yu Y, Ko YA, Shenoy N, Bhattacharya S, Izquierdo MC, Park AS, Giricz O, Vallumsetla N, Gundabolu K, Ware K, Bhagat TD, Suzuki M, Pullman J, **Liu XS**, Greally JM, Susztak K\*, Verma A\*. Kidney cancer is characterized by aberrant methylation of tissue-specific enhancers that are prognostic for overall survival. Clin Cancer Res 2014; 20(16):4349-60.PMCID:PMC4424050
+- Hu CY, Mohtat D, Yu Y, Ko YA, Shenoy N, Bhattacharya S, Izquierdo MC, Park AS, Giricz O, Vallumsetla N, Gundabolu K, Ware K, Bhagat TD, Suzuki M, Pullman J, **Liu XS**, Greally JM, Susztak K\*, Verma A\*. Kidney cancer is characterized by aberrant methylation of tissue-specific enhancers that are prognostic for overall survival. Clin Cancer Res. 2014 Aug 15;20(16):4349-60.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24916699)
 [[Full Paper]](/resources/publications/ClinCancerRes14_4349.pdf)
-- Ho JW#, Jung YL#, Liu T#, et al, Strome S\*, Elgin SC\*, **Liu XS**\*, Lieb JD\*, Ahringer J\*, Karpen GH\*, Park PJ\*. Comparative analysis of metazoan chromatin organization. Nature 2014; 512(7515):449-52. PMCID:PMC4227084
+- Ho JW#, Jung YL#, Liu T#, et al, Strome S\*, Elgin SC\*, **Liu XS**\*, Lieb JD\*, Ahringer J\*, Karpen GH\*, Park PJ\*. Comparative analysis of metazoan chromatin organization. Nature. 2014 Aug 28;512(7515):449-52. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25164756)
 [[Full Paper]](/resources/publications/Nature14_449.pdf)
-- He HH#, Meyer CA#, Hu SS#, Chen MW, Zang C, Liu Y, Rao PK, Fei T, Xu H, Long H, **Liu XS**\*, Brown M\*. Refined DNase-seq protocol and data analysis reveals intrinsic bias in transcription factor footprint identification. Nat Methods 2014; 11(1):73-8. 2013; Dec 8: 10.1038/nmeth.2762 epub. PMCID:PMC4018771
+- He HH#, Meyer CA#, Hu SS#, Chen MW, Zang C, Liu Y, Rao PK, Fei T, Xu H, Long H, **Liu XS**\*, Brown M\*. Refined DNase-seq protocol and data analysis reveals intrinsic bias in transcription factor footprint identification. Nat Methods. 2014 Jan;11(1):73-8. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/24317252)
 [[Full Paper]](/resources/publications/NatMethods13_Dec8.pdf)
 
