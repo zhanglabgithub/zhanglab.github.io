@@ -12,4 +12,6 @@ permalink: /teaching
 - [STAT115/215 BIO/BST282 2019](https://canvas.harvard.edu/courses/49497)
 - [STAT115/215 BIO/BST282 2018](https://canvas.harvard.edu/courses/39391)
 
-### 3. [STAT316](https://canvas.harvard.edu/courses/50485) Big data statistics in genomic and genetic research
+### 3. Big data statistics in genomic and genetic research
+
+- [STAT316 2019](https://canvas.harvard.edu/courses/50485)
