@@ -514,95 +514,95 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 [[Full Paper]](/resources/publications/2009_Zhang_IntrinHisDNA_NSMB.pdf)
 
 ## 2008
-- Agoulnik IU, Bingman WE, Nakka M, Li W, Wang Q, **Liu XS**, Brown M, Weigel NL. Target gene specific regulation of androgen receptor activity by p42/p44 MAPK. Mol Endocrinol 2008; 22(11):2420-32. 
+- Agoulnik IU, Bingman WE, Nakka M, Li W, Wang Q, **Liu XS**, Brown M, Weigel NL. Target gene specific regulation of androgen receptor activity by p42/p44 MAPK. Mol Endocrinol. 2008 Nov;22(11):2420-32. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18787043)
 [[Full Paper]](/resources/publications/MolEndocrinol08_2420.pdf)
-- Gottardo R, Li W, Johnson WE, **Liu XS**. A flexible and powerful Bayesian hierarchical model for ChIP-chip experiments. Biometrics.2008; 64(2):468-78.
+- Gottardo R, Li W, Johnson WE, **Liu XS**. A flexible and powerful Bayesian hierarchical model for ChIP-chip experiments. Biometrics. 2008 June;64(2):468-78.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17888037)
 [[Full Paper]](/resources/publications/Gottardo_Flexible_Biomet_2008.pdf)
 - Holmes KA, Song JS, **Liu XS**, Brown M, Carroll JS. Nkx3-1 and LEF-1 function as transcriptional inhibitors of Estrogen Receptor Activity. Cancer Res. 2008 Sep 15;68(18):7380-5.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18794125?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum)
 [[Full Paper]](/resources/publications/Holmes_Nkx3-1_CanRes_2008.pdf)
-- Johnson DS, Li W, et al., Struhl K, Myers RM, Lieb JD, **Liu XS**. Systematic evaluation of variability in ChIP-chip experiments using predefined DNA targets. Genome Res. 2008; 18(3):393-403. 
+- Johnson DS, Li W, et al., Struhl K, Myers RM, Lieb JD, **Liu XS**. Systematic evaluation of variability in ChIP-chip experiments using predefined DNA targets. Genome Res. 2008 Mar;18(3):393-403. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18258921)
 [[Full Paper]](/resources/publications/Johnson_Spikein_GR_2008.pdf)
-- Lefterova M, Zhang Y, Steger DJ, Schupp M, Schug J, Cristancho A, Feng D, Zhuo D, Stoeckert CJ, **Liu XS**, Lazar MA. PPARgamma and C/EBP factors orchestrate adipocyte biology via adjacent binding on a genome-wide scale. Genes Dev 2008; 22:2941-2952. 
+- Lefterova M, Zhang Y, Steger DJ, Schupp M, Schug J, Cristancho A, Feng D, Zhuo D, Stoeckert CJ, **Liu XS**, Lazar MA. PPARgamma and C/EBP factors orchestrate adipocyte biology via adjacent binding on a genome-wide scale. Genes Dev. 2008 Nov 1;22(21):2941-2952. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18981473)
 [[Full Paper]](/resources/publications/Lefterova_PPARgamma_GenDev_2008.pdf)
-- Li W, Carroll JS, Brown M, **Liu XS**. xMAN: extreme Mapping of OligoNucleotides. BIOCOMP ’07 (acceptance rate 27%). BMC Genomics 9 2008; (Suppl 1):S20. 
+- Li W, Carroll JS, Brown M, **Liu XS**. xMAN: extreme Mapping of OligoNucleotides. BIOCOMP ’07 (acceptance rate 27%). BMC Genomics. 2008;9 Suppl 1:S20. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18366610?dopt=Citation)
 [[Full Paper]](/resources/publications/Li_XMAN_BMC_2008.pdf)
-- Lupien M, Eeckhoute J, Meyer CA, Wang Q, Zhang Y, Li W, Carroll JS, **Liu XS**, Brown M. FoxA1 translates epigenetic signatures into enhancer driven lineage-specific transcription. Cell 2008;132(6):958-70. 
+- Lupien M, Eeckhoute J, Meyer CA, Wang Q, Zhang Y, Li W, Carroll JS, **Liu XS**, Brown M. FoxA1 translates epigenetic signatures into enhancer driven lineage-specific transcription. Cell. 2008 Mar 21;132(6):958-70. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18358809?dopt=Citation)
 [[Full Paper]](/resources/publications/Lupien_FoxA1_Cell_2008.pdf)
-- Ozsolak F, Poling L, Wang Z, Liu H, **Liu XS**, Roeder RG, Zhang X, Song JS, Fisher DE. Chromatin structure analyses identify miRNA promoters. Genes Development 2008; 22(22):3172-83. 
+- Ozsolak F, Poling L, Wang Z, Liu H, **Liu XS**, Roeder RG, Zhang X, Song JS, Fisher DE. Chromatin structure analyses identify miRNA promoters. Genes Development. 2008 Nov 15;22(22):3172-83. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/19056895)
 [[Full Paper]](/resources/publications/Ozsolak_microRNA_GenDev_2008.pdf)
-- Song J, Liu X, **Liu XS**, He X. A high-resolution map of nucelosome positioning on a fission yeast centromere. Genome Res. 2008, 18(7):1064-72. 
+- Song J, Liu X, **Liu XS**, He X. A high-resolution map of nucleosome positioning on a fission yeast centromere. Genome Res. 2008 Jul,18(7):1064-72. 
 <br>[[Full Paper]](/resources/publications/Song_PombeCentromereNucleosome_GR_2008.pdf)
-- Stayrook KR, Savkur RS, Su C, Varga G, Bu X, Wei T, Nagpal S, **Liu XS**, Burris T. Regulation of human 3a-hydroxysteroid dehydrogenase (AKR1C4) gene expression by the liver X receptor a. Molecular Pharmacology 2008; 73(2):607-12. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18037887)
+- Stayrook KR, Savkur RS, Su C, Varga G, Bu X, Wei T, Nagpal S, **Liu XS**, Burris T. Regulation of human 3a-hydroxysteroid dehydrogenase (AKR1C4) gene expression by the liver X receptor a. Molecular Pharmacology. 2008 Feb;73(2):607-12. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18024509)
 [[Full Paper]](/resources/publications/MolecularPharmacol08_607.pdf)
-- Yagi S, Hirabayashi K, Sato S, Li W, Takahashi Y, Hirakawa T., Hattori N, Ohgane J, Tanaka S, **Liu XS**, Shiota K. DNA methaylation profile of tissue-dependent and differentially methylated regions (T-DMRs) in mouse promoter regions demonstrating tissue-specific gene expression. Genome Res 2008; 18(12):1969-78. 
+- Yagi S, Hirabayashi K, Sato S, Li W, Takahashi Y, Hirakawa T., Hattori N, Ohgane J, Tanaka S, **Liu XS**, Shiota K. DNA methaylation profile of tissue-dependent and differentially methylated regions (T-DMRs) in mouse promoter regions demonstrating tissue-specific gene expression. Genome Res. 2008 Dec;18(12):1969-78. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18971312)
 [[Full Paper]](/resources/publications/GenomeRes08_1969.pdf)
-- Zhang Y\*, Liu T\*, Meyer CA, Eeckhoute J, Johnson DS, Bernstein B, Nusbaum C, Myers RM, Brown M, Li W, **Liu XS**. Model-based Analysis of ChIP-seq (MACS).Genome Biology 2008, 9(9) R137. 
+- Zhang Y\*, Liu T\*, Meyer CA, Eeckhoute J, Johnson DS, Bernstein B, Nusbaum C, Myers RM, Brown M, Li W, **Liu XS**. Model-based Analysis of ChIP-seq (MACS).Genome Biology. 2008;9(9):R137. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18798982)
 [[Full Paper]](http://genomebiology.com/2008/9/9/R137)
-- Zhang Y\*, Shin H\*, Song JS, Lei Y, **Liu XS**. Identifying positioned nucleosomes with epigenetic marks in human from ChIP-Seq. BMC Genomics 2008; 9:537. 
+- Zhang Y\*, Shin H\*, Song JS, Lei Y, **Liu XS**. Identifying positioned nucleosomes with epigenetic marks in human from ChIP-Seq. BMC Genomics. 2008 Nov 13;9:537. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/19014516)
 [[Full Paper]](http://www.biomedcentral.com/1471-2164/9/537)
 
 ## 2007
-- He H, Wang J, Liu T, Liu X, Li T, Wang Y, Qian Z, Zheng H, Zhu X, Wu T, Shi B, Deng W, Zhou W, Skogerbo G, Chen R. Mapping the C. elegans noncoding transcriptome with a whole genome tiling microarray. Genome Res. 14 (2007); 1471-1477.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17785534)
+- He H, Wang J, Liu T, Liu X, Li T, Wang Y, Qian Z, Zheng H, Zhu X, Wu T, Shi B, Deng W, Zhou W, Skogerbo G, Chen R. Mapping the C. elegans noncoding transcriptome with a whole genome tiling microarray. Genome Res. 2007 Oct;17(10):1471-7.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17785534)
 [[Full Paper]](/resources/publications/He_elegansNcRNA_GR_2007.pdf)
-- Litovchick L, Sadasivam S, Florens L, Zhu X, Swanson SK, Velmurugan S, Chen R, Washburn MP, **Liu XS**, DeCaprio JA. Evolutionally conserved multi-subunit RBL2/p130 and E2F4 protein complex represses human cell cycle-dependent genes in quiescence. Mol Cell 26 (2007) 539-51.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17531812)
+- Litovchick L, Sadasivam S, Florens L, Zhu X, Swanson SK, Velmurugan S, Chen R, Washburn MP, **Liu XS**, DeCaprio JA. Evolutionally conserved multi-subunit RBL2/p130 and E2F4 protein complex represses human cell cycle-dependent genes in quiescence. Mol Cell. 2007 May 25;26(4)539-51.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17531812)
 [[Full Paper]](/resources/publications/Litovchick_E2F4_MolCell.pdf)
-- **Liu XS**. Getting started in tiling microarray analysis. PLoS Comput Biol 2007; 3(10):1842-4.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17967045)
+- **Liu XS**. Getting started in tiling microarray analysis. PLoS Comput Biol. 2007 Oct;3(10):1842-4.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17967045)
 [[Full Paper]](/resources/publications/PLoS Comput Biol07_1842.pdf)
-- O’Neil J, Tchinda J, Gutierrez A, Moreau L, Maser R, Wong KK, Li W, KcKenna K, **Liu X**, Neuberg D, Silverman L, DeAngelo D, Kutok J, Rothstein R, DePinho R, Chin L, Lee C, Look AT. Tandem duplication as a novel mechanism of MYB activation in human T-ALL. J Exp Med (2007) 204(13):3059-66.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18070937)
+- O’Neil J, Tchinda J, Gutierrez A, Moreau L, Maser R, Wong KK, Li W, KcKenna K, **Liu X**, Neuberg D, Silverman L, DeAngelo D, Kutok J, Rothstein R, DePinho R, Chin L, Lee C, Look AT. Tandem duplication as a novel mechanism of MYB activation in human T-ALL. J Exp Med. 2007 Dec 24;204(13):3059-66.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/18070937)
 [[Full Paper]](/resources/publications/ONeil_MybDupTALL_JEM_2007.pdf)
-- Ozsolak F\*, Song JS\*, **Liu XS**#, Fisher DE#. High-throughput mapping of the chromatin structure of human promoters. Nat. Biotech. 25 (2007) 244-248. \*Joint first authors; #Joint corresponding authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17220878)
+- Ozsolak F\*, Song JS\*, **Liu XS**#, Fisher DE#. High-throughput mapping of the chromatin structure of human promoters. Nat. Biotech. 2007 Feb;25(2)244-8.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17220878)
 [[Full Paper]](/resources/publications/Ozsolak_Promoter_NBT_2007.pdf)
-- Song JS, Johnson WE, Zhu X, Zhang X, Li W, Manrai AK, Liu JS, Chen R, **Liu XS**. Model based analysis for 2-color arrays (MA2C). Genome Biol. 8(8) R178.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17727723)
+- Song JS, Johnson WE, Zhu X, Zhang X, Li W, Manrai AK, Liu JS, Chen R, **Liu XS**. Model based analysis for 2-color arrays (MA2C). Genome Biol. 2007;8(8):R178.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17727723)
 [[Full Paper]](/resources/publications/Song_MA2C_GenomeBiol_2007.pdf)
-- Song J, Maghsoudi K, Li W, Fox A, Quackenbush J and **Liu XS**. Microarray Blob-Defect Removal Improves Array Analysis. Bioinformatics 23 (2007) 966-971.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17332024)
+- Song J, Maghsoudi K, Li W, Fox A, Quackenbush J and **Liu XS**. Microarray Blob-Defect Removal Improves Array Analysis. Bioinformatics. 2007 Apr 15;23(8):966-71.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17332024)
 [[Full Paper]](/resources/publications/Song_Blob_Bioinformatics.pdf)
-- Wang Q, Li W, **Liu XS**, Carroll JS, Janne OA, Keeton EK, Chinnaiyan AM, Pienta KJ and Brown M. A hierarchical network of transcription factors governs androgen receptor dependent prostate cancer growth. Mol. Cell 27(3):380-92 (2007).
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17679089)
+- Wang Q, Li W, **Liu XS**, Carroll JS, Janne OA, Keeton EK, Chinnaiyan AM, Pienta KJ and Brown M. A hierarchical network of transcription factors governs androgen receptor dependent prostate cancer growth. Mol. Cell. 2007 Aug 3;27(3):380-92.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17679089)
 [[Full Paper]](/resources/publications/Wang_ARChr2122_MolCel_2007.pdf)
 
 ## 2006
-- Carroll JS, Meyer CA, Song J, Li W, Geistlinger TR, Eeckhoute J, Brodsky AS,KeetonEK, Fertuck KC,Hall GF, Wang Q, Bekiranov S, Sementchenko V, Fox EA, Silver PA, Gingeras TR, **Liu XS**\*, Brown M\*. Genome-wide analysis of estrogen receptor binding sites. Nat. Genet. 38 (2006) 1289-1297. \*Joint corresponding authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=%5BAbstract%5D&list_uids=17013392)
+- Carroll JS, Meyer CA, Song J, Li W, Geistlinger TR, Eeckhoute J, Brodsky AS,KeetonEK, Fertuck KC,Hall GF, Wang Q, Bekiranov S, Sementchenko V, Fox EA, Silver PA, Gingeras TR, **Liu XS**\*, Brown M\*. Genome-wide analysis of estrogen receptor binding sites. Nat. Genet. 2006 Nov;38(11):1289-97.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17013392)
 [[Full Paper]](/resources/publications/Carroll_ER_NG.pdf)
-- Ji X\*, Li W\*, Song J, Wei L, **Liu XS**. CEAS: cis-regulatory element annotation system. Nucleic Acids Res. 34 (2006) W551-554 \*Joint first authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16845068)
+- Ji X\*, Li W\*, Song J, Wei L, **Liu XS**. CEAS: cis-regulatory element annotation system. Nucleic Acids Res. 2006 Jul 1;34(Web Server Issue):W551-4.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16845068)
 [[Full Paper]](http://nar.oxfordjournals.org/cgi/reprint/34/suppl_2/W551.pdf)
-- Johnson WE\*, Li W\*, Meyer CA\*, Gottardo R, Carroll JS, Brown M, **Liu XS**. MAT: Model-based analysis of tiling-arrays for ChIP-chip. Proc. Natl. Acad. Sci. USA 103 (2006) 12457-12462. \*Joint first authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16895995)
+- Johnson WE\*, Li W\*, Meyer CA\*, Gottardo R, Carroll JS, Brown M, **Liu XS**. MAT: Model-based analysis of tiling-arrays for ChIP-chip. Proc. Natl. Acad. Sci. USA. 2006 Aug;103(33)12457-62.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16895995)
 [[Full Paper]](/resources/publications/Johnson_MAT_PNAS.pdf)
-- Lieb JD, Beck S, Bulyk ML, Farnham P, Hattori N, Henikoff S, **Liu XS**, Okumura K, Shiota K, Ushijima T, Greally JM. Applying whole-genome studies of epigenetic regulation to study human disease. Cytogenet. Genome Res. 2006, 114:1-15.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=%5BAbstract%5D&list_uids=16717444)
+- Lieb JD, Beck S, Bulyk ML, Farnham P, Hattori N, Henikoff S, **Liu XS**, Okumura K, Shiota K, Ushijima T, Greally JM. Applying whole-genome studies of epigenetic regulation to study human disease. Cytogenet. Genome Res. 2006,114(1):1-15.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16717444)
 [[Full Paper]](/resources/publications/Lieb_GenomeEpi_Cyto_2006.pdf)
-- Nelson EA, Walker SR, Li W, **Liu XS**, Frank DA. Identification of Human STAT5-dependent Gene Regulatory Elements Based on Interspecies Homology.J. Biol. Chem. 281 (2006) 26216-26224.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16840779)
+- Nelson EA, Walker SR, Li W, **Liu XS**, Frank DA. Identification of Human STAT5-dependent Gene Regulatory Elements Based on Interspecies Homology. J. Biol. Chem. 2006 Sep 8;281(36):26216-24.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16840779)
 [[Full Paper]](/resources/publications/Nelson_STAT5_JBC.pdf)
-- Palomero T, Odom DT, O’Neil J, Ferrando AA, Margolin A, Neuberg DS, Winter SS, Larson RS,Li W, **Liu XS**, Young RA, Look AT. Transcriptional regulatory networks downstream of TAL1/SCL in T-cell acute lymphoblastic leukemia. Blood 108 (2006) 986-992.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=%5BAbstract%5D&list_uids=16621969)
+- Palomero T, Odom DT, O’Neil J, Ferrando AA, Margolin A, Neuberg DS, Winter SS, Larson RS,Li W, **Liu XS**, Young RA, Look AT. Transcriptional regulatory networks downstream of TAL1/SCL in T-cell acute lymphoblastic leukemia. Blood. 2006 Aug 1;108(3):986-92.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16621969)
 [[Full Paper]](/resources/publications/Palomero_TAL1_Blood.pdf)
-- Swinburn IA, Meyer CA, **Liu XS**, Silver PA, Brodsky AS. Genomic localization of RNA-binding proteins reveals links between pre-mRNA processing and transcription. Genome Res. 16 (2006) 912-921.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16769980)
+- Swinburn IA, Meyer CA, **Liu XS**, Silver PA, Brodsky AS. Genomic localization of RNA-binding proteins reveals links between pre-mRNA processing and transcription. Genome Res. 2006 Jul;16(7):912-21.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16769980)
 [[Full Paper]](/resources/publications/Swinbrune_RNABinding_GenomeRes.pdf)
-- Zhang Y, **Liu XS**, Liu Q, Wei L.Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res.34 (2006) 3465-3475.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16849434)
+- Zhang Y, **Liu XS**, Liu Q, Wei L.Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res. 2006 Jul 18;34(12):3465-75.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16849434)
 [[Full Paper]](/resources/publications/Zhang_Antisense_NAR.pdf)
 
 ## 2005
