@@ -606,68 +606,66 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 [[Full Paper]](/resources/publications/Zhang_Antisense_NAR.pdf)
 
 ## 2005
-- Ben-Yehuda S, Jujita M, **Liu XS**, Gorbatyuk B, Skoko D, Yan J, Eichenberger P, Rudner DZ, Marko JF, Liu JS, Losick R. Defining a centromere-like element in Bacillus subtilis by identifying the binding sites for the chromosome-anchoring protein RacA. Mol. Cell 2005 Mar 18;17(6):773-82.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15780934)
+- Ben-Yehuda S, Jujita M, **Liu XS**, Gorbatyuk B, Skoko D, Yan J, Eichenberger P, Rudner DZ, Marko JF, Liu JS, Losick R. Defining a centromere-like element in Bacillus subtilis by identifying the binding sites for the chromosome-anchoring protein RacA. Mol. Cell. 2005 Mar 18;17(6):773-82.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15780934)
 [[Full Paper]](/resources/publications/BenYehuda_RacA_MolCel_2005.pdf)
-- Brodsky AS, Meyer CA, Hall G, Swinburne IA, Keenan BJ, **Liu XS**, Fox EA, Silver PA. Genomic mapping of RNA polymerase II reveals sites of co-transcriptional regulation in human cells. Genome Biology. 2005, 6(8):R64.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=%5BAbstract%5D&list_uids=16086846&query_hl=5)
+- Brodsky AS, Meyer CA, Hall G, Swinburne IA, Keenan BJ, **Liu XS**, Fox EA, Silver PA. Genomic mapping of RNA polymerase II reveals sites of co-transcriptional regulation in human cells. Genome Biology. 2005;6(8):R64.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16086846)
 [[Full Paper]](/resources/publications/Brodsky_PolII_GenBio_2005.pdf)
-- Carroll JS, **Liu XS**, Brodsky AS, Li W, Meyer CA, Szary AJ, Shao W, Hestermann EV, Geistlinger TR, Fox EA, Silver PA, Brown M. Chromosome-wide mapping of estrogen receptor binding reveals long-range regulation requiring the forkhead protein FoxA1. Cell 2005, 122(1):33-43.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16009131)
+- Carroll JS, **Liu XS**, Brodsky AS, Li W, Meyer CA, Szary AJ, Shao W, Hestermann EV, Geistlinger TR, Fox EA, Silver PA, Brown M. Chromosome-wide mapping of estrogen receptor binding reveals long-range regulation requiring the forkhead protein FoxA1. Cell. 2005;122(1):33-43.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16009131)
 [[Full Paper]](/resources/publications/Carroll_ERTiling_Cell_2005.pdf)
-- Hong P, **Liu XS**, Zhou Q, Lu X, Liu JS, Wong WH. A boosting approach for motif modeling using ChIP-chip data. Bioinformatics 2005, 21(11):2636-43.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15817698)
+- Hong P, **Liu XS**, Zhou Q, Lu X, Liu JS, Wong WH. A boosting approach for motif modeling using ChIP-chip data. Bioinformatics. 2005;21(11):2636-43.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15817698)
 [[Full Paper]](/resources/publications/Hong_MotifBooster_Bioinfo_2005.pdf)
-- Li W, Meyer CA, **Liu XS**. A hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays and its application to p53 binding sequences. ISMB2005. Bioinformatics 2005, 21 Suppl.1:i274-i282.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15961467)
+- Li W, Meyer CA, **Liu XS**. A hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays and its application to p53 binding sequences. Bioinformatics. 2005 Jun;21 Suppl.1:i274-i282.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/=15961467)
 [[Full Paper]](/resources/publications/Li_p53TilingHMM_ISMB_2005.pdf)
 - **Liu XS**. Gibbs sampling and bioinformatics. Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics. John Wiley & Sons, Ltd, UK, 2005.ISBN: 0-470-84974-6.
-<br>
-[[Full Paper]](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470849746.html)
+<br>[[Full Paper]](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470849746.html)
 
 ## 2004
-- Jensen ST, **Liu XS**, Zhou Q, Liu JS. Computational discovery of gene regulatory binding motifs: a Bayesian perspective. Statistical Science 2004, 19(1): 188-204.
-<br>
-[[Full Paper]](/resources/publications/Jensen_Moitf_StatSci_2004.pdf)
-- Liu Y\*, **Liu XS**\*, Wei L, Altman RB, Batzoglou S. Eukaryotic regulatory element conservation analysis and identification using comparative genomics. Genome Res. 2004, 14(3):451-8. \*Joint first authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14993210)
+- Jensen ST, **Liu XS**, Zhou Q, Liu JS. Computational discovery of gene regulatory binding motifs: a Bayesian perspective. Statistical Science 2004;19(1):188-204.
+<br>[[Full Paper]](/resources/publications/Jensen_Moitf_StatSci_2004.pdf)
+- Liu Y\*, **Liu XS**\*, Wei L, Altman RB, Batzoglou S. Eukaryotic regulatory element conservation analysis and identification using comparative genomics. Genome Res. 2004 Mar;14(3):451-8.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/14993210)
 [[Full Paper]](/resources/publications/Liu_CP_GR_2004.pdf)
-- Liu Y, Wei L, Batzoglou S, Brutlag DL, Liu JS, **Liu XS**. A suite of web-based programs to search for transcriptional regulatory motifs. Nucleic Acids Res. 2004, 32(Web Server Issue):W204-W207.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15215381)
+- Liu Y, Wei L, Batzoglou S, Brutlag DL, Liu JS, **Liu XS**. A suite of web-based programs to search for transcriptional regulatory motifs. Nucleic Acids Res. 2004 Jul;32(Web Server Issue):W204-7.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15215381)
 [[Full Paper]](/resources/publications/Liu_WebMotifFinders_NAR_2004.pdf)
-- Yildiz FH, **Liu XS** , Heydorn A, Schoolnik GK. Molecular Analysis of Rugosity in a Vibrio cholerae O1 El Tor phase variant. Mol. Microbiol. 2004, Jul;53(2):497-515.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15228530)
+- Yildiz FH, **Liu XS** , Heydorn A, Schoolnik GK. Molecular Analysis of Rugosity in a Vibrio cholerae O1 El Tor phase variant. Mol. Microbiol. 2004 Jul;53(2):497-515.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15228530)
 [[Full Paper]](/resources/publications/Yildiz_VCPhase_MM_2004.pdf)
 
 ## 2003
-- Conlon EM\*, **Liu XS**\*, Lieb JD, Liu JS. Integrating regulatory motif discovery and genome-wide expression analysis. Proc. Natl. Acad. Sci. USA 2003, 100(6):3339-44. \*Joint first authors.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12626739)
+- Conlon EM\*, **Liu XS**\*, Lieb JD, Liu JS. Integrating regulatory motif discovery and genome-wide expression analysis. Proc. Natl. Acad. Sci. USA 2003 Mar 18;100(6):3339-44.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/12626739)
 [[Full Paper]](/resources/publications/Conlon_MotifRegressor_PNAS_03.pdf)
 
 ## 2002
-- **Liu XS**\*, Brutlag DL, Liu JS. An algorithm for finding protein-DNA binding sites with applications to chromatin immunoprecipitation microarray experiments. Nat. Biotech. 2002, 20(8):835-9. \*Liu X added middle name Shirley.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12101404)
+- **Liu XS**\*, Brutlag DL, Liu JS. An algorithm for finding protein-DNA binding sites with applications to chromatin immunoprecipitation microarray experiments. Nat. Biotech. 2002 Aug;20(8):835-9. \*Liu X added middle name Shirley.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/12101404)
 [[Full Paper]](/resources/publications/Liu_MDscan_NatBiotech_2002.pdf)
 - Liu JS, Gupta M, **Liu X**, Mayerhofere L, Lawrence CE. Statistical models for biological sequence motif discovery. Case Studies in Bayesian Statistics, IV, 2002, Springer-Verlag, New York.
-[[Full Paper]](/resources/publications/Liu_Motif_Case_2003.pdf)
+<br>[[Full Paper]](/resources/publications/Liu_Motif_Case_2003.pdf)
 
 ## 2001
-- Lieb JD, **Liu X**, Botstein D, Brown PO. Promoter-specific binding of Rap1 revealed by genome-wide maps of protein-DNA association. Nat. Genet. 2001, 28(4):327-34.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11455386)
+- Lieb JD, **Liu X**, Botstein D, Brown PO. Promoter-specific binding of Rap1 revealed by genome-wide maps of protein-DNA association. Nat. Genet. 2001 Aug;28(4):327-34.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/11455386)
 [[Full Paper]](/resources/publications/Lieb_Rap1_NatGen_2001.pdf)
-- **Liu X**, Brutlag DL, Liu JS. BioProspector: discovering conserved DNA motifs in upstream regulatory regions of co-expressed genes. Proc. Pac. Symp. Biocomput.2001:127-38.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11262934)
+- **Liu X**, Brutlag DL, Liu JS. BioProspector: discovering conserved DNA motifs in upstream regulatory regions of co-expressed genes. Proc. Pac. Symp. Biocomput. 2001:127-38.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/11262934)
 [[Full Paper]](/resources/publications/Liu_BioProspector_PSB_2001.pdf)
 
 ## 1999
 - Dugan JM, Berrios DC, **Liu X**, Kim DK, Kaizer H, Fagan LM. Automation and integration of components for generalized semantic markup of electronic medical texts. Proc. AMIA Symp. 1999:736-40.
-<br>
+<br>[[Abstract]](http://www.ncbi.nlm.nih/gov/10566457)
 [[Full Paper]](/resources/publications/Dugan_Markup_AMIA_1999.pdf)
-- Fischer P, **Liu X**, Lizotte-Waniewski M, Kamal IH, Ramzy RM, Williams SA. Development of a quantitative, competitive polymerase chain reaction-enzyme-linked immunosorbent assay for the detection of Wuchereria bancrofti DNA. XParasitol Res. 1999,85(3):176-83.
-<br>
+- Fischer P, **Liu X**, Lizotte-Waniewski M, Kamal IH, Ramzy RM, Williams SA. Development of a quantitative, competitive polymerase chain reaction-enzyme-linked immunosorbent assay for the detection of Wuchereria bancrofti DNA. XParasitol Res. 1999 Mar;85(3):176-83.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/9951959)
 [[Full Paper]](/resources/publications/Fischer_PCRELISA_ParasRes_1999.pdf)
 
 ## 1998
 - **Liu X**, Altman RB. Updating a bibliography using the related articles function within PubMed. Proc. AMIA Symp. 1998:750-4.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=9929319)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/9929319)
 [[Full Paper]](/resources/publications/PNAS1998_750.pdf)
