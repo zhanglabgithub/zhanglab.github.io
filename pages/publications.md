@@ -454,7 +454,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20696899)
 - Lupien M#, Meyer CA#, Bailey ST, Eeckhoute J, Cook J, Westerling T, Zhang X, Carroll JS, Rhodes DR, **Liu XS**\*, Brown M\*. Growth factor stimulation induces a distinct ER{alpha} cistrome underlying breast cancer endocrine resistance. Genes Dev. 2010 Oct 1;24(19):2219-27. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20889718)
-[[Full Paper]](/resources/publications/Genes%20Dev10_2219.pdf)
+[[Full Paper]](/resources/publications/Genes%20Dev10%202219.pdf)
 - Fan X, Moqtaderi Z, Jin Y, Zhang Y, **Liu XS**, Struhl K. Nucleosome depletion at yeast terminators is not intrinsic and can occur by a transcriptional mechanism linked to 3′-end formation. Proc Natl Acad Sci USA. 2010 Oct 19;107(42):17945-50. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20921369)
 [[Full Paper]](/resources/publications/PNAS10_17945.pdf)
