@@ -479,7 +479,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 ## 2009
 - Boros J, Donaldson IJ, O’Donnel A, Zeef L, Lupien M, Meyer CA, **Liu XS**, Brown M, Sharrocks AD. Elucidation of the Elk-1 target gene network reveals a role in the coordinate regulation of core components of the gene regulation machinery. Genome Res. 2009 Nov;19(11):1963-73. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/19687146)
-[[Full Paper]](/resources/publications/GenomeRes09_1963.pdf)
+[[Full Paper]](/resources/publications/Genome%20Res09_1963.pdf)
 - Eeckhoute J, Lupein M, Meyer CA, Verzi MP, Shivdasani RA, **Liu XS**, Brown M. Cell-type selective chromatin remodeling defines the active subset of FoxA1-bound enhancers. Genome Res. 2009 Mar;19(3)372-80. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/19129543)
 [[Full Paper]](/resources/publications/2009_Eeckhoute_RemodFoxA1_GR.pdf)
@@ -542,10 +542,10 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 <br>[[Full Paper]](/resources/publications/Song_PombeCentromereNucleosome_GR_2008.pdf)
 - Stayrook KR, Savkur RS, Su C, Varga G, Bu X, Wei T, Nagpal S, **Liu XS**, Burris T. Regulation of human 3a-hydroxysteroid dehydrogenase (AKR1C4) gene expression by the liver X receptor a. Molecular Pharmacology. 2008 Feb;73(2):607-12. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18024509)
-[[Full Paper]](/resources/publications/MolecularPharmacol08_607.pdf)
+[[Full Paper]](/resources/publications/Molecular%20Pharmacol08_607.pdf)
 - Yagi S, Hirabayashi K, Sato S, Li W, Takahashi Y, Hirakawa T., Hattori N, Ohgane J, Tanaka S, **Liu XS**, Shiota K. DNA methaylation profile of tissue-dependent and differentially methylated regions (T-DMRs) in mouse promoter regions demonstrating tissue-specific gene expression. Genome Res. 2008 Dec;18(12):1969-78. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18971312)
-[[Full Paper]](/resources/publications/GenomeRes08_1969.pdf)
+[[Full Paper]](/resources/publications/Genome%20Res08_1969.pdf)
 - Zhang Y\*, Liu T\*, Meyer CA, Eeckhoute J, Johnson DS, Bernstein B, Nusbaum C, Myers RM, Brown M, Li W, **Liu XS**. Model-based Analysis of ChIP-seq (MACS).Genome Biology. 2008;9(9):R137. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18798982)
 [[Full Paper]](http://genomebiology.com/2008/9/9/R137)
