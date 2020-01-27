@@ -7,7 +7,8 @@ permalink: /publication
 
 # Publications
 
-You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details.
+You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
+Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 
 ## 2019
 - Fei T#, Li W#, Peng J#, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019 Dec 10;115(50):25186-25195.<br>
