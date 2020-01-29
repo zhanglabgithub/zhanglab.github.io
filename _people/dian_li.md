@@ -4,7 +4,7 @@ layout: people
 permalink: /people/dian_li
 status: current
 pname: Dian Li
-position: Research Technician
+position: Associate Computational Biologist
 office: 
 eml: dianli@ds.dfci.harvard.edu
 website:
