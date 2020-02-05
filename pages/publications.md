@@ -49,7 +49,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Hu X#, Zhang J#, Liu JS, Li B, **Liu XS**\*.Evaluation of immune repertoire inference methods from RNA-seq data. Nat Biotechnol. 2018 Nov 9;36(11):1034.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30412202)
 [[Full Paper]](/resources/publications/Hu_NatBio_2018.pdf)
-- Jiang P#, Gu S#, Pan D#, Fu J, Sahu A, Hu X, Li Z, Traugh N, Bu X, Li B, Liu J, Freeman GJ, Brown MA, Wucherpfennig KW\*, **Liu XS**\*. Signatures of T cell dysfunction and exclusion predict cancer immunotherapy response Nat Med. 2018 Oct;24(10):1550-1558
+- Jiang P#, Gu S#, Pan D#, Fu J, Sahu A, Hu X, Li Z, Traugh N, Bu X, Li B, Liu J, Freeman GJ, Brown MA, Wucherpfennig KW\*, **Liu XS**\*. Signatures of T cell dysfunction and exclusion predict cancer immunotherapy response. Nat Med. 2018 Oct;24(10):1550-1558
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30127393)
 [[Full Paper]](/resources/publications/Jiang_NatMed_2018.pdf)
 - Cader FZ, Schackmann RCJ, Hu X, Wienand K, Redd R, Chapuy B, Quyang J, Paul N, Gjini E, Lipshitz M, Armand P, Wu D, Fromm JR, Neuberg D, **Liu XS**, Rodig SJ, Shipp MA. Mass cytometry of Hodgkin lymphoma reveals a CD4+ exhausted T-effector and T-regulatory cell rich microenvironment. Blood 2018 Aug 23;132(8):825-836
@@ -64,9 +64,6 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Cornwell M#, Vangala M#, Taing L#, Herbert Z, Koster J, Li B, Sun H, Li T, Zhang J, Qiu X, Pun M, Jeselsohn R, Brown M, **Liu XS**, Long HW#. VIPER: Visualization pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis. BMC Bioinformatics 2018 Apr 12;19(1):135.  
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29649993)
 [[Full Paper]](/resources/publications/None.pdf)
-- Zhang X, Xiao W, Hu X. Predicting essential proteins by integrating orthology, gene expressions, and PPI networks. PLoS One. 2018 Apr 10;13(4):e0195410.
-<br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29634727)
-[[Full Paper]](/resources/publications/Zhang_PLOS_2018.pdf)
 - Jiang P, Lee W, Li X, Johnson C, Liu JS, Brown M, Aster JC\*, **Liu XS**\*. Genome-scale signatures of gene interaction from compound screens predict clinical efficacy of targeted cancer therapies. Cell Syst. 2018 Mar 28;6(3):343-354.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29428415)
 [[Full Paper]](/resources/publications/Jiang_OCP_2018.pdf)
