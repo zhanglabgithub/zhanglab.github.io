@@ -61,9 +61,9 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Jiang P, Sellers W, **Liu, XS**. Big Data Approaches for Modeling Response and Resistance to Cancer Drugs. Annual Review of Biomedical Data Science. 2018 Jul;1:1-27.
 <br>[[Abstract]](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-080917-013350#abstractSection)
 [[Full Paper]](/resources/publications/big_data_approaches_for_modeling_response_and_resistance_to_cancer_drugs.pdf)
-- Cornwell M#, Vangala M#, Taing L#, Herbert Z, Koster J, Li B, Sun H, Li T, Zhang J, Qiu X, Pun M, Jeselsohn R, Brown M, **Liu XS**, Long HW#. VIPER: Visualization pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis. BMC Bioinformatics 2018 Apr 12;19(1):135.  
+- Cornwell M#, Vangala M#, Taing L#, Herbert Z, Koster J, Li B, Sun H, Li T, Zhang J, Qiu X, Pun M, Jeselsohn R, Brown M, **Liu XS**, Long HW#. VIPER: Visualization pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis. BMC Bioinformatics 2018 Apr 12;19(1):135.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29649993)
-[[Full Paper]](/resources/publications/None.pdf)
+[[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897949/)
 - Jiang P, Lee W, Li X, Johnson C, Liu JS, Brown M, Aster JC\*, **Liu XS**\*. Genome-scale signatures of gene interaction from compound screens predict clinical efficacy of targeted cancer therapies. Cell Syst. 2018 Mar 28;6(3):343-354.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29428415)
 [[Full Paper]](/resources/publications/Jiang_OCP_2018.pdf)
