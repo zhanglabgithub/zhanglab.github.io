@@ -7,8 +7,12 @@ permalink: /news
 # News and Events
 
 ## 2020
+### Feb
+- Shirley was selected for the ISCB 2020 Innovator Award. Congratulations! 
+
 ### Jan
 - Our new lab admin / program coordinator Holly Bartel started. Welcome!
+- Chen-hao Chen's paper on modeling transcription function in different TADs was accepted to Nature Communications!
 
 ## 2019
 
@@ -22,6 +26,7 @@ permalink: /news
 - Shirley gave the [Nathaniel Berlin Lecture](https://www.secure.cancer.northwestern.edu/marketo/2019/flyers/2019-11-19-Berlin-Liu.pdf) at Northwestern University.
 - Shirley is an organizer for the [Harvard PQG Conference on the Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/).
 - Postdoc Zexian (Davis) had a baby girl Grace. Congrats!
+- The Liu Lab welcomes new lab member Dian Li!
 
 ### Oct
 - Shirley gave the keynote talk at the [Johns Hopkins Genomics and Bioinformatics symposium](http://genomics.jhu.edu/symposium.html)
