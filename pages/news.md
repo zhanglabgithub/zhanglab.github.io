@@ -9,10 +9,12 @@ permalink: /news
 ## 2020
 ### Feb
 - Shirley was selected for the ISCB 2020 Innovator Award. Congratulations! 
+- BIG PhD student Guanlan Dong started rotation in the lab. 
 
 ### Jan
-- Our new lab admin / program coordinator Holly Bartel started. Welcome!
+- Our new lab admin Laura Ricci and program coordinator Holly Bartel started. Welcome!
 - Chen-hao Chen's paper on modeling transcription function in different TADs was accepted to Nature Communications!
+- Liu Lab welcomes new visiting scholar Yang Liu, and MS student Scarlett Qian. 
 
 ## 2019
 
