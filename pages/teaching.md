@@ -14,4 +14,5 @@ permalink: /teaching
 
 ### 3. Big data statistics in genomic and genetic research
 
+- [STAT316 2020](https://canvas.harvard.edu/courses/67591)
 - [STAT316 2019](https://canvas.harvard.edu/courses/50485)
