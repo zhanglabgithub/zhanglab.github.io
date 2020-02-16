@@ -14,7 +14,7 @@ permalink: /news
 ### Jan
 - Our new lab admin Laura Ricci and program coordinator Holly Bartel started. Welcome!
 - Chen-hao Chen's paper on modeling transcription function in different TADs was accepted to Nature Communications!
-- Liu Lab welcomes new visiting scholar Yang Liu, and MS student Scarlett Qian. 
+- Liu Lab welcomes new visiting scholar Yang Cao, and MS student Scarlett Qian. 
 
 ## 2019
 
