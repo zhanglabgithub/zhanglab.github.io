@@ -73,6 +73,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Pan D#, Kobayashi A#, Jiang P#, Ferrari de Andrade L, Tay RE, Luoma A, Tsoucas D, Qiu X, Lim K, Rao P, Long HW, Yuan GC, Doench J, Brown M, **Liu XS**\*, Wucherpfennig KW\#. A major chromatin regulator determines resistance of tumor cells to T cell-mediated killing. Science. 2018 Feb 16;359(6377):770-5.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29301958)
 [[Full Paper]](/resources/publications/Pan_Science_2018.pdf)
+[[CRISPR screen data]](https://drive.google.com/file/d/124h_Qr8T2xIBX4jAzeeU33f7oBcgZVIw/view?usp=sharing)
 - Jeselsohn R, Bergholz JS, Pun M, Cornwell M, Liu W, Nardone A, Xiao T, Li W, Qiu X, Buchwalter G, Feiglin A, Abell-Hart K, Fei T, Rao P, Long H, Kwiatkowski N, Zhang T, Gray N, Melchers D, Houtman R, **Liu XS**, Cohen O, Wagle N, WIner EP, Zhao J, Brown M. Allele-specific chromatin recruitment and therapeutic vulnerabilities of ESR1 activating mutations. Cancer Cell. 2018 Feb 12;33(2):173-186.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29438694)
 [[Full Paper]](/resources/publications/Jeselsohn_CellPress_2018.pdf)
