@@ -14,7 +14,7 @@ permalink: /news
 
 ### Feb
 - Shirley was selected for the [ISCB 2020 Innovator Award](https://www.iscb.org/iscb-awards/4256). Congratulations! 
-- Jingxin's paper on reusing public data to model immunotherapy response and resistance was published in [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0721-z).
+- Jingxin's [paper on reusing public data to model immunotherapy response and resistance](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0721-z) was published in Genome Medicine.
 - BIG PhD student Guanlan Dong started rotation in the lab. 
 
 ### Jan
