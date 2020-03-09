@@ -8,7 +8,10 @@ permalink: /teaching
 
 ### 2. Introduction to Computational Biology and Bioinformatics
 
-- [STAT115/215 BIO/BST282 2020](/resources/html/STAT115_2020.html) 
+- [STAT115/215 BIO/BST282 2020](https://canvas.harvard.edu/courses/66883) 
+	- [Module1](/resources/html/STAT115_2020_Module1.html) 
+	- [Module2](/resources/html/STAT115_2020_Module2.html)
+	- [Module3](/resources/html/STAT115_2020_Module3.html)
 - [STAT115/215 BIO/BST282 2019](https://canvas.harvard.edu/courses/49497)
 - [STAT115/215 BIO/BST282 2018](https://canvas.harvard.edu/courses/39391)
 
