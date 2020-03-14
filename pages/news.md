@@ -9,7 +9,7 @@ permalink: /news
 ## 2020
 
 ### Mar
-- Postdoc Collin Tokheim is awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congrats!
+- Postdoc Collin Tokheim was awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congrats!
 - Shirley won the [2020 Benjamin Franklin Award for Open Access in the Life Sciences](http://www.bio-itworld.com/2020/03/03/liu-named-2020-benjamin-franklin-award-laureate.aspx)!
 - Liu Lab welcome new scientist Yang Liu, who just obtained her CS PhD from Univ of Missouri, to the CIDC / PACT project!
 
