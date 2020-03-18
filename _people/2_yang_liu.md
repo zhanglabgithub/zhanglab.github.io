@@ -1,7 +1,7 @@
 ---
 title: yang_liu
 layout: people
-permalink: /people/yang_liu2
+permalink: /people/yang_liu
 status: current
 pname: Yang Liu, PhD
 position: Computational Biologist
