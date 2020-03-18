@@ -4,7 +4,7 @@ layout: people
 permalink: /people/aashna_jhaveri
 status: current
 pname: Aashna Jhaveri
-position: Data Scientist
+position: Bioinformatics Analyst
 office: 
 eml: 
 website:
