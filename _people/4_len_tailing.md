@@ -4,7 +4,7 @@ layout: people
 permalink: /people/len_taing
 status: current
 pname: Len Taing
-position: Programmer
+position: Scientific Programmer
 office: 
 eml: 
 website:
