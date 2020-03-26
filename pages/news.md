@@ -12,7 +12,7 @@ permalink: /news
 - Postdoc Collin Tokheim was awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congratulations!
 - Shirley won the [2020 Benjamin Franklin Award for Open Access in the Life Sciences](http://www.bio-itworld.com/2020/03/03/liu-named-2020-benjamin-franklin-award-laureate.aspx).
 - Liu Lab welcome new scientist Yang Liu, who just obtained her CS PhD from Univ of Missouri, to the CIDC / PACT project.
-- Len Taing just had a baby girl Abigail who will bring so much joy to the father!
+- Congratulation to Len Taing on his new baby girl Abigail (meaning father's joy)!
 
 ### Feb
 - Shirley was selected for the [ISCB 2020 Innovator Award](https://www.iscb.org/iscb-awards/4256). Congratulations! 
