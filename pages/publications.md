@@ -10,6 +10,17 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 
+##2020
+- Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J*, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**\*, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience. 2020 Feb 27;23(3):100941. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32169821)
+[[Full Paper]](/resources/publications/Chu_iScience_2020.pdf)
+- Fu K, Li K, Zhang W, Wan C, Zhang J, Jiang P, **Liu XS**\*. Large-scale public data reuse to model immunotherapy response and resistance. Genome Med. 2020 Feb 26;12(1):21.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32102694)
+[[Full Paper]](/resources/publications/Fu_GenMed_2020.pdf)
+- Qin Q, Fan J, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M*, Zhang J, Meyer CA*, **Liu XS**\*. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Gen Biol. 2020 Feb 7;21(1):32.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32033573)
+[[Full Paper]](/resources/publications/Qin_GenBiol_2020.pdf)
+
 ## 2019
 - Fei T#, Li W#, Peng J#, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019 Dec 10;115(50):25186-25195.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31727847)
