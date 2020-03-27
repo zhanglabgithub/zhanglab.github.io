@@ -9,8 +9,7 @@ permalink: /publication
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
-
-##2020
+## 2020
 - Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J*, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**\*, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience. 2020 Feb 27;23(3):100941. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32169821)
 [[Full Paper]](/resources/publications/Chu_iScience_2020.pdf)
