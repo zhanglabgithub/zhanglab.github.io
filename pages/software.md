@@ -92,4 +92,4 @@ A program for finding DNA sequence motifs.
 - [**MDscan**](http://robotics.stanford.edu/~xsliu/MDscan/) &nbsp;
 A fast and accurate motif finding algorithm with applications to chromatin immunoprecipitation microarray experiments.
 - [**BioProspector**](http://robotics.stanford.edu/~xsliu/BioProspector/) &nbsp;
-Discovering Conserved DNA Motifs in Upstream Regulatory Regions of Co-ExpressedGenes.
+Discovering conserved DNA motifs in upstream regulatory regions of co-expressedGenes.
