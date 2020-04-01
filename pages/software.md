@@ -90,6 +90,6 @@ A sequence motif-finding algorithm.
 - [**Motif Regressor**](http://www.math.umass.edu/~conlon/mr.html) &nbsp;
 A program for finding DNA sequence motifs.
 - [**MDscan**](http://robotics.stanford.edu/~xsliu/MDscan/) &nbsp;
-A Fast and Accurate Motif Finding Algorithm With Applications To Chromatin Immunoprecipitation Microarray Experiments.
+A fast and accurate motif finding algorithm with applications to chromatin immunoprecipitation microarray experiments.
 - [**BioProspector**](http://robotics.stanford.edu/~xsliu/BioProspector/) &nbsp;
 Discovering Conserved DNA Motifs in Upstream Regulatory Regions of Co-ExpressedGenes.
