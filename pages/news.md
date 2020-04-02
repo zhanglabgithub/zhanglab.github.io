@@ -8,6 +8,9 @@ permalink: /news
 
 ## 2020
 
+### Apr
+- Liu Lab welcome new lab member Ming (Tommy) Tang!
+
 ### Mar
 - Postdoc Collin Tokheim was awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congratulations!
 - Shirley won the [2020 Benjamin Franklin Award for Open Access in the Life Sciences](http://www.bio-itworld.com/2020/03/03/liu-named-2020-benjamin-franklin-award-laureate.aspx).
