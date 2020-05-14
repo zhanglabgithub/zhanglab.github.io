@@ -18,7 +18,7 @@ permalink: /news
 ### Apr
 - Liu Lab welcome Senior Scientist Ming (Tommy) Tang!
 - Postdoc Collin Tokheim was awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congratulations!
-- Shirley gave a [DFCI Connect Science seminar](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)(scroll down to recorded past lectures)
+- Shirley gave a [DFCI Connect Science seminar](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/) (scroll down to recorded past lectures)
 
 ### Mar
 - Shirley won the [2020 Benjamin Franklin Award for Open Access in the Life Sciences](http://www.bio-itworld.com/2020/03/03/liu-named-2020-benjamin-franklin-award-laureate.aspx).
