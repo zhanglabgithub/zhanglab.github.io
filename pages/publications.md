@@ -16,7 +16,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Fu J, Li K, Zhang W, Wan C, Zhang J\*, Jiang P\*, **Liu XS**\*. Large-scale public data reuse to model immunotherapy response and resistance. Genome Med. 2020 Feb 26;12(1):21.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32102694)
 [[Full Paper]](/resources/publications/Fu_GenMed_2020.pdf)
-- Qin Q#, Fan J#, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M, Zhang J\*, Meyer CA\*, **Liu XS**\*. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Gen Biol. 2020 Feb 7;21(1):32.<br>
+- Qin Q#, Fan J#, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M, Zhang J\*, Meyer CA\*, **Liu XS**\*. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Genome Biol. 2020 Feb 7;21(1):32.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32033573)
 [[Full Paper]](/resources/publications/Qin_GenBiol_2020.pdf)
 
