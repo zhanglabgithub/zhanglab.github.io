@@ -21,11 +21,11 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Qin_GenBiol_2020.pdf)
 - Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K\*. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell. 2020 Jun 17;78(6):1096-1113<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32416067)
-[[Full Paper]](/resources/publications/Shu_MollCell_2020.pdf)
-- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. Epub ahead of print.
+[[Full Paper]](/resources/publications/Shu_MolCell_2020.pdf)
+- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
 [[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
-- Taiwen Li#, Jingxin Fu, Zexiain Zeng, David Cohen, Jing Li, Quianming Chen, Bo Li, **X Shirley Liu**. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. Epub ahead of print
+- Taiwen Li#, Jingxin Fu, Zexiain Zeng, David Cohen, Jing Li, Quianming Chen, Bo Li, **X Shirley Liu**. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. Epub ahead of print <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
 
