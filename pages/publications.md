@@ -25,7 +25,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
 [[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
-- Taiwen Li#, Jingxin Fu, Zexiain Zeng, David Cohen, Jing Li, Quianming Chen, Bo Li, **X Shirley Liu**. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. Epub ahead of print <br>
+- Taiwen Li#, Jingxin Fu, Zexiain Zeng, David Cohen, Jing Li, Quianming Chen, Bo Li, **X Shirley Liu**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. Epub ahead of print <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
 
