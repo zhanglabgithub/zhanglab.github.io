@@ -9,6 +9,8 @@ permalink: /software/
 ### Single Cell 
 - [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
+- [**TISCH**](http://tisch.comp-genomics.org/home/)  &nbsp; 
+Tumor Immune Single-cell Hub (TISCH) provides detailed cell-type annotation for all curated tumor scRNA-seq datasets, enabling users to explore tumor immunity across many tumor scRNA-seq cohorts.
 
 ### Cancer Immunotherapy
 - 
