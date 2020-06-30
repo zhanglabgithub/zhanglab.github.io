@@ -15,7 +15,7 @@ Tumor Immune Single-cell Hub (TISCH) provides detailed cell-type annotation for 
 ### Cancer Immunotherapy
 - 
 - [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp;
-Tumor IMmune Estimation Resource, or TIMER, is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
+Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; 
 is a computational algorithm that can extract TCR/BCR immune repertoires from tumor bulk or single cell RNA-seq data. 
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
@@ -42,6 +42,8 @@ Network Essentiality Scoring Tool (NEST) is designed to predict gene essentialit
 Sequence Scan for CRISPR gRNA efficiency.
 
 ### ChIP-Seq and Epigenetics Analysis
+- [**LISA**] (http://lisa.cistrome.org/) &nbsp;
+leverages public ChIP-seq and chromatin accessibiity profiles in CistromeDB to discover the key transcription factors and chromatin regulators from user-provided differential expression gene list. 
 - [**Cistrome-GO**](http://go.cistrome.org/) &nbsp;
 Cistrome-GO is a webserver for functional enrichment analysis of transcription factor ChIP-seq peaks.
 - [**Cistrome DB Toolkit**](http://dbtoolkit.cistrome.org/) &nbsp;
