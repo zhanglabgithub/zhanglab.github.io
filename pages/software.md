@@ -11,12 +11,11 @@ permalink: /software/
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
 
 ### Cancer Immunotherapy
-- [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp;
-The latest version of TRUST.
-- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp;
+- 
+- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp;
 Tumor IMmune Estimation Resource, or TIMER, is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
-- [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp;
-T cell receptor Repertoire Utilities for Solid Tissue/Tumor, or TRUST is a toolbox for analyzing T cell receptors in solid tumors using unselected RNA-seq data based on de novo assembly.
+- [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; 
+is a computational algorithm that can extract TCR/BCR immune repertoires from tumor bulk or single cell RNA-seq data. 
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
 
