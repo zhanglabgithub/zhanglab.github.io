@@ -4,7 +4,7 @@ layout: people
 permalink: /people/david_cohen
 status: current
 pname: David Cohen
-position: Bioinformatics Analyst
+position: Associate Computational Biologist
 office: 
 eml: 
 website:
