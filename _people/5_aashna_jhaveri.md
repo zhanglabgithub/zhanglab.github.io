@@ -4,7 +4,7 @@ layout: people
 permalink: /people/aashna_jhaveri
 status: current
 pname: Aashna Jhaveri
-position: Bioinformatics Analyst
+position: Associate Computational Biologist
 office: 
 eml: 
 website:
