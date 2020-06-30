@@ -4,7 +4,7 @@ layout: people
 permalink: /people/yang_liu
 status: current
 pname: Yang Liu, PhD
-position: Computational Biologist
+position: Scientist
 office:
 eml:
 website:
