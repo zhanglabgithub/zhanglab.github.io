@@ -8,6 +8,11 @@ permalink: /news
 
 ## 2020
 
+### Jun
+- Postdoc Chenfei Wang started his own lab at Tongji University. 
+- The lab welcomes MS students Jack Kang (HSPH) and Cheryl Wong (HMS).
+- The lab welcomes new technician Carly Tymm aand new Associate Computational Biologist Aria Dandawate. 
+
 ### May
 - Aashna Jhaveri had her first baby! 
 - Chen-Hao Chen starts his new journey with Wuxi NextCode. Best wishes!
