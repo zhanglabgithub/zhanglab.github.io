@@ -10,7 +10,7 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 ## 2020
-- Li Z, Wang B, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T, Boland G, **Liu XS**. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020. Epub ahead of print.<br>
+- Li Z, Wang B, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T, Boland G, **Liu XS**. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32413516)
 [[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 - Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 Epub ahead of print.<br>
@@ -22,13 +22,13 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K\*. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell. 2020 Jun 17;78(6):1096-1113.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32416067)
 [[Full Paper]](/resources/publications/Shu_MolCell_2020.pdf)
-- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020. Epub ahead of print.<br>
+- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
 [[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
-- Li, T#, Fu J, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. 2020. Epub ahead of print <br>
+- Li, T#, Fu J, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. 2020 Jul 2;48(W1):W509-W514. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
-- Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA\*. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience. 2020 Feb 27;23(3):100941. Epub ahead of print.<br>
+- Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA\*. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience. 2020 Feb 27;23(3):100941. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32169821)
 [[Full Paper]](/resources/publications/Chu_iScience_2020.pdf)
 - Fu J, Li K, Zhang W, Wan C, Zhang J\*, Jiang P\*, **Liu XS**\*. Large-scale public data reuse to model immunotherapy response and resistance. Genome Med. 2020 Feb 26;12(1):21.<br>
