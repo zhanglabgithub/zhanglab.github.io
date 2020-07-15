@@ -4,7 +4,7 @@ layout: people
 permalink: /people/carly_tymm
 status: current
 pname: Carly Tymm
-position: Associate Computational Biologist
+position: Research Technician
 office:
 email:
 website:
