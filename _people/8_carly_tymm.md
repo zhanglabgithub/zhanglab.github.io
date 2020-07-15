@@ -1,7 +1,7 @@
 ---
 title: carly_tymm
 layout: people
-permalink: /people/first_last
+permalink: /people/carly_tymm
 status: current
 pname: Carly Tymm
 position: Associate Computational Biologist
