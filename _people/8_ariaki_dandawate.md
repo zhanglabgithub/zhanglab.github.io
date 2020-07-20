@@ -4,7 +4,7 @@ layout: people
 permalink: /people/ariaki_dandawate
 status: current
 pname: Ariaki Dandawate
-position: Research Technician
+position: Associate Computational Biologist
 office:
 eml:
 website:
