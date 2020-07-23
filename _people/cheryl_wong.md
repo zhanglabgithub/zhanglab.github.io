@@ -4,7 +4,7 @@ layout: people
 permalink: /people/cheryl_wong
 status: current
 pname: Cheryl Wong, BVSc
-position: student
+position: Student
 office:
 eml:
 website:
