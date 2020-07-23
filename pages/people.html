@@ -40,6 +40,15 @@ permalink: /people
             {% endfor %}
         </ul>
 
+    <h4>Student</h4>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "current" and people.position == "Student" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
 <h4>Visiting scholars</h3>
 <ul>
     <li>Jingxin Fu, PhD Candidate, Tongji University, Shanghai, China.</li>
