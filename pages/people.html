@@ -40,10 +40,10 @@ permalink: /people
             {% endfor %}
         </ul>
 
-    <h4>Student</h4>
+    <h4>Students</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "Student" and people.position == "Research Training Fellow" %}
+            {% if people.status == "Students" and people.position == "Research Training Fellow" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}
