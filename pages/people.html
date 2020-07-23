@@ -43,7 +43,7 @@ permalink: /people
     <h4>Student</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "current" and people.position == "Student" %}
+            {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position != "Computational Postdoc" and people.position != "Experimental Postdoc" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}
