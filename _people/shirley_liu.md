@@ -2,7 +2,7 @@
 title: shirley_liu
 layout: people
 permalink: /people/shirley_liu
-status: current
+status: Principle Investigator
 pname: X Shirley Liu, PhD
 position: Principle Investigator
 office: CLS11022, 3 Blackfan Circle, Boston 02115

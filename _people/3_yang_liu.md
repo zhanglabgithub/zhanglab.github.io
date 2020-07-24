@@ -2,7 +2,7 @@
 title: yang_liu
 layout: people
 permalink: /people/yang_liu
-status: current
+status: Staff
 pname: Yang Liu, PhD
 position: Scientist
 office:

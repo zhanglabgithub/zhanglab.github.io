@@ -2,7 +2,7 @@
 title: jin_zhao
 layout: people
 permalink: /people/jin_zhao
-status: current
+status: Staff
 pname: Jin Zhao
 position: Lab Manager
 office: 

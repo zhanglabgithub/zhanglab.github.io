@@ -2,7 +2,7 @@
 title: zexian_zeng
 layout: people
 permalink: /people/zexian_zeng
-status: current
+status: Computational Postdoc
 pname: Zexian Zeng, PhD
 position: Computational Postdoc
 office: 

@@ -2,7 +2,7 @@
 title: aashna_jhaveri
 layout: people
 permalink: /people/aashna_jhaveri
-status: current
+status: Staff
 pname: Aashna Jhaveri
 position: Associate Computational Biologist
 office: 

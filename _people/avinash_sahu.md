@@ -2,7 +2,7 @@
 title: avinash_sahu
 layout: people
 permalink: /people/avinash_sahu
-status: current
+status: Computational Postdoc
 pname: Avinash Sahu, PhD
 position: Computational Postdoc
 office: 

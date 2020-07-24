@@ -2,7 +2,7 @@
 title: li_song
 layout: people
 permalink: /people/li_song
-status: current
+status: Computational Postdoc
 pname: Li Song, PhD
 position: Computational Postdoc
 office: 

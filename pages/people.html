@@ -16,25 +16,25 @@ permalink: /people
     <h4>Staff</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "current" and people.title != "shirley_liu" and people.position != "Visiting Scholar" and people.position != "Computational Postdoc" and people.position != "Experimental Postdoc" %}
+            {% if people.status == "Staff" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}
         </ul>
 
-    <h4>Experimental Postdoc</h4>
+    <h4>Experimental Postdocs</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "current" and people.position == "Experimental Postdoc" %}
+            {% if people.status == "Experimental Postdoc" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}
         </ul>
 
-    <h4>Computational Postdoc</h4>
+    <h4>Computational Postdocs</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "current" and people.position == "Computational Postdoc" %}
+            {% if people.status == "Computational Postdoc" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}
@@ -43,7 +43,7 @@ permalink: /people
     <h4>Students</h4>
         <ul>
             {% for people in site.people %}
-            {% if people.status == "Students" and people.position == "Research Training Fellow" %}
+            {% if people.status == "Student" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
             {% endif %}
             {% endfor %}

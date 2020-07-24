@@ -2,7 +2,7 @@
 title: xiaoqing_wang
 layout: people
 permalink: /people/xiaoqing_wang
-status: current
+status: Experimental Postdoc
 pname: Xiaoqing Wang, PhD
 position: Experimental Postdoc
 office: 

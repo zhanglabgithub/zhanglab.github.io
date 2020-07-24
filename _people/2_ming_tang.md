@@ -2,7 +2,7 @@
 title: ming_tang
 layout: people
 permalink: /people/ming_tang
-status: current
+status: Staff
 pname: Ming Tang PhD
 position: Senior Scientist
 office:

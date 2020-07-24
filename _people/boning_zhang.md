@@ -2,7 +2,7 @@
 title: boning_zhang
 layout: people
 permalink: /people/boning_zhang
-status: current
+status: Experimental Postdoc
 pname: Boning Zhang, PhD
 position: Experimental Postdoc
 office: 

@@ -2,7 +2,7 @@
 title: david_cohen
 layout: people
 permalink: /people/david_cohen
-status: current
+status: Staff
 pname: David Cohen
 position: Associate Computational Biologist
 office: 

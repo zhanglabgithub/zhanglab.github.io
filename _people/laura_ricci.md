@@ -2,7 +2,7 @@
 title: laura_ricci
 layout: people
 permalink: /people/laura_ricci
-status: current
+status: Staff
 pname: Laura Ricci
 position: Administrative Assistant
 office:

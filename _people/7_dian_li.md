@@ -2,7 +2,7 @@
 title: dian_li
 layout: people
 permalink: /people/dian_li
-status: current
+status: Staff
 pname: Dian Li
 position: Associate Computational Biologist
 office: 

@@ -2,7 +2,7 @@
 title: cliff_meyer
 layout: people
 permalink: /people/cliff_meyer
-status: current
+status: Staff
 pname: Cliff Meyer, PhD
 position: Senior Research Scientist
 office: 

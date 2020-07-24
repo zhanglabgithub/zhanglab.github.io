@@ -2,7 +2,7 @@
 title: holly_bartel
 layout: people
 permalink: /people/holly_bartel
-status: current
+status: Staff
 pname: Holly Bartel
 position: Project Coordinator
 office: 

@@ -2,7 +2,7 @@
 title: cheryl_wong
 layout: people
 permalink: /people/cheryl_wong
-status: Students
+status: Student
 pname: Cheryl Wong, BVSc
 position: Research Training Fellow
 office:

@@ -2,7 +2,7 @@
 title: shengqing_gu
 layout: people
 permalink: /people/shengqing_gu
-status: current
+status: Experimental Postdoc
 pname: Shengqing Stan Gu, PhD
 position: Experimental Postdoc
 office: 

@@ -2,7 +2,7 @@
 title: ariaki_dandawate
 layout: people
 permalink: /people/ariaki_dandawate
-status: current
+status: Staff
 pname: Ariaki Dandawate
 position: Associate Computational Biologist
 office:

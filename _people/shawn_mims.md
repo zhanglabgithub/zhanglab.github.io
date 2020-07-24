@@ -2,7 +2,7 @@
 title: shawn_mims
 layout: people
 permalink: /people/shawn_mims
-status: current
+status: Staff
 pname: Shawn Mims
 position: Grant Manager
 office: 

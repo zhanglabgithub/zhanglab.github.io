@@ -2,7 +2,7 @@
 title: collin_tokheim
 layout: people
 permalink: /people/collin_tokheim
-status: current
+status: Computational Postdoc
 pname: Collin Tokheim, PhD
 position: Computational Postdoc
 office: 

@@ -2,7 +2,7 @@
 title: carly_tymm
 layout: people
 permalink: /people/carly_tymm
-status: current
+status: Staff
 pname: Carly Tymm
 position: Research Technician
 office:

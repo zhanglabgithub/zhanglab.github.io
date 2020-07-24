@@ -2,7 +2,7 @@
 title: len_taing
 layout: people
 permalink: /people/len_taing
-status: current
+status: Staff
 pname: Len Taing
 position: Scientific Programmer
 office: 
