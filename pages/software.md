@@ -13,7 +13,6 @@ Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive 
 Tumor Immune Single-cell Hub (TISCH) provides detailed cell-type annotation for all curated tumor scRNA-seq datasets, enabling users to explore tumor immunity across many tumor scRNA-seq cohorts.
 
 ### Cancer Immunotherapy
-- 
 - [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp;
 Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; 
