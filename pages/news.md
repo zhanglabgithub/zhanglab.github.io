@@ -17,7 +17,7 @@ permalink: /news
 - Aashna Jhaveri had her first baby! 
 - Chen-Hao Chen starts his new journey with Wuxi NextCode. Best wishes!
 - Cynthia Chen will be a Harvard freshman this fall! 
-- Liu Lab welcomes summer intern Haowen Zhang from Virginia Tech!
+- Liu Lab welcomes summer intern Haowen Zhang from Georgia Tech!
 - Taiwen and Jingxin's [TIMER2 paper](http://timer.cistrome.org/) was accepted to NAR. Congrats! 
 
 ### Apr
