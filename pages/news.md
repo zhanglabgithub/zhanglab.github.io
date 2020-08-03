@@ -8,10 +8,15 @@ permalink: /news
 
 ## 2020
 
+### July
+- The lab welcome new Associate Computational Biologist Clara Cousins!
+- Postdoc Chenfei Wang started his own lab as a PI at Tongji University.
+- Shirley delivered the ISMB 2020 Keynote Speech for the ISCB Innovator Award. 
+
 ### Jun
 - Postdoc Chenfei Wang started his own lab at Tongji University. 
 - The lab welcomes MS students Jack Kang (HSPH) and Cheryl Wong (HMS).
-- The lab welcomes new technician Carly Tymm aand new Associate Computational Biologist Aria Dandawate. 
+- The lab welcomes new technician Carly Tymm and new Associate Computational Biologist Aria Dandawate. 
 
 ### May
 - Aashna Jhaveri had her first baby! 
