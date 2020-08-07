@@ -10,10 +10,10 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 ## 2020
-- The ENCODE Project Consortium. Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020 Jul 30;583:699-710.<br>
+- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020 Jul 30;583:699-710.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728249)
 [[Full Paper]](/resources/publications/Nature20_Expan583.pdf)
-- The ENCODE Project Consortium. Perspectives on ENCODE. Nature. 2020 Jul 30;583:693-698.<br>
+- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Perspectives on ENCODE. Nature. 2020 Jul 30;583:693-698.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728248)
 [[Full Paper]](/resources/publications/Nature20_Persp583.pdf)
 - Li Z, Wang B, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T, Boland G, **Liu XS**. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Epub ahead of print.<br>
