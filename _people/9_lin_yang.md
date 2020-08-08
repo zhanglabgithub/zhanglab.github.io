@@ -10,7 +10,7 @@ eml:
 website:
 cv:
 github:
-linkedin: [[https://www.linkedin.com/in/lin-yang-880481175]]
+linkedin: https://www.linkedin.com/in/lin-yang-880481175
 googlescholar:
 twitter:
 facebook:
