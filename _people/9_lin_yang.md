@@ -2,7 +2,7 @@
 title: lin_yang
 layout: people
 permalink: /people/lin_yang
-status: current
+status: staff
 pname: Lin Yang
 position: Associate Computational Biologist
 office:
