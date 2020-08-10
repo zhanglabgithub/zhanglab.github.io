@@ -8,8 +8,11 @@ permalink: /news
 
 ## 2020
 
+### August
+- The lab welcomes new Associate Computational Biologists Lin Yang and Allen Lynch!
+
 ### July
-- The lab welcome new Associate Computational Biologist Clara Cousins!
+- The lab welcomes new Associate Computational Biologist Clara Cousins!
 - Postdoc Chenfei Wang started his own lab as a PI at Tongji University.
 - Shirley delivered the ISMB 2020 Keynote Speech for the ISCB Innovator Award. 
 
