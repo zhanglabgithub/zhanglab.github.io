@@ -17,7 +17,6 @@ permalink: /news
 - Shirley delivered the ISMB 2020 Keynote Speech for the ISCB Innovator Award. 
 
 ### Jun
-- Postdoc Chenfei Wang started his own lab at Tongji University. 
 - The lab welcomes MS students Jack Kang (HSPH) and Cheryl Wong (HMS).
 - The lab welcomes new technician Carly Tymm and new Associate Computational Biologist Aria Dandawate. 
 
