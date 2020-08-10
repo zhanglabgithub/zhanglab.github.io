@@ -10,6 +10,9 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 ## 2020
+- Zhang J, Lee D, Dhiman V, Jiang P, Xu J, McGillivray P, Yang H, Liu J, Meyerson W, Clarke D, Gu M, Li S, Lou S, Xu J, Lochovsky L, Ung M, Ma L, Yu S, Cao Q, Harmanci A, Yan KK, Sethi A, Gürsoy G, Schoenberg MR, Rozowsky J, Warrell J, Emani P, Yang YT, Galeev T, Kong X, Liu S, Li X, Krishnan J, Feng Y, Rivera-Mulia JC, Adrian J, Broach JR, Bolt M, Moran J, Fitzgerald D, Dileep V, Liu T, Mei S, Sasaki T, Trevilla-Garcia C, Wang S, Wang Y, Zang C, Wang D, Klein RJ, Snyder M, Gilbert DM, Yip K, Cheng C, Yue F, **Liu XS**, White KP, Gerstein M. An integrative ENCODE resource for cancer genomics. Nat Commun. 2020 Jul 29;11:3696.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728046)
+[[Full Paper]](/resources/publications/NatCommun11_3696.pdf)
 - The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020 Jul 30;583:699-710.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728249)
 [[Full Paper]](/resources/publications/Nature20_Expan583.pdf)
