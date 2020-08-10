@@ -19,6 +19,7 @@ permalink: /news
 ### Jun
 - The lab welcomes MS students Jack Kang (HSPH) and Cheryl Wong (HMS).
 - The lab welcomes new technician Carly Tymm and new Associate Computational Biologist Aria Dandawate. 
+- The lab hosts the second [RSI](https://math.mit.edu/research/highschool/rsi/index.php) student Dianelle Paulson for summer research. 
 
 ### May
 - Aashna Jhaveri had her first baby! 
