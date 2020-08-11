@@ -10,6 +10,9 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)
 ## 2020
+- Cader FZ, Hu F, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**, Shipp M. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32778827)
+[[Full Paper]](/resources/publications/NatMed_Cader_2020.pdf)
 - Wang C#, Sun D, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T, **Liu XS**. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol. 2020 Aug 7;21:198.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32767996)
 [[Full Paper]](/resources/publications/GenBiol21_198.pdf)
@@ -34,9 +37,12 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K\*. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell. 2020 Jun 17;78(6):1096-1113.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32416067)
 [[Full Paper]](/resources/publications/Shu_MolCell_2020.pdf)
-- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020 Epub ahead of print.<br>
+- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020 Aug 8;8(8):1075-1084.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
 [[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
+- Shi S, Gu S, Han T, Zhang W, Huang L, LiZ, Pan D, Fu J, Ge J, Brown M, Zhang P, Jiang P, Wucherpfennig KW, **Liu XS**. Inhibition of MAN2A1 enhances tumor response to anti-PD-L1. Clin Cancer Res. 2020 Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32723834)
+[[Full Paper]](/resources/publications/CCR_MAN2A1_2020.pdf)
 - Li, T#, Fu J, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. 2020 Jul 2;48(W1):W509-W514. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
