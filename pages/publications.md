@@ -522,7 +522,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Nature10_839.pdf)
 - Zhang Y, Moqtaderi Z, Rattner B, Euskirchen G, Snyder M, Kadonaga JT, **Liu XS**, Struhl K. Evidence against a genomic code for nucleosome positioning. Reply to: “Nucleosome sequence preferences influence in vivo nucleosome organization”. Nat Struct Mol Biol. 2010 Aug;17:920-23).
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20683474)
-[[Full Paper]](/resources/publications/NatStructMolBiol10_920.pdf)
+[[Full Paper]](/resources/publications/2010_ZhangY_Evidence.pdf)
 - The modENCODE Consortium (**Liu XS**\*). Integrative analysis of the Caenorhabditis elegans genome by the modENCODE project. Science. 2010 Dec 24;330(6012):1775-87.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/21177976)
 [[Full Paper]](/resources/publications/Science10_1775.pdf)
