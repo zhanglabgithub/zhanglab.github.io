@@ -501,7 +501,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/2010_Ahmadiyeh_PNAS_9742.pdf)
 - Verzi MP, Hatzis P, Sulahian R, Philips J, Schuijers J, Shin H, Freed E, Brown MA, Lynch JP, Dang DT, Clevers H, **Liu XS**, Shivdasani RA. TCF4 and CDX2, major transcription factors for intestinal function, converge on the same cis-regulatory regions. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15157-62. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20696899)
-[[Full Paper]](/resources/publications/2010_Verzi_TCF4.pdf)
+[[Full Paper]](/resources/publications/PNAS107_34.pdf)
 - Lupien M#, Meyer CA#, Bailey ST, Eeckhoute J, Cook J, Westerling T, Zhang X, Carroll JS, Rhodes DR, **Liu XS**\*, Brown M\*. Growth factor stimulation induces a distinct ER{alpha} cistrome underlying breast cancer endocrine resistance. Genes Dev. 2010 Oct 1;24(19):2219-27. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20889718)
 [[Full Paper]](/resources/publications/Genes%20Dev10%202219.pdf)
@@ -522,7 +522,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Nature10_839.pdf)
 - Zhang Y, Moqtaderi Z, Rattner B, Euskirchen G, Snyder M, Kadonaga JT, **Liu XS**, Struhl K. Evidence against a genomic code for nucleosome positioning. Reply to: “Nucleosome sequence preferences influence in vivo nucleosome organization”. Nat Struct Mol Biol. 2010 Aug;17:920-23).
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20683474)
-[[Full Paper]](/resources/publications/2010_ZhangY_Evidence.pdf)
+[[Full Paper]](/resources/publications/NatStrucMolBiol17_8.pdf)
 - The modENCODE Consortium (**Liu XS**\*). Integrative analysis of the Caenorhabditis elegans genome by the modENCODE project. Science. 2010 Dec 24;330(6012):1775-87.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/21177976)
 [[Full Paper]](/resources/publications/Science10_1775.pdf)
