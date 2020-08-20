@@ -371,7 +371,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/25741452)
 [[Full Paper]](/resources/publications/QuantitativeBiol13_54.pdf)
 - He HH, Meyer CA, Long H, **Liu XS**, Brown M. A closer look into DNase I hypersensitivity. Epigenetics and Chromatin. 2013;6(Suppl 1):P25.
-<br>[[Full Paper]]/resources/publications/EpigenChroma6_1.pdf)
+<br>[[Full Paper]](/resources/publications/EpigenChroma6_1.pdf)
 - Xu K, Fei T, Wu ZJ, Su Z, Groner AC, He HH, Cai C, Stack EC, Loda M, Liu T, Morrissey C, Vessella RL, Kantoff PW, Balk SP, **Liu XS**, Brown M. Polycomb-independent activity of EZH2 in castration resistant prostate cancer. Epigenetics and Chromatin. 2013;6(Suppl 1):O14.
 <br>[[Full Paper]](/resources/publications/EpigeneticsChromatin13_O14.pdf)
 - Catic A, Suh CY, Hill CT, Daheron L, Henkel T, Orford KW, Dombkowski DM, Liu T, **Liu XS**, Scadden DT.Genome-wide map of nuclear protein degradation shows NCoR1 turnover as a key to Mitochondrial gene regulation. Cell. 2013 Dec 5;155(6):1380-95. 
