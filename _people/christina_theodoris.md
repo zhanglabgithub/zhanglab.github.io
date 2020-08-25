@@ -2,7 +2,7 @@
 title: christina_theodoris
 layout: people
 permalink: /people/christina_theodoris
-status: Computational Postdocs
+status: Computational Postdoc
 pname: Christina Theodoris, PhD
 position: Computational Postdoc
 office:
