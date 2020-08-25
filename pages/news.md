@@ -9,7 +9,7 @@ permalink: /news
 ## 2020
 
 ### August
-- The lab welcomes new Associate Computational Biologists Lin Yang, Allen Lynch, and Ariaki Dandawate!
+- The lab welcomes new Associate Computational Biologists Lin Yang, Allen Lynch, and Ariaki Dandawate as well as new Computational Postdoc Christina Theodoris!
 
 ### July
 - The lab welcomes new Associate Computational Biologist Clara Cousins!
