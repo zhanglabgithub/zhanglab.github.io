@@ -28,7 +28,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Perspectives on ENCODE. Nature. 2020 Jul 30;583:693-698.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728248)
 [[Full Paper]](/resources/publications/Nature20_Persp583.pdf)
-- Li Z, Wang B, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T*, Boland G*, **Liu XS**. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Epub ahead of print.<br>
+- Li Z, Wang B, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T*, Boland G*, **Liu XS***. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32413516)
 [[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 - Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 Epub ahead of print.<br>
