@@ -9,8 +9,7 @@ permalink: /publication
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVucAAAAJ) for more details<br>
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)<br>
-\# Co-first authors
-\* Co-corresponding authors
+\# Co-first authors; \* Co-corresponding authors
 
 ## 2020
 - Li B, Li T, Liu JS, **Liu XS**. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol. 2020 2120:249-262.<br>
