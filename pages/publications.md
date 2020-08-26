@@ -13,10 +13,10 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Li B, Li T, Liu JS, **Liu XS**. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol. 2020 2120:249-262.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32124325)
 [[Full Paper]](/resources/publications/MethMolBiol2120_249.pdf)
-- Cader FZ, Hu F, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**, Shipp M. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Epub ahead of print.<br>
+- Cader FZ, Hu F, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS***, Shipp M*. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32778827)
 [[Full Paper]](/resources/publications/NatMed_Cader_2020.pdf)
-- Wang C#, Sun D, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T, **Liu XS**. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol. 2020 Aug 7;21:198.<br>
+- Wang C#, Sun D, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T*, **Liu XS***. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol. 2020 Aug 7;21:198.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32767996)
 [[Full Paper]](/resources/publications/GenBiol21_198.pdf)
 - Zhang J, Lee D, Dhiman V, Jiang P, Xu J, McGillivray P, Yang H, Liu J, Meyerson W, Clarke D, Gu M, Li S, Lou S, Xu J, Lochovsky L, Ung M, Ma L, Yu S, Cao Q, Harmanci A, Yan KK, Sethi A, Gürsoy G, Schoenberg MR, Rozowsky J, Warrell J, Emani P, Yang YT, Galeev T, Kong X, Liu S, Li X, Krishnan J, Feng Y, Rivera-Mulia JC, Adrian J, Broach JR, Bolt M, Moran J, Fitzgerald D, Dileep V, Liu T, Mei S, Sasaki T, Trevilla-Garcia C, Wang S, Wang Y, Zang C, Wang D, Klein RJ, Snyder M, Gilbert DM, Yip K, Cheng C, Yue F, **Liu XS**, White KP, Gerstein M. An integrative ENCODE resource for cancer genomics. Nat Commun. 2020 Jul 29;11:3696.<br>
