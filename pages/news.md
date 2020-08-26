@@ -9,11 +9,11 @@ permalink: /news
 ## 2020
 
 ### August
-- The lab welcomes new Associate Computational Biologists Lin Yang and Allen Lynch, as well as new Computational Postdoc Christina Theodoris!
+- The lab welcomes new Associate Computational Biologists Lin Yang and Allen Lynch, as well as new Computational Postdoc Christina Theodoris.
 
 ### July
-- The lab welcomes new Associate Computational Biologist Clara Cousins!
-- Postdoc Chenfei Wang started his own lab as a PI at Tongji University.
+- The lab welcomes new Associate Computational Biologist Clara Cousins.
+- Postdoc Chenfei Wang starts his own lab as a PI at Tongji University. Good luck!
 - Shirley delivered the ISMB 2020 Keynote Speech for the ISCB Innovator Award. 
 
 ### Jun
@@ -29,7 +29,7 @@ permalink: /news
 - Taiwen and Jingxin's [TIMER2 paper](http://timer.cistrome.org/) was accepted to NAR. Congrats! 
 
 ### Apr
-- Liu Lab welcome Senior Scientist Ming (Tommy) Tang!
+- Liu Lab welcome Senior Scientist Ming (Tommy) Tang.
 - Postdoc Collin Tokheim was awarded the [Damon Runyon Quantitative Biology Fellowship](https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative). Congratulations!
 - Shirley gave a [DFCI Connect Science seminar](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/) (scroll down to recorded past lectures)
 
