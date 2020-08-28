@@ -36,7 +36,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32355287)
 [[Full Paper]](/resources/publications/Liu_CellRes_2020.pdf)
-- Chen C#, Zheng R, Tokheim C#, Dong X, Fan J, Wan C, Tang Q, Brown M, Liu JS, Meyer C\*, **Liu XS**\*. Determinants of transcription factor regulatory range. Nat Commun. 2020 11:2472.<br>
+- Chen C#, Zheng R, Tokheim C, Dong X, Fan J, Wan C, Tang Q, Brown M, Liu JS, Meyer C\*, **Liu XS**\*. Determinants of transcription factor regulatory range. Nat Commun. 2020 11:2472.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32424124)
 [[Full Paper]](/resources/publications/Chen_NatComm_2020.pdf)
 - Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell. 2020 Jun 17;78(6):1096-1113.<br>
