@@ -12,6 +12,9 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2020
+- Wu SZ, Roden DL, Wang C, Holliday H, Harvey K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartoniecek N, Hou R, Torpy JR, Junakar S, Chan C, Lan CE, Hui MN, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mak C, Cooper C, Warrier S, Forrest A, Powell J, O'Toole S, Cox T, Timpson P, Lim E, **Liu XS**, Swarbrick A. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. EMBO Jrnl. 2020 Aug 13:1-20.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32790115)
+[[Full Paper]](/resources/publications/EMBO20_BRCA_scRNAseq.pdf)
 - Li B, Li T, Liu JS, **Liu XS**. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol. 2020 2120:249-262.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32124325)
 [[Full Paper]](/resources/publications/MethMolBiol2120_249.pdf)
