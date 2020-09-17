@@ -12,6 +12,12 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2020
+- Li X et al.(full list of authors online). Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet. 2020 Sep;52(9):969-983. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839606)
+[[Full Paper]](/resources/publications/NatGenet52_969.pdf)
+- Gao Y, Nihira NT, Bu X, Chu C, Zhang J, Kolodziejczyk A, Fan Y, Chan NT, Ma L, Liu J, Wang D, Dai X, Liu H, Ono M, Nakanishi A, Inuzuka H, North BJ, Huang YH, Sharma S, Geng Y, Xu W, **Liu XS**, Li L, Miki Y, Sicinski P, Freeman GJ, Wei W. Acetylation-dependent regulation of PD-L1 nuclear translocation dictates the efficacy of anti-PD-1 immunotherapy.  Nat Cell Biol. 2020 Sep;22(9):1064-1075.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839551)
+[[Full Paper]](/resources/publications/NatCellBiol22_1064.pdf)
 - Wu SZ, Roden DL, Wang C, Holliday H, Harvey K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartoniecek N, Hou R, Torpy JR, Junakar S, Chan C, Lan CE, Hui MN, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mak C, Cooper C, Warrier S, Forrest A, Powell J, O'Toole S, Cox T, Timpson P, Lim E, **Liu XS**, Swarbrick A. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. EMBO Jrnl. 2020 Aug 13:1-20.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32790115)
 [[Full Paper]](/resources/publications/EMBO20_BRCA_scRNAseq.pdf)
