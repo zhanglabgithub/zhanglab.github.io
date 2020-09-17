@@ -12,7 +12,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2020
-- Li X et al.(full list of authors online). Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet. 2020 Sep 52(9):969-983. <br>
+- Li X et al. (Complete list of authors available online). Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet. 2020 Sep 52(9):969-983. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839606)
 [[Full Paper]](/resources/publications/NatGenet52_969.pdf)
 - Gao Y, Nihira NT, Bu X, Chu C, Zhang J, Kolodziejczyk A, Fan Y, Chan NT, Ma L, Liu J, Wang D, Dai X, Liu H, Ono M, Nakanishi A, Inuzuka H, North BJ, Huang YH, Sharma S, Geng Y, Xu W, **Liu XS**, Li L, Miki Y, Sicinski P, Freeman GJ, Wei W. Acetylation-dependent regulation of PD-L1 nuclear translocation dictates the efficacy of anti-PD-1 immunotherapy.  Nat Cell Biol. 2020 Sep 22(9):1064-1075.<br>
