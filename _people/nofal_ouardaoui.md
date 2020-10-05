@@ -2,7 +2,7 @@
 title: nofal_ouardaoui
 layout: people
 permalink: /people/nofal_ouardaoui
-status: student
+status: Student
 pname: Nofal Ouardaoui
 position: Research Trainee
 office:
