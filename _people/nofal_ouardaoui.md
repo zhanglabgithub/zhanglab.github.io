@@ -15,5 +15,5 @@ googlescholar:
 twitter:
 facebook:
 instagram:
-desp: Nofal received his B.A. in Biology/Computer Science from Tufts University. He is working with the Liu Lab to develope a computational pipeline which is a tool that analyzes gene signatures associated with tumor immune responses to therapies.
+desp: Nofal received his B.A. in Biology/Computer Science from Tufts University. He is working with the Liu Lab to develop a computational pipeline which is a tool that analyzes gene signatures associated with tumor immune responses to therapies.
 ---
