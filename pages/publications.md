@@ -24,7 +24,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Li B, Li T, Liu JS, **Liu XS**. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol. 2020 2120:249-262.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32124325)
 [[Full Paper]](/resources/publications/MethMolBiol2120_249.pdf)
-- Cader FZ#, Hu F#, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**\*, Shipp M\*. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Epub ahead of print.<br>
+- Cader FZ#, Hu F#, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**\*, Shipp M\*. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Sep 26(9):1468-1479.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32778827)
 [[Full Paper]](/resources/publications/NatMed_Cader_2020.pdf)
 - Wang C#, Sun D#, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T*, **Liu XS**\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol. 2020 Aug 7;21:198.<br>
@@ -42,7 +42,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Li Z#, Wang B#, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T\*, Boland G\*, **Liu XS**\*. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32413516)
 [[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
-- Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 Epub ahead of print.<br>
+- Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 (9):732-744.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32355287)
 [[Full Paper]](/resources/publications/Liu_CellRes_2020.pdf)
 - Chen C#, Zheng R, Tokheim C, Dong X, Fan J, Wan C, Tang Q, Brown M, Liu JS, Meyer C\*, **Liu XS**\*. Determinants of transcription factor regulatory range. Nat Commun. 2020 11:2472.<br>
