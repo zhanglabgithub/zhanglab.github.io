@@ -54,7 +54,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020 Aug 8;8(8):1075-1084.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
 [[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
-- Shi S#, Gu S#, Han T, Zhang W, Huang L, LiZ, Pan D, Fu J, Ge J, Brown M, Zhang P, Jiang P\*, Wucherpfennig KW\*, **Liu XS**\*. Inhibition of MAN2A1 enhances tumor response to anti-PD-L1. Clin Cancer Res. 2020 Epub ahead of print.<br>
+- Shi S#, Gu S#, Han T, Zhang W, Huang L, LiZ, Pan D, Fu J, Ge J, Brown M, Zhang P, Jiang P\*, Wucherpfennig KW\*, **Liu XS**\*. Inhibition of MAN2A1 enhances tumor response to anti-PD-L1. Clin Cancer Res. 2020 Jul 28.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32723834)
 [[Full Paper]](/resources/publications/CCR_MAN2A1_2020.pdf)
 - Li, T#, Fu J#, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. 2020 Jul 2;48(W1):W509-W514. <br>
