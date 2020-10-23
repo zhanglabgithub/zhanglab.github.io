@@ -8,6 +8,9 @@ permalink: /news
 
 ## 2020
 
+###September
+- The lab welcomes new Associate Computational Biologist Gali Bai.
+
 ### August
 - The lab welcomes new Associate Computational Biologists Lin Yang and Allen Lynch, as well as new Computational Postdoc Christina Theodoris.
 
