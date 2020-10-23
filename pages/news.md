@@ -8,7 +8,7 @@ permalink: /news
 
 ## 2020
 
-###September
+### September
 - The lab welcomes new Associate Computational Biologist Gali Bai.
 
 ### August
