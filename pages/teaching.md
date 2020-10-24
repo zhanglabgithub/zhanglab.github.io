@@ -30,4 +30,5 @@ permalink: /teaching
 - [MIT Future Founders](http://web.mit.edu/webcast/engineering/f20/1/)
 - [4D Nucleome Program](https://www.youtube.com/c/4DNucleome/featured)
 - [AACR Webcast](https://webcast.aacr.org/)
+- [BioConductor2020](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQSENJBo6k_wcA27gtydm-bz)
 
