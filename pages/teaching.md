@@ -26,6 +26,8 @@ permalink: /teaching
 - [DFCI Connect Science Seminar Series](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)
 - [DFCI Targeted Protein Degradation](https://www.danafarbertargetedproteindegradation.org/)
 - [HMS Immunology Seminar Series](https://www.youtube.com/channel/UCv1Ub-qGhtu_K49kI4xPGDA/featured)
-- [MSKCC Science Spotlight](https://www.mskcc.org/research/ski/education-training/sciencespotlight/past-seminars)
+- [MSKCC Science Spotlight](https://www.mskcc.org/research/ski/education-training/sciencespotlight)
 - [MIT Future Founders](http://web.mit.edu/webcast/engineering/f20/1/)
+- [4D Nucleome Program](https://www.youtube.com/c/4DNucleome/featured)
+- [AACR Webcast](https://webcast.aacr.org/)
 
