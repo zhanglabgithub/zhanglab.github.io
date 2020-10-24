@@ -17,7 +17,15 @@ permalink: /teaching
 - [STAT115/215 BIO/BST282 2019](https://canvas.harvard.edu/courses/49497)
 - [STAT115/215 BIO/BST282 2018](https://canvas.harvard.edu/courses/39391)
 
-### 3. Big data statistics in genomic and genetic research
+### 3. Big Data Statistics in Genomic and Genetic Research
 
 - [STAT316 2020](https://canvas.harvard.edu/courses/67591)
 - [STAT316 2019](https://canvas.harvard.edu/courses/50485)
+
+### Other online Learning Resources: 
+- [DFCI Connect Science Seminar Series](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)
+- [DFCI Targeted Protein Degradation](https://www.danafarbertargetedproteindegradation.org/)
+- [HMS Immunology Seminar Series](https://www.youtube.com/channel/UCv1Ub-qGhtu_K49kI4xPGDA/featured)
+- [MSKCC Science Spotlight](https://www.mskcc.org/research/ski/education-training/sciencespotlight/past-seminars)
+- [MIT Future Founders](http://web.mit.edu/webcast/engineering/f20/1/)
+
