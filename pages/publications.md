@@ -12,9 +12,9 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2020
-- Meyer CA#\*, **Liu XS** Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci. 2020 Oct 45(12):1094-5.<br>
+- Meyer CA#\*, **Liu XS**\# Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci. 2020 Oct 45(12):1094-5.<br>
 [[Full Paper]](/resources/publications/TrendsBiochemSci45_1094.pdf)
-- Gu S#, Wang X, Hu X, Jiang P, Li Z, Traugh N, Bu X, Tang Q, Wang C, Zeng Z, Fu J, Meyer CA, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu A,, Xing X, Kroger B, Ouyang Z, Long H, Freeman G\*, Brown M\*, **Liu XS**\#*. Clonal tracing reveals diverse patters of response to immune checkpoint blockade. Genome Biol. 2020 Oct 15;21(1):263.<br>
+- Gu S#, Wang X#, Hu X#, Jiang P, Li Z, Traugh N, Bu X, Tang Q, Wang C, Zeng Z, Fu J, Meyer CA, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu A,, Xing X, Kroger B, Ouyang Z, Long H, Freeman G\*, Brown M\*, **Liu XS**\*#. Clonal tracing reveals diverse patters of response to immune checkpoint blockade. Genome Biol. 2020 Oct 15;21(1):263.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33059736)
 [[Full Paper]](/resources/publications/GenomeBiol21_263.pdf)
 - Li X et al. (Complete list of authors available online). Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet. 2020 Sep 52(9):969-983. <br>
