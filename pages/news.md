@@ -8,6 +8,9 @@ permalink: /news
 
 ## 2020
 
+### October
+- Liulab welcomes new Computational Postdoc Guanjue Xiang.
+
 ### September
 - The lab welcomes new Associate Computational Biologist Gali Bai.
 
