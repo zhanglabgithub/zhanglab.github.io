@@ -9,22 +9,22 @@ permalink: /news
 ## 2020
 
 ### October
-- Liulab welcomes new Computational Postdoc Guanjue Xiang.
+- Liulab welcomes new computational postdoc Guanjue Xiang.
 
 ### September
-- The lab welcomes new Associate Computational Biologist Gali Bai.
+- The lab welcomes new associate computational biologist Gali Bai.
 
 ### August
-- The lab welcomes new Associate Computational Biologists Lin Yang and Allen Lynch, as well as new Computational Postdoc Christina Theodoris.
+- The lab welcomes new associate computational biologists Lin Yang and Allen Lynch, as well as new computational postdoc Christina Theodoris.
 
 ### July
-- The lab welcomes new Associate Computational Biologist Clara Cousins.
+- The lab welcomes new associate computational biologist Clara Cousins.
 - Postdoc Chenfei Wang starts his own lab as a PI at Tongji University. Good luck!
 - Shirley delivered the ISMB 2020 Keynote Speech for the ISCB Innovator Award. 
 
 ### Jun
 - The lab welcomes MS students Jack Kang (HSPH) and Cheryl Wong (HMS).
-- The lab welcomes new technician Carly Tymm and new Associate Computational Biologist Aria Dandawate. 
+- The lab welcomes new technician Carly Tymm and new associate computational biologist Aria Dandawate. 
 - The lab hosts the second [RSI](https://math.mit.edu/research/highschool/rsi/index.php) student Dianelle Paulson for summer research. 
 
 ### May
