@@ -4,7 +4,7 @@ layout: people
 permalink: /people/clara_cousins
 status: Staff
 pname: Clara Cousins
-Position: Associate Computational Biologist
+position: Associate Computational Biologist
 office:
 eml:
 website:
