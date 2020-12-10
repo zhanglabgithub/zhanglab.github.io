@@ -8,14 +8,27 @@ permalink: /news
 
 ## 2020
 
-### October
+## December
+- Jingxin Fu successfully defended her PhD thesis. Congratulations Dr. Fu!
+
+## November
 - Liulab welcomes new computational postdoc Guanjue Xiang.
+- Shirley gave a virtual keynote talk at the Fifth CHOP/UPenn MidAtlantic Bioinformatics Conference.
+- Shirley gave a virtual talk in the ESMO-AACR Joint Session at the ESMO Asia 2020 Congress. 
+
+### October
+- Shengqing (Stan) Gu received a Fellowship from the Sara Elizabeth O'Brien Trust.
+- Shirley, Shengqing (Stan), Ming (Tommy) did another Jimmy Fund Walk. This year the walk was virtual due to COVID. 
+- Shirley gave an acceptance speech for the Benjamin Franklin Award at BioITWorld 2020. 
 
 ### September
 - The lab welcomes new associate computational biologist Gali Bai.
+- Avinash Sahu was awarded NIH K99 Pathway to Independence Award! Congrats!
 
 ### August
 - The lab welcomes new associate computational biologists Lin Yang and Allen Lynch, as well as new computational postdoc Christina Theodoris.
+- The lab welcomes new research assistant Nofal Ouardaoui and undergraduate Phillip Nicol. 
+- Shirley gave a talk at BioConductor 2020 conference.
 
 ### July
 - The lab welcomes new associate computational biologist Clara Cousins.
