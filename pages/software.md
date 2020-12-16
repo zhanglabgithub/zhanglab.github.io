@@ -28,7 +28,7 @@ TIDE is a gene expression biomarker to predict the clinical response to immune c
 DrugCellNet is a dual-layer integrated cell line-drug network model, which uses both cell line similarity network (CSN) data and drug similarity network (DSN) data to predict the drug response of a given cell line using a weighted model.
 
 ### CRISPR Analysis
-- [**MAGeCKFLute**](http://bioconductor.org/packages/release/bioc/html/MAGeCKFlute.html) &nbsp;
+- [**MAGeCKFlute**](http://bioconductor.org/packages/release/bioc/html/MAGeCKFlute.html) &nbsp;
 MAGeCKFlute is designed to support downstream analysis, utilizing the gene summary data provided through MAGeCK or MAGeCK-VISPR. Quality control, normalization, and screen hit identification for CRISPR screen data are performed in pipeline. Identified hits within the pipeline are categorized based on experimental design, and are subsequently interpreted by functional enrichment analysis.
 - [**MAGeCK-VISPR**](http://bitbucket.org/liulab/mageck-vispr/) &nbsp;
 Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout + Visualization of CRISPR Screens (MAGeCK-VISPR) is a comprehensive pipeline for analyzing and visualizing results from genome-scale CRISPR-Cas9 knockout screens. 
