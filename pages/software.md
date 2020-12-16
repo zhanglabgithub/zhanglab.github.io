@@ -15,6 +15,7 @@ Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive 
 Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; ([tutorial video](https://drive.google.com/file/d/1g_CKX8zctjWvRbEJa1Ec_DCrEzfzpJxN/view?usp=sharing)) 
 is a computational algorithm that can extract TCR/BCR immune repertoires from tumor bulk or single cell RNA-seq data. 
+-[**DeepBCR**](https://bitbucket.org/liulab/deepbcr/src/master/) &nbsp; Deep learning framework for cancer-type classification and binding affinity estimation using B cell receptor repertoires
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
 
