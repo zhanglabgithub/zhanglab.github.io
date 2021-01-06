@@ -12,6 +12,12 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2020
+- Wan C, Keany M, Dong H, Al-Alem L, Pandya U, Saso S, Boehnke K, Lynch K, Xu R, Zarrella D, Gu S, Cejas P, Lim K, Long H, Elias K, Horowitz N, Reitmate C, Muto M, Worley M, Berkowitz R, Matulonis U, Nucci M, Crum C, Rueda B, Brown M, **Liu XS**, Hill S. Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade serous ovarian cancer. Cancer Res. 2020 Dec 81(1):158-73.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33158814)
+[[Full Paper]](/resources/publications/CancerRes_81.pdf) 
+- Bagati A, Kumar A, Jiang P, Pyrdol J, Zou AE, Godicelj A, Mathewson ND, Cartwright ANR, Cejas P, Brown M, Giobbie-Hurder A, Dillon D, Agudo J, Mittendorf E, **Liu XS**\*, Wucherpfennig KW. Integrin &alpha;v&beta;6-TGF&beta;-SOX4 pathway drives immune evasion in triple-negative breast cancer. Cancer Cell. 2020 Dec 39:1-14.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33385331)
+[[Full Paper]](/resources/publications/CaCell_39.pdf)
 - Meyer CA, **Liu XS** Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci. 2020 Oct 45(12):1094-5.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33051080)
 [[Full Paper]](/resources/publications/TrendsBiochemSci45_1094.pdf)
