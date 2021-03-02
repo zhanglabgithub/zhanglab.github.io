@@ -11,6 +11,14 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)<br>
 \# Co-first authors; \* Co-corresponding authors
 
+##2021
+- Tokheim C#, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell. 2021 Mar 81:1-17.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
+[[Full Paper]](/resources/publications/MolCell81_1.pdf) 
+- Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, Liu XS, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA, Regev A, Suvà ML, Wucherpfennig KW. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 2021 Feb 184:1-18. 
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
+[[Full Paper]](/resources/publications/Cell184_1.pdf) 
+
 ## 2020
 - Wan C, Keany M, Dong H, Al-Alem L, Pandya U, Saso S, Boehnke K, Lynch K, Xu R, Zarrella D, Gu S, Cejas P, Lim K, Long H, Elias K, Horowitz N, Reitmate C, Muto M, Worley M, Berkowitz R, Matulonis U, Nucci M, Crum C, Rueda B, Brown M, **Liu XS**, Hill S. Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade serous ovarian cancer. Cancer Res. 2020 Dec 81(1):158-73.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33158814)
