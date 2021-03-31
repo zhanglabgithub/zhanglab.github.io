@@ -7,7 +7,7 @@ permalink: /teaching
 ### 1. X Shirley Liu's [Blog](https://www.longwoodgenomics.org/)
 
 ### 2. Introduction to Computational Biology and Bioinformatics
-
+- [STAT115/215 BIO/BST282 2021](https://liulab-dfci.github.io/bioinfo-combio/)<br>
 - [STAT115/215 BIO/BST282 2020](https://canvas.harvard.edu/courses/66883) <br>
 	If you can't access Canvas, use the following links: 
 	- [Module1](/resources/html/STAT115_2020_Module1.html) 
