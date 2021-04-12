@@ -20,7 +20,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Cell184_1.pdf) 
 
 ## 2020
-- Meyer CA, **Liu XS** 2020. Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci 45(12):1094-5.<br>
+- Meyer CA, **Liu XS**. 2020. Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci 45(12):1094-5.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33051080)
 [[Full Paper]](/resources/publications/TrendsBiochemSci45_1094.pdf)
 - Gu S#, Wang X#, Hu X#, Jiang P, Li Z, Traugh N, Bu X, Tang Q, Wang C, Zeng Z, Fu J, Meyer CA, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu A,, Xing X, Kroger B, Ouyang Z, Long H, Freeman G\*, Brown M\*, **Liu XS**\*. 2020. Clonal tracing reveals diverse patters of response to immune checkpoint blockade. Genome Biol 21(1):263.<br>
