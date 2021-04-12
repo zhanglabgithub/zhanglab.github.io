@@ -12,83 +12,83 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
-- Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell. 2021 Mar 81:1-17.<br>
+- Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
 [[Full Paper]](/resources/publications/MolCell81_1.pdf) 
-- Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA, Regev A, Suvà ML, Wucherpfennig KW. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 2021 Feb 184:1-18.<br> 
+- Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA, Regev A, Suvà ML, Wucherpfennig KW. 2021. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 184:1-18.<br> 
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
 [[Full Paper]](/resources/publications/Cell184_1.pdf) 
 
 ## 2020
-- Wan C, Keany M, Dong H, Al-Alem L, Pandya U, Saso S, Boehnke K, Lynch K, Xu R, Zarrella D, Gu S, Cejas P, Lim K, Long H, Elias K, Horowitz N, Reitmate C, Muto M, Worley M, Berkowitz R, Matulonis U, Nucci M, Crum C, Rueda B, Brown M, **Liu XS**, Hill S. Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade serous ovarian cancer. Cancer Res. 2020 Dec 81(1):158-73.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33158814)
-[[Full Paper]](/resources/publications/CancerRes_81.pdf) 
-- Bagati A, Kumar A, Jiang P, Pyrdol J, Zou AE, Godicelj A, Mathewson ND, Cartwright ANR, Cejas P, Brown M, Giobbie-Hurder A, Dillon D, Agudo J, Mittendorf E, **Liu XS**, Wucherpfennig KW. Integrin &alpha;v&beta;6-TGF&beta;-SOX4 pathway drives immune evasion in triple-negative breast cancer. Cancer Cell. 2020 Dec 39:1-14.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33385331)
-[[Full Paper]](/resources/publications/CaCell_39.pdf)
-- Meyer CA, **Liu XS** Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci. 2020 Oct 45(12):1094-5.<br>
+- Meyer CA, **Liu XS** 2020. Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci 45(12):1094-5.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33051080)
 [[Full Paper]](/resources/publications/TrendsBiochemSci45_1094.pdf)
-- Gu S#, Wang X#, Hu X#, Jiang P, Li Z, Traugh N, Bu X, Tang Q, Wang C, Zeng Z, Fu J, Meyer CA, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu A,, Xing X, Kroger B, Ouyang Z, Long H, Freeman G\*, Brown M\*, **Liu XS**\*. Clonal tracing reveals diverse patters of response to immune checkpoint blockade. Genome Biol. 2020 Oct 15;21(1):263.<br>
+- Gu S#, Wang X#, Hu X#, Jiang P, Li Z, Traugh N, Bu X, Tang Q, Wang C, Zeng Z, Fu J, Meyer CA, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu A,, Xing X, Kroger B, Ouyang Z, Long H, Freeman G\*, Brown M\*, **Liu XS**\*. 2020. Clonal tracing reveals diverse patters of response to immune checkpoint blockade. Genome Biol 21(1):263.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33059736)
 [[Full Paper]](/resources/publications/GenomeBiol21_263.pdf)
-- Li X et al. (Complete list of authors available online). Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet. 2020 Sep 52(9):969-983. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839606)
-[[Full Paper]](/resources/publications/NatGenet52_969.pdf)
-- Gao Y, Nihira NT, Bu X, Chu C, Zhang J, Kolodziejczyk A, Fan Y, Chan NT, Ma L, Liu J, Wang D, Dai X, Liu H, Ono M, Nakanishi A, Inuzuka H, North BJ, Huang YH, Sharma S, Geng Y, Xu W, **Liu XS**, Li L, Miki Y, Sicinski P, Freeman GJ, Wei W. Acetylation-dependent regulation of PD-L1 nuclear translocation dictates the efficacy of anti-PD-1 immunotherapy.  Nat Cell Biol. 2020 Sep 22(9):1064-1075.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839551)
-[[Full Paper]](/resources/publications/NatCellBiol22_1064.pdf)
-- Wu SZ, Roden DL, Wang C, Holliday H, Harvey K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartoniecek N, Hou R, Torpy JR, Junakar S, Chan C, Lan CE, Hui MN, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mak C, Cooper C, Warrier S, Forrest A, Powell J, O'Toole S, Cox T, Timpson P, Lim E, **Liu XS**, Swarbrick A. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. EMBO Jrnl. 2020 Aug 13:1-20.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32790115)
-[[Full Paper]](/resources/publications/EMBO20_BRCA_scRNAseq.pdf)
-- Li B, Li T, Liu JS, **Liu XS**. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol. 2020 2120:249-262.<br>
+- Li B, Li T, Liu JS, **Liu XS**. 2020. Computational deconvolution of tumor-infiltrating immune components with bulk tumor gene expression data. Methods Mol Biol 2120:249-262.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32124325)
 [[Full Paper]](/resources/publications/MethMolBiol2120_249.pdf)
-- Cader FZ#, Hu F#, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**\*, Shipp M\*. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed. 2020 Sep 26(9):1468-1479.<br>
+- Cader FZ#, Hu F#, Goh W, Wienand K, Ouyang J, Mandato E, Redd R, Lawton L, Chen PH, Weirather J, Schackman RC, Li B, Ma W, Armand P, Rodig SJ, Neuberg D, **Liu XS**\*, Shipp M\*. 2020. A peripheral immune signature of responsiveness to PD-1 blockade in patients with classical Hodgkin lymphoma. NatMed 26(9):1468-1479.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32778827)
 [[Full Paper]](/resources/publications/NatMed_Cader_2020.pdf)
-- Wang C#, Sun D#, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T*, **Liu XS**\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol. 2020 Aug 7;21:198.<br>
+- Wang C#, Sun D#, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer C, Brown M, Tang M, Long H, Liu T*, **Liu XS**\*. 2020. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol 21:198.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32767996)
 [[Full Paper]](/resources/publications/GenBiol21_198.pdf)
-- Zhang J#, Lee D#, Dhiman V#, Jiang P#, Xu J#, McGillivray P#, Yang H#, Liu J, Meyerson W, Clarke D, Gu M, Li S, Lou S, Xu J, Lochovsky L, Ung M, Ma L, Yu S, Cao Q, Harmanci A, Yan KK, Sethi A, Gürsoy G, Schoenberg MR, Rozowsky J, Warrell J, Emani P, Yang YT, Galeev T, Kong X, Liu S, Li X, Krishnan J, Feng Y, Rivera-Mulia JC, Adrian J, Broach JR, Bolt M, Moran J, Fitzgerald D, Dileep V, Liu T, Mei S, Sasaki T, Trevilla-Garcia C, Wang S, Wang Y, Zang C, Wang D, Klein RJ, Snyder M, Gilbert DM, Yip K, Cheng C, Yue F*, **Liu XS**\*, White KP\*, Gerstein M\*. An integrative ENCODE resource for cancer genomics. Nat Commun. 2020 Jul 29;11:3696.<br>
+- Zhang J#, Lee D#, Dhiman V#, Jiang P#, Xu J#, McGillivray P#, Yang H#, Liu J, Meyerson W, Clarke D, Gu M, Li S, Lou S, Xu J, Lochovsky L, Ung M, Ma L, Yu S, Cao Q, Harmanci A, Yan KK, Sethi A, Gürsoy G, Schoenberg MR, Rozowsky J, Warrell J, Emani P, Yang YT, Galeev T, Kong X, Liu S, Li X, Krishnan J, Feng Y, Rivera-Mulia JC, Adrian J, Broach JR, Bolt M, Moran J, Fitzgerald D, Dileep V, Liu T, Mei S, Sasaki T, Trevilla-Garcia C, Wang S, Wang Y, Zang C, Wang D, Klein RJ, Snyder M, Gilbert DM, Yip K, Cheng C, Yue F*, **Liu XS**\*, White KP\*, Gerstein M\*. 2020. An integrative ENCODE resource for cancer genomics. Nat Commun 11:3696.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728046)
 [[Full Paper]](/resources/publications/NatCommun11_3696.pdf)
-- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020 Jul 30;583:699-710.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728249)
-[[Full Paper]](/resources/publications/Nature20_Expan583.pdf)
-- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). Perspectives on ENCODE. Nature. 2020 Jul 30;583:693-698.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728248)
-[[Full Paper]](/resources/publications/Nature20_Persp583.pdf)
-- Li Z#, Wang B#, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T\*, Boland G\*, **Liu XS**\*. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics. 2020 Feb 18(1):26-40.<br>
+- Li Z#, Wang B#, Gu S, Peng J, Sahu A, Chen C, Han T, Shi S, Wang X, Traugh N, Liu H, Liu Y, Wu Q, Brown M, Xiao T\*, Boland G\*, **Liu XS**\*. 2020. CRISPR screens identify essential cell growth mediators in BRAF inhibitor-resistant melanoma. Genomics Proteomics Bioinformatics 18(1):26-40.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32413516)
 [[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
-- Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res. 2020 Apr 30 (9):732-744.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32355287)
-[[Full Paper]](/resources/publications/Liu_CellRes_2020.pdf)
-- Chen C#, Zheng R, Tokheim C, Dong X, Fan J, Wan C, Tang Q, Brown M, Liu JS, Meyer C\*, **Liu XS**\*. Determinants of transcription factor regulatory range. Nat Commun. 2020 11:2472.<br>
+- Chen C#, Zheng R, Tokheim C, Dong X, Fan J, Wan C, Tang Q, Brown M, Liu JS, Meyer C\*, **Liu XS**\*. 2020. Determinants of transcription factor regulatory range. Nat Commun 11:2472.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32424124)
 [[Full Paper]](/resources/publications/Chen_NatComm_2020.pdf)
-- Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell. 2020 Jun 17;78(6):1096-1113.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32416067)
-[[Full Paper]](/resources/publications/Shu_MolCell_2020.pdf)
-- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. Cancer Immunol Res. 2020 Aug 8;8(8):1075-1084.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
-[[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
-- Shi S#, Gu S#, Han T, Zhang W, Huang L, LiZ, Pan D, Fu J, Ge J, Brown M, Zhang P, Jiang P\*, Wucherpfennig KW\*, **Liu XS**\*. Inhibition of MAN2A1 enhances tumor response to anti-PD-L1. Clin Cancer Res. 2020 Jul 28: OF1-OF13<br>
+- Shi S#, Gu S#, Han T, Zhang W, Huang L, LiZ, Pan D, Fu J, Ge J, Brown M, Zhang P, Jiang P\*, Wucherpfennig KW\*, **Liu XS**\*. 2020. Inhibition of MAN2A1 enhances tumor response to anti-PD-L1. Clin Cancer Res 28:OF1-OF13<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32723834)
 [[Full Paper]](/resources/publications/CCR_MAN2A1_2020.pdf)
-- Li, T#, Fu J#, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res. 2020 Jul 2;48(W1):W509-W514. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
-[[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
-- Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA\*. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience. 2020 Feb 27;23(3):100941. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32169821)
-[[Full Paper]](/resources/publications/Chu_iScience_2020.pdf)
-- Fu J, Li K, Zhang W, Wan C, Zhang J\*, Jiang P\*, **Liu XS**\*. Large-scale public data reuse to model immunotherapy response and resistance. Genome Med. 2020 Feb 26;12(1):21.<br>
+- Fu J, Li K, Zhang W, Wan C, Zhang J\*, Jiang P\*, **Liu XS**\*. 2020. Large-scale public data reuse to model immunotherapy response and resistance. Genome Med 12(1):21.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32102694)
 [[Full Paper]](/resources/publications/Fu_GenMed_2020.pdf)
-- Qin Q#, Fan J#, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M, Zhang J\*, Meyer CA\*, **Liu XS**\*. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Genome Biol. 2020 Feb 7;21(1):32.<br>
+- Qin Q#, Fan J#, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M, Zhang J\*, Meyer CA\*, **Liu XS**\*. 2020. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Genome Biol 21(1):32.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32033573)
 [[Full Paper]](/resources/publications/Qin_GenBiol_2020.pdf)
+- Li, T#, Fu J#, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. 2020. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res 48(W1):W509-W514. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
+[[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
+- Bagati A, Kumar A, Jiang P, Pyrdol J, Zou AE, Godicelj A, Mathewson ND, Cartwright ANR, Cejas P, Brown M, Giobbie-Hurder A, Dillon D, Agudo J, Mittendorf E, **Liu XS**, Wucherpfennig KW. 2020. Integrin &alpha;v&beta;6-TGF&beta;-SOX4 pathway drives immune evasion in triple-negative breast cancer. Cancer Cell 39:1-14.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33385331)
+[[Full Paper]](/resources/publications/CaCell_39.pdf)
+- Abou Alaiwi S, Nassar AH, Zie W, Bakouny Z, Berchuck JE, Braun DA, Baca SC, Nuzzo PV, Flippot R, Mouhieddine TH, Spurr LF, Li YY, Li T, Flaifel A, Steinharter JA, Margolis CA, Vokes NI, Du H, Shukla SA, Cherniack AD, Sonpavde G, Haddad RI, Awad MM, Giannakis M, Hodi FS, **Liu XS**, Signoretti S, Kadoch C, Freedman ML, KWiatkowski DJ, Van Allen EM, Choueiri TK. 2020. Mammalian SWI/SNF complex genomic alterations and immune checkpoint blockade in solid tumors. 2020 Cancer Immunol Res 8(8):1075-1084.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32321774)
+[[Full Paper]](/resources/publications/Alaiwi_CAImmunoRsch_2020.pdf)
+- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). 2020. Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature 583:699-710.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728249)
+[[Full Paper]](/resources/publications/Nature20_Expan583.pdf)
+- The ENCODE Project Consortium (List of authors provided in Supp. Info. section). 2020. Perspectives on ENCODE. Nature 583:693-698.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32728248)
+[[Full Paper]](/resources/publications/Nature20_Persp583.pdf)
+- Li X et al. (Complete list of authors available online). 2020. Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. Nat Genet 52(9):969-983. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839606)
+[[Full Paper]](/resources/publications/NatGenet52_969.pdf)
+- Gao Y, Nihira NT, Bu X, Chu C, Zhang J, Kolodziejczyk A, Fan Y, Chan NT, Ma L, Liu J, Wang D, Dai X, Liu H, Ono M, Nakanishi A, Inuzuka H, North BJ, Huang YH, Sharma S, Geng Y, Xu W, **Liu XS**, Li L, Miki Y, Sicinski P, Freeman GJ, Wei W. Acetylation-dependent regulation of PD-L1 nuclear translocation dictates the efficacy of anti-PD-1 immunotherapy.  Nat Cell Biol 22(9):1064-1075.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32839551)
+[[Full Paper]](/resources/publications/NatCellBiol22_1064.pdf)
+- Wu SZ, Roden DL, Wang C, Holliday H, Harvey K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartoniecek N, Hou R, Torpy JR, Junakar S, Chan C, Lan CE, Hui MN, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mak C, Cooper C, Warrier S, Forrest A, Powell J, O'Toole S, Cox T, Timpson P, Lim E, **Liu XS**, Swarbrick A. 2020. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. EMBO Jrnl 13:1-20.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32790115)
+[[Full Paper]](/resources/publications/EMBO20_BRCA_scRNAseq.pdf)
+- Liu X, Liu T, Shang Y, Dai P, Zhang W, Lee BJ, Huang M, Yang D, Wu Q, Liu DL, Zheng X, Zhou BO, Dong J, Yeap L, Hu J, Xiao T, Zha S, Casellas R, **Liu XS**, Meng F. 2020. ERCC6L2 promotes DNA orientation-specific recombination in mammalian cells. Cell Res 30(9):732-744.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32355287)
+[[Full Paper]](/resources/publications/Liu_CellRes_2020.pdf)
+- Shu S, Wu HJ, Ge JY, Seid R, Harris IS, Jovanovic B, Murphy K, Wang B, Qui X, Endress JE, Reyes J, Lim K, Font-Tello A, Syamala S, Ziao T, Reddy Chilamakuri CS, Papachristou EK, D'Santos C, Anand J, Hinohara K, Li W, McDonald TO, Luoma A, Modiste RJ, Nguyen QD, Michel B, Cejas P, Kadoch C, Jaffe JD, Wucherpfennig KW, Qi J, **Liu XS**, Long H, Brown M, Carroll JS, Brugge JS, Bradner J, Michor F, Polyak K. 2020. Synthetic lethal and resistance interaction with BET Bromodomain inhibitors in triple-negative breast cancer. Mol Cell 78(6):1096-1113.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32416067)
+[[Full Paper]](/resources/publications/Shu_MolCell_2020.pdf)
+- Wan C, Keany M, Dong H, Al-Alem L, Pandya U, Saso S, Boehnke K, Lynch K, Xu R, Zarrella D, Gu S, Cejas P, Lim K, Long H, Elias K, Horowitz N, Reitmate C, Muto M, Worley M, Berkowitz R, Matulonis U, Nucci M, Crum C, Rueda B, Brown M, **Liu XS**, Hill S. 2020. Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade serous ovarian cancer. Cancer Res 81(1):158-73.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33158814)
+[[Full Paper]](/resources/publications/CancerRes_81.pdf) 
+- Chu SH, Chabon JR, Matovina CN, Chen BR, Zhang J, Kuman V, Xiong Y, Callen E, Hung PJ, Feng Z, Koche RP, **Liu XS**, Chaudhuri J, Nussenzweig Z, Sleckman BP, Armstrong SA\*. 2020. Loss of H3K36 Methyltransferase SETD2 impairs V(E)J recombination during lymphoid development. iScience 23(3):100941. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32169821)
+[[Full Paper]](/resources/publications/Chu_iScience_2020.pdf)
 
 ## 2019
 - Fei T#, Li W#, Peng J#, Xiao T, Chen CH, Wu A, Huang J, Zang C, **Liu XS**\*, Brown M\*. Deciphering essential cistromes using genome-wide CRISPR screens. Proc Natl Acad Sci U S A. 2019 Dec 10;115(50):25186-25195.<br>
