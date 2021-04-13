@@ -212,58 +212,58 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/CellDeathDis17_e2726.pdf)
 
 ## 2016
-- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Yang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*.Addendum: REST and stress resistance in ageing and Alzheimer’s disease. Nature. 2016 Dec 15;540(7633):470. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27851730)
-[[Corrections and Amendments]](/resources/publications/Nature16_Addendumto14_448.pdf)
-- Wang S#, Zang C#, Xiao T, Fan J, Mei S, Qin Q, Wu Q , Li XJ, Xu K, He HH, Brown M, Meyer CA\*, **Liu XS**\*. Modeling cis-regulation with a compendium of genome-wide histone H3K27ac profiles. Genome Res. 2016 Oct;26(10)1417-1429. 
+- Wang S#, Zang C#, Xiao T, Fan J, Mei S, Qin Q, Wu Q , Li XJ, Xu K, He HH, Brown M, Meyer CA\*, **Liu XS**\*. 2016. Modeling cis-regulation with a compendium of genome-wide histone H3K27ac profiles. Genome Res 26(10)1417-1429. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27466232)
 [[Full Paper]](/resources/publications/GenomeRes16_Jul27.pdf)
-- Ni T#, Li XY#, Lu N#, An T, Liu Zp, Fu R, Zhang YW, Xu XJ, Grant Rowe R, Lin YS, Scherer A, Feinberg T, Zhen XQ, Chen BA, **Liu XS**, Guo QL, Wu ZQ\*, Weiss SJ\*. Snail1-dependent p53 repression regulates expansion and activity of tumour-initiating cells in breast cancer. Nat Cell Biol. 2016 Nov;18(11):1221-1232.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27749822)
-[[Full Paper]](/resources/publications/NatureCellBiol16_1221.pdf)
-- Ma J, Koster J, Qin Q, Hu S, Li W, Chen C, Cao Q, Wang J, Mei S, Liu Q\*, Xu H\*, **Liu XS**\* . CRISPR-DO for genome-wide CRISPR design and optimization.Bioinformatics. 2016 Nov 1;32(21):3336-38. 
+- Ma J, Koster J, Qin Q, Hu S, Li W, Chen C, Cao Q, Wang J, Mei S, Liu Q\*, Xu H\*, **Liu XS**\*. 2016. CRISPR-DO for genome-wide CRISPR design and optimization.Bioinformatics 32(21):3336-38. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27402906)
 [[Full Paper]](/resources/publications/Bioinformatics16_32.pdf)
-- Zhu S#, Li W#, Liu J, Chen CH Liao Q, Xu P, Xu H, Xiao T, Cao Z, Peng J, Yuan P, Brown M, **Liu XS**\*, Wei W\*. Genome-scale deletion screening of human long non-coding RNAs using a paired-guide RNA CRISPR-Cas9 library. Nature Biotech. 2016 Dec;34(12):1279-86. 
+- Zhu S#, Li W#, Liu J, Chen CH Liao Q, Xu P, Xu H, Xiao T, Cao Z, Peng J, Yuan P, Brown M, **Liu XS**\*, Wei W\*. 2016. Genome-scale deletion screening of human long non-coding RNAs using a paired-guide RNA CRISPR-Cas9 library. Nature Biotech 34(12):1279-86. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27798563)
 [[Full Paper]](/resources/publications/NatBiotech16_1279.pdf)
-- Qin Q#, Mei S#, Wu Q#, Sun H, Li L, Taing L, Chen S, Li F, Liu T, Zang C, Xu H, Chen Y, Meyer CA, Zhang Y, Brown M, Long HW\*, **Liu XS**\*. ChiLin: a comprehensive ChIP-seq and DNase -seq quality control and analysis pipeline. BMC Bioinformatics. 2016 Oct 3;17(1):404. 
+- Qin Q#, Mei S#, Wu Q#, Sun H, Li L, Taing L, Chen S, Li F, Liu T, Zang C, Xu H, Chen Y, Meyer CA, Zhang Y, Brown M, Long HW\*, **Liu XS**\*. 2016. ChiLin: a comprehensive ChIP-seq and DNase -seq quality control and analysis pipeline. BMC Bioinformatics 17(1):404. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27716038)
 [[Full Paper]](/resources/publications/BMCBioinformatics16_404.pdf)
-- Zang C#, Luyten A#, Chen J, **Liu XS**. Shivdasani RA\*. NF-E2, FLI1 and RUNX1 collaborate at areas of dynamic chromatin to activate transcription in mature mouse megakaryocytes. Sci Rep. 2016 Jul 26;6:30255. 
+- Zang C#, Luyten A#, Chen J, **Liu XS**, Shivdasani RA\*. 2016. NF-E2, FLI1 and RUNX1 collaborate at areas of dynamic chromatin to activate transcription in mature mouse megakaryocytes. Sci Rep 6:30255. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27457419)
 [[Full Paper]](/resources/publications/srep16_30255.pdf)
-- Li B, Severson E, Pignon JC, Zhao H, Li T, Novak J, Jiang P, Shen H, Aster JC, Rodig S, Signoretti S, Liu JS\*, **Liu XS**\*. Comprehensive analyses of tumor immunity: implications for cancer immunotherapy. Genome Biol. 2016 Aug 22;17(1):174. 
+- Li B, Severson E, Pignon JC, Zhao H, Li T, Novak J, Jiang P, Shen H, Aster JC, Rodig S, Signoretti S, Liu JS\*, **Liu XS**\*. 2016. Comprehensive analyses of tumor immunity: implications for cancer immunotherapy. Genome Biol 17(1):174. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27549193)
 [[Full Paper]](/resources/publications/GenomeBiol16_174.pdf)
 [[Data Download]](http://cistrome.org/TIMER/download.html)
-- Li B#, Li T#, Pignon JC, Wang B, Wang J, Shukla SA, Dou R, Chen Q, Hodi FS, Choueiri TK, Wu C, Hacohen N, Signoretti S, Liu JS\*, **Liu XS**\*. Landscape of tumor-infiltrating T cell repertoire of human cancers. Nat Genet. 2016 Jul;48(7):725-32. 
+- Li B#, Li T#, Pignon JC, Wang B, Wang J, Shukla SA, Dou R, Chen Q, Hodi FS, Choueiri TK, Wu C, Hacohen N, Signoretti S, Liu JS\*, **Liu XS**\*. 2016. Landscape of tumor-infiltrating T cell repertoire of human cancers. Nat Genet 48(7):725-32. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27240091)
 [[Full Paper]](/resources/publications/NatGenet16_725.pdf)
-- Cejas P, Li L, O’Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, Garcia-Olmo D, Bellmunt J, Mullane S, Hirsch M, Sweeney CJ, Richardson A, **Liu XS**, Brown M, Shivdasani RA\*, Long HW\*. Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles. Nat Med. 2016 Jun;22(6):685-91. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27111282)
-[[Full Paper]](/resources/publications/NatMed16_685.pdf)
-- Zang C#, Wang T#, Deng K, Li B, Hu S, Qin Q, Xiao T, Zhang S, **Meyer CA**, He HH, Brown M, Liu JS, Xie Y\*, **Liu XS**\*. High-dimensional genomic data bias correction and data integration using MANCIE. Nat Commun. 2016 Apr 13;7:11305. 
+- Zang C#, Wang T#, Deng K, Li B, Hu S, Qin Q, Xiao T, Zhang S, **Meyer CA**, He HH, Brown M, Liu JS, Xie Y\*, **Liu XS**\*. 2016. High-dimensional genomic data bias correction and data integration using MANCIE. Nat Commun 7:11305. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27072482)
 [[Full Paper]](/resources/publications/NatCommun16_11305.pdf)
-- Kong L#, Zhang P#, Li W, Yang Y, Tian Y, Wang X, Chen S, Yang Y, Huang T, Zhao T, Tang L, Su B, Li F, **Liu XS**, Zhang F\*. KDM1A promotes tumor cell invasion by silencing TIMP3 in non-small cell lung cancer cells. Oncotarget. 2016 May 10;7(19):27959-74. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27058897)
-[[Full Paper]](/resources/publications/Oncotarget16_27959.pdf)
-- Goel S\*, Wang Q, Watt AC, Tolaney SM, Dillon DA, Li W, Ramm S, Palmer AC, Yuzugullu H, Varadan V, Tuck D, Harris LN, Wong KK, **Liu XS**, Sicinski P, Winer EP, Krop IE, Zhao JJ\*. Overcoming therapeutic resistance in HER2-positive breast cancers with CDK4/6 inhibitors. Cancer Cell. 2016 Mar 14;29(3):255-269. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26977878)
-[[Full Paper]](/resources/publications/CancerCell16_255.pdf)
-- Du Z#, Sun T#, Hacisuleyman E, Fei T, Wang X, Brown M, Rinn JL, Lee MG, Chen Y\*, Kantoff PW\*, **Liu XS**\*. Integrative analyses reveal a long noncoding RNA-mediated sponge regulatory network in prostate cancer. Nat Commun. 2016 Mar 15;7:10982. 
+- Du Z#, Sun T#, Hacisuleyman E, Fei T, Wang X, Brown M, Rinn JL, Lee MG, Chen Y\*, Kantoff PW\*, **Liu XS**\*. 2016. Integrative analyses reveal a long noncoding RNA-mediated sponge regulatory network in prostate cancer. Nat Commun 7:10982. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26975529)
 [[Full Paper]](/resources/publications/NatCommun16_10982.pdf)
-- Liu Y, Fei T, Zheng X, Brown M, Zhang P\*, **Liu XS**\*, Wang H\*. An integrative pharmacogenomic approach identifies two-drug combination therapies for personalized cancer medicine. Sci Rep. 2016 Feb 26;6:22120. 
+- Liu Y, Fei T, Zheng X, Brown M, Zhang P\*, **Liu XS**\*, Wang H\*. 2016. An integrative pharmacogenomic approach identifies two-drug combination therapies for personalized cancer medicine. Sci Rep 6:22120. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26916442)
 [[Full Paper]](/resources/publications/SciRep16_22120.pdf)
-- Shu S#, Lin CY#, He HH#, Witwicki RM#, Tabassum DP, Roberts JM, Janiszewska M, Huh SJ, Liang Y, Ryan J, Doherty E, Mohammed H, Guo H, Stover DG, Ekram MB, Peluffo G, Brown J, D’Santos C, Krop IE, Dillong D, McKeown M, Ott C, Qi J, Ni M, Rao PK, Duarte M, Wu SY, Chiang CM, Anders L, Young RA, Winer EP, Letai A, Barry WT, Carroll JS, Long HW, Brown M, **Liu XS**, Meyer CA, Bradner JE\*, Polyak K\*. Response and resistance to BET bromodomain inhibitors in triple-negative breast cancer. Nature. 2016 Jan 21;529(7586):413-7. 
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26735014)
-[[Full Paper]](/resources/publications/Nature16_413.pdf)
-- Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, Hu S, Li F, Long H, Brown M\*, **Liu XS**\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. Mol Cancer Res. 2016 Feb;14(2):163-72. 
+- Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, Hu S, Li F, Long H, Brown M\*, **Liu XS**\*. 2016. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. Mol Cancer Res 14(2):163-72. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26659825)
 [[Full Paper]](/resources/publications/MolCancerRes16_163.pdf)
+- Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Yang TH, Kim HM, Drake D, **Liu XS**, Bennett DA, Colaiacovo MP, Yankner BA\*. 2016. Addendum: REST and stress resistance in ageing and Alzheimer’s disease. Nature 540(7633):470. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27851730)
+[[Corrections and Amendments]](/resources/publications/Nature16_Addendumto14_448.pdf)
+- Ni T#, Li XY#, Lu N#, An T, Liu Zp, Fu R, Zhang YW, Xu XJ, Grant Rowe R, Lin YS, Scherer A, Feinberg T, Zhen XQ, Chen BA, **Liu XS**, Guo QL, Wu ZQ\*, Weiss SJ\*. 2016. Snail1-dependent p53 repression regulates expansion and activity of tumour-initiating cells in breast cancer. Nat Cell Biol 18(11):1221-1232.
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27749822)
+[[Full Paper]](/resources/publications/NatureCellBiol16_1221.pdf)
+- Cejas P, Li L, O’Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, Garcia-Olmo D, Bellmunt J, Mullane S, Hirsch M, Sweeney CJ, Richardson A, **Liu XS**, Brown M, Shivdasani RA\*, Long HW\*. 2016. Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles. Nat Med 22(6):685-91. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27111282)
+[[Full Paper]](/resources/publications/NatMed16_685.pdf)
+- Kong L#, Zhang P#, Li W, Yang Y, Tian Y, Wang X, Chen S, Yang Y, Huang T, Zhao T, Tang L, Su B, Li F, **Liu XS**, Zhang F\*. 2016. KDM1A promotes tumor cell invasion by silencing TIMP3 in non-small cell lung cancer cells. Oncotarget 7(19):27959-74. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/27058897)
+[[Full Paper]](/resources/publications/Oncotarget16_27959.pdf)
+- Goel S\*, Wang Q, Watt AC, Tolaney SM, Dillon DA, Li W, Ramm S, Palmer AC, Yuzugullu H, Varadan V, Tuck D, Harris LN, Wong KK, **Liu XS**, Sicinski P, Winer EP, Krop IE, Zhao JJ\*. 2016. Overcoming therapeutic resistance in HER2-positive breast cancers with CDK4/6 inhibitors. Cancer Cell 29(3):255-269. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26977878)
+[[Full Paper]](/resources/publications/CancerCell16_255.pdf)
+- Shu S#, Lin CY#, He HH#, Witwicki RM#, Tabassum DP, Roberts JM, Janiszewska M, Huh SJ, Liang Y, Ryan J, Doherty E, Mohammed H, Guo H, Stover DG, Ekram MB, Peluffo G, Brown J, D’Santos C, Krop IE, Dillong D, McKeown M, Ott C, Qi J, Ni M, Rao PK, Duarte M, Wu SY, Chiang CM, Anders L, Young RA, Winer EP, Letai A, Barry WT, Carroll JS, Long HW, Brown M, **Liu XS**, Meyer CA, Bradner JE\*, Polyak K\*. 2016. Response and resistance to BET bromodomain inhibitors in triple-negative breast cancer. Nature 529(7586):413-7. 
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/26735014)
+[[Full Paper]](/resources/publications/Nature16_413.pdf)
 
 ## 2015
 - Du Z, Fei T, Brown M, **Liu XS**, Chen Y. Data integration on noncoding RNA Studies. Chapter in: Tseng G, Ghosh D, Zhou XJ, eds. Integrating Omics Data.Cambridge University Press: Cambridge, England. Sep 2015: 403-424. 
