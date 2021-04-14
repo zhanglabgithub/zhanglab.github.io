@@ -605,7 +605,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Li W, Carroll JS, Brown M, **Liu XS**. 2008. xMAN: extreme Mapping of OligoNucleotides. BIOCOMP ’07 (acceptance rate 27%). BMC Genomics 9 Suppl 1:S20. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18366610?dopt=Citation)
 [[Full Paper]](/resources/publications/Li_XMAN_BMC_2008.pdf)
-- Zhang Y\*, Liu T\*, Meyer CA, Eeckhoute J, Johnson DS, Bernstein B, Nusbaum C, Myers RM, Brown M, Li W, **Liu XS**. 2008. Model-based Analysis of ChIP-seq (MACS).Genome Biology 9(9):R137. 
+- Zhang Y\*, Liu T\*, Meyer CA, Eeckhoute J, Johnson DS, Bernstein B, Nusbaum C, Myers RM, Brown M, Li W, **Liu XS**. 2008. Model-based Analysis of ChIP-seq (MACS).Genome Biol 9(9):R137. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18798982)
 [[Full Paper]](http://genomebiology.com/2008/9/9/R137)
 - Zhang Y\*, Shin H\*, Song JS, Lei Y, **Liu XS**. 2008. Identifying positioned nucleosomes with epigenetic marks in human from ChIP-Seq. BMC Genomics 9:537. 
@@ -623,7 +623,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Lupien M, Eeckhoute J, Meyer CA, Wang Q, Zhang Y, Li W, Carroll JS, **Liu XS**, Brown M. 2008. FoxA1 translates epigenetic signatures into enhancer driven lineage-specific transcription. Cell 132(6):958-70. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18358809?dopt=Citation)
 [[Full Paper]](/resources/publications/Lupien_FoxA1_Cell_2008.pdf)
-- Ozsolak F, Poling L, Wang Z, Liu H, **Liu XS**, Roeder RG, Zhang X, Song JS, Fisher DE. 2008. Chromatin structure analyses identify miRNA promoters. Genes Development 22(22):3172-83. 
+- Ozsolak F, Poling L, Wang Z, Liu H, **Liu XS**, Roeder RG, Zhang X, Song JS, Fisher DE. 2008. Chromatin structure analyses identify miRNA promoters. Genes Dev 22(22):3172-83. 
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/19056895)
 [[Full Paper]](/resources/publications/Ozsolak_microRNA_GenDev_2008.pdf)
 - Song J, Liu X, **Liu XS**, He X. 2008. A high-resolution map of nucleosome positioning on a fission yeast centromere. Genome Res 18(7):1064-72. 
