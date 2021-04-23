@@ -42,6 +42,8 @@ Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) is a computati
 Network Essentiality Scoring Tool (NEST) is designed to predict gene essentiality based on protein interaction network and gene expression. It can also be used to enhance the quality of CRISPR screen results.  Publication submitted.
 - [**CRISPR-DO**](http://cistrome.org/crispr/)  &nbsp;
 Genome-wide CRISPR gRNA design and optimization
+- [**CRISPR-FOCUS**](http://cistrome.org/crispr-focus/)  &nbsp;
+A tool for designing customized sgRNA libray against user input gene list. 
 - [**SSC**](https://sourceforge.net/projects/spacerscoringcrispr/) &nbsp;
 Sequence Scan for CRISPR gRNA efficiency.
 
