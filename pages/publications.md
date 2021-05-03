@@ -12,10 +12,19 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
+- Gu S#, Zhang W, Wang X, Jiang P, Traugh N, Li Z, Meyer C, Stewig B, Xie Y, Bu X, Manos MP, Font-Tello A, Gjini E, Lako A, Lim K, Conway J, Tewari AK, Zeng Z, Das Sahu A, Tokheim C, Weirather JL, Fu J, Zhang Y, Kroger B, Liang JH, Cejas P, Freeman GJ, Rodig S, Long HW, Gewurz BE, Hodi FS, Brown M, **Liu XS**. 2021. Therapeutically increasing MHC-I expression potentiates immune checkpoint blockade. Cancer Discov. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33589424)
+[[Data and Code]](https://github.com/WubingZhang/MHCI_TRAF3)
 - Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
 [[Full Paper]](/resources/publications/MolCell81_1.pdf)
 [[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
+- Penter L, Zhang Y, Saveli A Huang T, Cieri N, thrash EM, Kim-Schulze S, Jhaveri A, Fu J, Ranasinghe S, Li S, Zhang W, Hathaway ES, Nazzaro M, Kim HT, Chen H, Thurin M, Rodig SJ, Severgnini M, Cibulskis C, Gabriel S, Livak KJ, Cutler C, Antin JH, Nikiforow S, Koreth J, Ho VT, Armand P, Ritz J, Streicher H, Neuberg D, Hodi FS, Gnjatic S, Soiffer RJ, **Liu XS**, Davids MS, Bachireddy P, Wu CJ. 2021. Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies after transplantation. Blood. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33720354)
+- Kumar S, Zeng Z, Bagati A, Tay RE, Sanz LA, Hartono SR, Ito Y, Abderazzaq F, Hatchi E, Jiang P, Cartwright ANR, Olawoyin O, Mathewson ND, Pyrdol JW, Li MZ, Doench JG, Booker MA, Tolstorukov MY, Elledge SJ, Chedin F, **Liu XS**, Wucherpfennig KW. 2021. CARM1 inhibition enables immunotherapy of resistant tumors by dual action on tumor cells and T cells. Cancer Discov. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33707234)
+- Chen HX, Song M, Maecker HT, Gnjatic S, Patton D, Lee JJ, Adam SJ, Moravec R, **Liu XS**, Cerami E, Lindsay J, Hodi FS, Wu C, Wistuba II, Al-Atrash G, Bernatchez C, Bendall SC, Hewitt SM, Sharon E, Streicher H, Enos RA, Bowman MD, Tatard-Leitman VM, Sanchez-Espiridion B, Ranasinghe S, Pichavent M, Del Valle DM, Yu J, Janssens S, Peterson-Klaus J, Rowe C, Bongers G, Jenq RR, Chang CC, Abrams JS, Mooney M, Doroshow JH, Harris LN, Thurin M. 2021. Network for biomarker immunoprofiling for cancer immunotherapy: cancer immune monitoring and analysis centers and cancer immunologic Data Commons (CIMAC-CIDC). Clin Cancer Res. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33419780)
 - Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA, Regev A, Suvà ML, Wucherpfennig KW. 2021. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 184:1-18.<br> 
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
 [[Full Paper]](/resources/publications/Cell184_1.pdf) 
@@ -57,6 +66,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Li, T#, Fu J#, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. 2020. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res 48(W1):W509-W514. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
+- Zeng Z#, Fu J, Cibulskis C, Jhivari A, Gumbs C, Das B, Sanchez-Espiridion B, Janssens S, Taing L#, Wang J, Lindsay J, Vilimas T, Zhang J, Tokheim C, Sahu AD, Jiang P, Yan C, Y. Duose D, Cerami E, Chen L, Cohen D, Chen QR, Enos RA, Huang X, Lee JJ, Liu Y, Neuberg DS, Nguyen C, Patterson C, Sarkar S, Shukla SA, Tang M, Tsuji J, Uduman M, Wang X, Jason L Weirather, Jijun Yu, Joyce Yu, Zhang J, Zhang J, Meerzaman D, Thurin M, Futreal PA, Karlovich C, Gabriel SB, Wistuba II, **Liu XS**, Wu C. 2020. Cross-site concordance evaluation of tumor DNA and RNA sequencing platforms for the CIMAC-CIDC network. Clin Cancer Res. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33323402)
 - Bagati A, Kumar A, Jiang P, Pyrdol J, Zou AE, Godicelj A, Mathewson ND, Cartwright ANR, Cejas P, Brown M, Giobbie-Hurder A, Dillon D, Agudo J, Mittendorf E, **Liu XS**, Wucherpfennig KW. 2020. Integrin &alpha;v&beta;6-TGF&beta;-SOX4 pathway drives immune evasion in triple-negative breast cancer. Cancer Cell 39:1-14.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33385331)
 [[Full Paper]](/resources/publications/CaCell_39.pdf)
