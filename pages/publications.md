@@ -14,7 +14,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 ## 2021
 - Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
-[[Full Paper]](/resources/publications/MolCell81_1.pdf) 
+[[Full Paper]](/resources/publications/MolCell81_1.pdf)
+[[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
 - Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA, Regev A, Suvà ML, Wucherpfennig KW. 2021. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 184:1-18.<br> 
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
 [[Full Paper]](/resources/publications/Cell184_1.pdf) 
