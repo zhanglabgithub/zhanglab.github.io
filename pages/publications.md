@@ -12,8 +12,9 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
-- Gu S#, Zhang W, Wang X, Jiang P, Traugh N, Li Z, Meyer C, Stewig B, Xie Y, Bu X, Manos MP, Font-Tello A, Gjini E, Lako A, Lim K, Conway J, Tewari AK, Zeng Z, Das Sahu A, Tokheim C, Weirather JL, Fu J, Zhang Y, Kroger B, Liang JH, Cejas P, Freeman GJ, Rodig S, Long HW, Gewurz BE, Hodi FS, Brown M, **Liu XS**. 2021. Therapeutically increasing MHC-I expression potentiates immune checkpoint blockade. Cancer Discov. Epub ahead of print.<br>
+- Gu S#, Zhang W, Wang X, Jiang P, Traugh N, Li Z, Meyer C, Stewig B, Xie Y, Bu X, Manos MP, Font-Tello A, Gjini E, Lako A, Lim K, Conway J, Tewari AK, Zeng Z, Das Sahu A, Tokheim C, Weirather JL, Fu J, Zhang Y, Kroger B, Liang JH, Cejas P, Freeman GJ, Rodig S, Long HW, Gewurz BE, Hodi FS, Brown M, **Liu XS**. 2021. Therapeutically increasing MHC-I expression potentiates immune checkpoint blockade. Cancer Discov 11:1-18.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33589424)
+[[Full Paper]](/resources/publications/CancDisc_11_2021.pdf)
 [[Data and Code]](https://github.com/WubingZhang/MHCI_TRAF3)
 - Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ, Brown M, **Liu XS**. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
