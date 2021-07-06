@@ -23,8 +23,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
 [[Full Paper]](/resources/publications/MolCell81_1.pdf)
 [[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
-- Taing L#, Bai G#, Cousins C#, Cejas P, Oiu X, Herbert ZT, Brown M, Meyer CA, **Liu XS**, Long HW, Tang M. 2021. A snakemake pipeline for quality control and reproducible processing of chromatin profiling data (version 1; peer review: awaiting peer review). F1000 Rsch 10:517.<br>
-[[Abstract]](https://f1000research.com/articles/10-15/v1)
+- Taing L#, Bai G#, Cousins C#, Cejas P, Oiu X, Herbert ZT, Brown M, Meyer CA, **Liu XS**, Long HW, Tang M. 2021. CHIPS: A snakemake pipeline for quality control and reproducible processing of chromatin profiling data (version 1; peer review: awaiting peer review). F1000 Rsch 10:517.<br>
+[[Abstract]](https://f1000research.com/articles/10-517/v1)
 [[Full Paper]](/resources/publications/F1000Rsch10_517.pdf)
 - Penter L, Zhang Y, Saveli A Huang T, Cieri N, thrash EM, Kim-Schulze S, Jhaveri A, Fu J, Ranasinghe S, Li S, Zhang W, Hathaway ES, Nazzaro M, Kim HT, Chen H, Thurin M, Rodig SJ, Severgnini M, Cibulskis C, Gabriel S, Livak KJ, Cutler C, Antin JH, Nikiforow S, Koreth J, Ho VT, Armand P, Ritz J, Streicher H, Neuberg D, Hodi FS, Gnjatic S, Soiffer RJ, **Liu XS**, Davids MS, Bachireddy P, Wu CJ. 2021. Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies after transplantation. Blood. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33720354)
