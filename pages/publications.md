@@ -74,6 +74,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Qin Q#, Fan J#, Zheng R, Wan C, Mei S, Wu Q, Sun H, Brown M, Zhang J\*, Meyer CA\*, **Liu XS**\*. 2020. Lisa: inferring transcriptional regulators through integrative modeling of public chromatin accessibiltiy and ChIP-seq data. Genome Biol 21(1):32.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32033573)
 [[Full Paper]](/resources/publications/Qin_GenBiol_2020.pdf)
+[[Website]](http://lisa.cistrome.org/)
+[[Code for LISA2]](https://github.com/liulab-dfci/lisa2)
 - Li, T#, Fu J#, Zeng Z, Cohen D, Li J, Chen Q, Li B, **Liu, XS**\*. 2020. TIMER2.0 for analysis of tumor-infiltrating immune cells. Nucleic Acids Res 48(W1):W509-W514. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/32442275)
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
