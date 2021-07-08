@@ -15,6 +15,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Song L#, Cohen D#, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33986545) 
 [[Full Paper]](/resources/publications/NatMed18_627.pdf)
+[[Code]](https://github.com/liulab-dfci/TRUST4)
 - Gu S#, Zhang W, Wang X, Jiang P, Traugh N, Li Z, Meyer C, Stewig B, Xie Y, Bu X, Manos MP, Font-Tello A, Gjini E, Lako A, Lim K, Conway J, Tewari AK, Zeng Z, Das Sahu A, Tokheim C, Weirather JL, Fu J, Zhang Y, Kroger B, Liang JH, Cejas P, Freeman GJ, Rodig S, Long HW, Gewurz BE, Hodi FS, Brown M, **Liu XS**. 2021. Therapeutically increasing MHC-I expression potentiates immune checkpoint blockade. Cancer Discov 11:1-18.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33589424)
 [[Full Paper]](/resources/publications/CancDisc_11_2021.pdf)
