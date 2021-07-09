@@ -12,7 +12,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
-- Song L#, Cohen D#, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
+- Song L#, Cohen D, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33986545) 
 [[Full Paper]](/resources/publications/NatMed18_627.pdf)
 [[Code]](https://github.com/liulab-dfci/TRUST4)
