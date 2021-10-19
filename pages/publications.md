@@ -675,117 +675,117 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 
 ## 2007
 - **Liu XS**. 2007. Getting started in tiling microarray analysis. PLoS Comput Biol 3(10):1842-4.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17967045)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17967045)
 [[Full Paper]](/resources/publications/PLoS Comput Biol07_1842.pdf)
 - Song JS, Johnson WE, Zhu X, Zhang X, Li W, Manrai AK, Liu JS, Chen R, **Liu XS**. 2007. Model based analysis for 2-color arrays (MA2C). Genome Biol 8(8):R178.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17727723)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17727723)
 [[Full Paper]](/resources/publications/Song_MA2C_GenomeBiol_2007.pdf)
 - Song J, Maghsoudi K, Li W, Fox A, Quackenbush J and **Liu XS**. 2007. Microarray Blob-Defect Removal Improves Array Analysis. Bioinformatics 23(8):966-71.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17332024)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17332024)
 [[Full Paper]](/resources/publications/Song_Blob_Bioinformatics.pdf)
 - Ozsolak F\*, Song JS\*, **Liu XS**#, Fisher DE#. 2007. High-throughput mapping of the chromatin structure of human promoters. Nat Biotech 25(2)244-8.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17220878)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17220878)
 [[Full Paper]](/resources/publications/Ozsolak_Promoter_NBT_2007.pdf)
 - He H, Wang J, Liu T, **Liu X**, Li T, Wang Y, Qian Z, Zheng H, Zhu X, Wu T, Shi B, Deng W, Zhou W, Skogerbo G, Chen R. 2007. Mapping the C. elegans noncoding transcriptome with a whole genome tiling microarray. Genome Res 17(10):1471-7.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17785534)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17785534)
 [[Full Paper]](/resources/publications/He_elegansNcRNA_GR_2007.pdf)
 - Litovchick L, Sadasivam S, Florens L, Zhu X, Swanson SK, Velmurugan S, Chen R, Washburn MP, **Liu XS**, DeCaprio JA. 2007. Evolutionally conserved multi-subunit RBL2/p130 and E2F4 protein complex represses human cell cycle-dependent genes in quiescence. Mol Cell 26(4)539-51.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17531812)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17531812)
 [[Full Paper]](/resources/publications/Litovchick_E2F4_MolCell.pdf)
 - O’Neil J, Tchinda J, Gutierrez A, Moreau L, Maser R, Wong KK, Li W, KcKenna K, **Liu X**, Neuberg D, Silverman L, DeAngelo D, Kutok J, Rothstein R, DePinho R, Chin L, Lee C, Look AT. 2007. Tandem duplication as a novel mechanism of MYB activation in human T-ALL. J Exp Med 204(13):3059-66.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/18070937)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18070937)
 [[Full Paper]](/resources/publications/ONeil_MybDupTALL_JEM_2007.pdf)
 - Wang Q, Li W, **Liu XS**, Carroll JS, Janne OA, Keeton EK, Chinnaiyan AM, Pienta KJ and Brown M. 2007. A hierarchical network of transcription factors governs androgen receptor dependent prostate cancer growth. Mol Cell 27(3):380-92.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17679089)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17679089)
 [[Full Paper]](/resources/publications/Wang_ARChr2122_MolCel_2007.pdf)
 
 ## 2006
 - Carroll JS, Meyer CA, Song J, Li W, Geistlinger TR, Eeckhoute J, Brodsky AS,KeetonEK, Fertuck KC,Hall GF, Wang Q, Bekiranov S, Sementchenko V, Fox EA, Silver PA, Gingeras TR, **Liu XS**\*, Brown M\*. 2006. Genome-wide analysis of estrogen receptor binding sites. Nat Genet 38(11):1289-97.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/17013392)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17013392)
 [[Full Paper]](/resources/publications/Carroll_ER_NG.pdf)
 - Ji X\*, Li W\*, Song J, Wei L, **Liu XS**. 2006. CEAS: cis-regulatory element annotation system. Nucleic Acids Res 34(Web Server Issue):W551-4.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16845068)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16845068)
 [[Full Paper]](http://nar.oxfordjournals.org/cgi/reprint/34/suppl_2/W551.pdf)
 - Johnson WE\*, Li W\*, Meyer CA\*, Gottardo R, Carroll JS, Brown M, **Liu XS**. 2006. MAT: Model-based analysis of tiling-arrays for ChIP-chip. Proc Natl Acad Sci USA 103(33)12457-62.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16895995)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16895995)
 [[Full Paper]](/resources/publications/Johnson_MAT_PNAS.pdf)
 - Lieb JD, Beck S, Bulyk ML, Farnham P, Hattori N, Henikoff S, **Liu XS**, Okumura K, Shiota K, Ushijima T, Greally JM. 2006. Applying whole-genome studies of epigenetic regulation to study human disease. Cytogenet. Genome Res 114(1):1-15.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16717444)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16717444)
 [[Full Paper]](/resources/publications/Lieb_GenomeEpi_Cyto_2006.pdf)
 - Nelson EA, Walker SR, Li W, **Liu XS**, Frank DA. 2006. Identification of Human STAT5-dependent Gene Regulatory Elements Based on Interspecies Homology J Biol Chem  281(36):26216-24.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16840779)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16840779)
 [[Full Paper]](/resources/publications/Nelson_STAT5_JBC.pdf)
 - Palomero T, Odom DT, O’Neil J, Ferrando AA, Margolin A, Neuberg DS, Winter SS, Larson RS,Li W, **Liu XS**, Young RA, Look AT. 2006. Transcriptional regulatory networks downstream of TAL1/SCL in T-cell acute lymphoblastic leukemia. Blood 108(3):986-92.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16621969)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16621969)
 [[Full Paper]](/resources/publications/Palomero_TAL1_Blood.pdf)
 - Swinburn IA, Meyer CA, **Liu XS**, Silver PA, Brodsky AS. 2006. Genomic localization of RNA-binding proteins reveals links between pre-mRNA processing and transcription. Genome Res 16(7):912-21.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16769980)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16769980)
 [[Full Paper]](/resources/publications/Swinbrune_RNABinding_GenomeRes.pdf)
 - Zhang Y, **Liu XS**, Liu Q, Wei L. 2006. Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res 34(12):3465-75.<br>
-[[Abstract]](http://www.ncbi.nlm.nih.gov/16849434)
+[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16849434)
 [[Full Paper]](/resources/publications/Zhang_Antisense_NAR.pdf)
 
 ## 2005
 - Brodsky AS, Meyer CA, Hall G, Swinburne IA, Keenan BJ, **Liu XS**. 2005. Fox EA, Silver PA. Genomic mapping of RNA polymerase II reveals sites of co-transcriptional regulation in human cells. Genome Biol 6(8):R64.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16086846)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16086846)
 - **Liu XS**. 2005. Gibbs sampling and bioinformatics. Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics. John Wiley & Sons Ltd, UK ISBN: 0-470-84974-6.
 <br>[[Full Paper]](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470849746.html)
 - Li W, Meyer CA, **Liu XS**. 2005. A hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays and its application to p53 binding sequences. Bioinformatics 21 Suppl.1:i274-i282.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/=15961467)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/15961467)
 [[Full Paper]](/resources/publications/Li_p53TilingHMM_ISMB_2005.pdf)
 - Ben-Yehuda S, Jujita M, **Liu XS**, Gorbatyuk B, Skoko D, Yan J, Eichenberger P, Rudner DZ, Marko JF, Liu JS, Losick R. 2005. Defining a centromere-like element in Bacillus subtilis by identifying the binding sites for the chromosome-anchoring protein RacA. Mol Cell 17(6):773-82.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15780934)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/15780934)
 [[Full Paper]](/resources/publications/BenYehuda_RacA_MolCel_2005.pdf)
 [[Full Paper]](/resources/publications/Brodsky_PolII_GenBio_2005.pdf)
 - Carroll JS, **Liu XS**, Brodsky AS, Li W, Meyer CA, Szary AJ, Shao W, Hestermann EV, Geistlinger TR, Fox EA, Silver PA, Brown M. 2005. Chromosome-wide mapping of estrogen receptor binding reveals long-range regulation requiring the forkhead protein FoxA1. Cell 122(1):33-43.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16009131)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16009131)
 [[Full Paper]](/resources/publications/Carroll_ERTiling_Cell_2005.pdf)
 - Hong P, **Liu XS**, Zhou Q, Lu X, Liu JS, Wong WH. 2005. A boosting approach for motif modeling using ChIP-chip data. Bioinformatics 21(11):2636-43.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15817698)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/15817698)
 [[Full Paper]](/resources/publications/Hong_MotifBooster_Bioinfo_2005.pdf)
 
 ## 2004
 - Liu Y\*, **Liu XS**\*, Wei L, Altman RB, Batzoglou S. 2004. Eukaryotic regulatory element conservation analysis and identification using comparative genomics. Genome Res 14(3):451-8.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/14993210)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/14993210)
 [[Full Paper]](/resources/publications/Liu_CP_GR_2004.pdf)
 - Liu Y, Wei L, Batzoglou S, Brutlag DL, Liu JS, **Liu XS**. 2004. A suite of web-based programs to search for transcriptional regulatory motifs. Nucleic Acids Res 32(Web Server Issue):W204-7.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15215381)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/15215381)
 [[Full Paper]](/resources/publications/Liu_WebMotifFinders_NAR_2004.pdf)
 - Jensen ST, **Liu XS**, Zhou Q, Liu JS. 2004. Computational discovery of gene regulatory binding motifs: a Bayesian perspective. Stat Sci 19(1):188-204.
 <br>[[Full Paper]](/resources/publications/Jensen_Moitf_StatSci_2004.pdf)
 - Yildiz FH, **Liu XS** , Heydorn A, Schoolnik GK. 2004. Molecular Analysis of Rugosity in a Vibrio cholerae O1 El Tor phase variant. Mol Microbiol 53(2):497-515.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/15228530)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/15228530)
 [[Full Paper]](/resources/publications/Yildiz_VCPhase_MM_2004.pdf)
 
 ## 2003
 - Conlon EM\*, **Liu XS**\*, Lieb JD, Liu JS. 2003. Integrating regulatory motif discovery and genome-wide expression analysis. Proc Nat Acad Sci USA 100(6):3339-44.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/12626739)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/12626739)
 [[Full Paper]](/resources/publications/Conlon_MotifRegressor_PNAS_03.pdf)
 
 ## 2002
 - **Liu XS**\*, Brutlag DL, Liu JS. 2002. An algorithm for finding protein-DNA binding sites with applications to chromatin immunoprecipitation microarray experiments. Nat Biotech 20(8):835-9. \*Liu X added middle name Shirley.<br>
-[[Abstract]](http://www.ncbi.nlm.nih.gov/12101404)
+[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/12101404)
 [[Full Paper]](/resources/publications/Liu_MDscan_NatBiotech_2002.pdf)
 - Liu JS, Gupta M, **Liu X**, Mayerhofere L, Lawrence CE. 2002. Statistical models for biological sequence motif discovery. Case Studies in Bayesian Statistics, IV, 2002, Springer-Verlag, New York.
 <br>[[Full Paper]](/resources/publications/Liu_Motif_Case_2003.pdf)
 
 ## 2001
 - Lieb JD, **Liu X**, Botstein D, Brown PO. 2001. Promoter-specific binding of Rap1 revealed by genome-wide maps of protein-DNA association. Nat Genet 28(4):327-34.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/11455386)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/11455386)
 [[Full Paper]](/resources/publications/Lieb_Rap1_NatGen_2001.pdf)
 - **Liu X**, Brutlag DL, Liu JS. 2001. BioProspector: discovering conserved DNA motifs in upstream regulatory regions of co-expressed genes. Proc Pac Symp Biocomput 127-38.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/11262934)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/11262934)
 [[Full Paper]](/resources/publications/Liu_BioProspector_PSB_2001.pdf)
 
 ## 1999
 - Dugan JM, Berrios DC, **Liu X**, Kim DK, Kaizer H, Fagan LM. 1999. Automation and integration of components for generalized semantic markup of electronic medical texts. Proc AMIA Symp 736-40.
-<br>[[Abstract]](http://www.ncbi.nlm.nih/gov/10566457)
+<br>[[Abstract]](http://www.ncbi.nlm.nih/gov/pubmed/10566457)
 [[Full Paper]](/resources/publications/Dugan_Markup_AMIA_1999.pdf)
 - Fischer P, **Liu X**, Lizotte-Waniewski M, Kamal IH, Ramzy RM, Williams SA. 1999. Development of a quantitative, competitive polymerase chain reaction-enzyme-linked immunosorbent assay for the detection of Wuchereria bancrofti DNA. XParasitol Res 85(3):176-83.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/9951959)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/9951959)
 [[Full Paper]](/resources/publications/Fischer_PCRELISA_ParasRes_1999.pdf)
 
 ## 1998
 - **Liu X**, Altman RB. 1998. Updating a bibliography using the related articles function within PubMed. Proc AMIA Symp 750-4.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/9929319)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/9929319)
 [[Full Paper]](/resources/publications/PNAS1998_750.pdf)
