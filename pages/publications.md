@@ -680,7 +680,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Song JS, Johnson WE, Zhu X, Zhang X, Li W, Manrai AK, Liu JS, Chen R, **Liu XS**. 2007. Model based analysis for 2-color arrays (MA2C). Genome Biol 8(8):R178.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17727723)
 [[Full Paper]](/resources/publications/Song_MA2C_GenomeBiol_2007.pdf)
-- Song J, Maghsoudi K, Li W, Fox A, Quackenbush J and **Liu XS**. 2007. Microarray Blob-Defect Removal Improves Array Analysis. Bioinformatics 23(8):966-71.
+- Song J, Maghsoudi K, Li W, Fox A, Quackenbush J and **Liu XS**. 2007. Microarray blob-defect removal improves array analysis. Bioinformatics 23(8):966-71.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17332024)
 [[Full Paper]](/resources/publications/Song_Blob_Bioinformatics.pdf)
 - Ozsolak F\*, Song JS\*, **Liu XS**#, Fisher DE#. 2007. High-throughput mapping of the chromatin structure of human promoters. Nat Biotech 25(2)244-8.
@@ -712,7 +712,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Lieb JD, Beck S, Bulyk ML, Farnham P, Hattori N, Henikoff S, **Liu XS**, Okumura K, Shiota K, Ushijima T, Greally JM. 2006. Applying whole-genome studies of epigenetic regulation to study human disease. Cytogenet. Genome Res 114(1):1-15.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16717444)
 [[Full Paper]](/resources/publications/Lieb_GenomeEpi_Cyto_2006.pdf)
-- Nelson EA, Walker SR, Li W, **Liu XS**, Frank DA. 2006. Identification of Human STAT5-dependent Gene Regulatory Elements Based on Interspecies Homology J Biol Chem  281(36):26216-24.
+- Nelson EA, Walker SR, Li W, **Liu XS**, Frank DA. 2006. Identification of human STAT5-dependent gene regulatory elements based on interspecies homology. J Biol Chem  281(36):26216-24.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16840779)
 [[Full Paper]](/resources/publications/Nelson_STAT5_JBC.pdf)
 - Palomero T, Odom DT, O’Neil J, Ferrando AA, Margolin A, Neuberg DS, Winter SS, Larson RS,Li W, **Liu XS**, Young RA, Look AT. 2006. Transcriptional regulatory networks downstream of TAL1/SCL in T-cell acute lymphoblastic leukemia. Blood 108(3):986-92.
@@ -721,7 +721,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Swinburn IA, Meyer CA, **Liu XS**, Silver PA, Brodsky AS. 2006. Genomic localization of RNA-binding proteins reveals links between pre-mRNA processing and transcription. Genome Res 16(7):912-21.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16769980)
 [[Full Paper]](/resources/publications/Swinbrune_RNABinding_GenomeRes.pdf)
-- Zhang Y, **Liu XS**, Liu Q, Wei L. 2006. Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res 34(12):3465-75.<br>
+- Zhang Y, **Liu XS**, Liu Q, Wei L. 2006. Genome-wide in silico identification and analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res 34(12):3465-75.<br>
 [[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/16849434)
 [[Full Paper]](/resources/publications/Zhang_Antisense_NAR.pdf)
 
