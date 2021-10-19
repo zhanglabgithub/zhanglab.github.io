@@ -721,8 +721,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Swinburn IA, Meyer CA, **Liu XS**, Silver PA, Brodsky AS. 2006. Genomic localization of RNA-binding proteins reveals links between pre-mRNA processing and transcription. Genome Res 16(7):912-21.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16769980)
 [[Full Paper]](/resources/publications/Swinbrune_RNABinding_GenomeRes.pdf)
-- Zhang Y, **Liu XS**, Liu Q, Wei L. 2006. Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res 34(12):3465-75.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/16849434)
+- Zhang Y, **Liu XS**, Liu Q, Wei L. 2006. Genome-wide in silico Identification and Analysis of cis Natural Antisense Transcripts (cis-NATs) in Ten Species. Nucleic Acids Res 34(12):3465-75.<br>
+[[Abstract]](http://www.ncbi.nlm.nih.gov/16849434)
 [[Full Paper]](/resources/publications/Zhang_Antisense_NAR.pdf)
 
 ## 2005
@@ -763,8 +763,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Conlon_MotifRegressor_PNAS_03.pdf)
 
 ## 2002
-- **Liu XS**\*, Brutlag DL, Liu JS. 2002. An algorithm for finding protein-DNA binding sites with applications to chromatin immunoprecipitation microarray experiments. Nat Biotech 20(8):835-9. \*Liu X added middle name Shirley.
-<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/12101404)
+- **Liu XS**\*, Brutlag DL, Liu JS. 2002. An algorithm for finding protein-DNA binding sites with applications to chromatin immunoprecipitation microarray experiments. Nat Biotech 20(8):835-9. \*Liu X added middle name Shirley.<br>
+[[Abstract]](http://www.ncbi.nlm.nih.gov/12101404)
 [[Full Paper]](/resources/publications/Liu_MDscan_NatBiotech_2002.pdf)
 - Liu JS, Gupta M, **Liu X**, Mayerhofere L, Lawrence CE. 2002. Statistical models for biological sequence motif discovery. Case Studies in Bayesian Statistics, IV, 2002, Springer-Verlag, New York.
 <br>[[Full Paper]](/resources/publications/Liu_Motif_Case_2003.pdf)
