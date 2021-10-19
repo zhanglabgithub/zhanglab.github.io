@@ -692,7 +692,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Litovchick L, Sadasivam S, Florens L, Zhu X, Swanson SK, Velmurugan S, Chen R, Washburn MP, **Liu XS**, DeCaprio JA. 2007. Evolutionally conserved multi-subunit RBL2/p130 and E2F4 protein complex represses human cell cycle-dependent genes in quiescence. Mol Cell 26(4)539-51.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/17531812)
 [[Full Paper]](/resources/publications/Litovchick_E2F4_MolCell.pdf)
-- O’Neil J, Tchinda J, Gutierrez A, Moreau L, Maser R, Wong KK, Li W, KcKenna K, **Liu X**, Neuberg D, Silverman L, DeAngelo D, Kutok J, Rothstein R, DePinho R, Chin L, Lee C, Look AT. 2007. Tandem duplication as a novel mechanism of MYB activation in human T-ALL. J Exp Med 204(13):3059-66.
+- O’Neil J, Tchinda J, Gutierrez A, Moreau L, Maser R, Wong KK, Li W, KcKenna K, **Liu X**, Neuberg D, Silverman L, DeAngelo D, Kutok J, Rothstein R, DePinho R, Chin L, Lee C, Look AT. 2007. Alu elements mediate MYB gene tandem duplication in human T-ALL. J Exp Med 204(13):3059-66.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/18070937)
 [[Full Paper]](/resources/publications/ONeil_MybDupTALL_JEM_2007.pdf)
 - Wang Q, Li W, **Liu XS**, Carroll JS, Janne OA, Keeton EK, Chinnaiyan AM, Pienta KJ and Brown M. 2007. A hierarchical network of transcription factors governs androgen receptor dependent prostate cancer growth. Mol Cell 27(3):380-92.
