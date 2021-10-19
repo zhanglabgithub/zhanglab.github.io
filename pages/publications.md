@@ -779,7 +779,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 
 ## 1999
 - Dugan JM, Berrios DC, **Liu X**, Kim DK, Kaizer H, Fagan LM. 1999. Automation and integration of components for generalized semantic markup of electronic medical texts. Proc AMIA Symp 736-40.
-<br>[[Abstract]](http://www.ncbi.nlm.nih/gov/pubmed/10566457)
+<br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/10566457)
 [[Full Paper]](/resources/publications/Dugan_Markup_AMIA_1999.pdf)
 - Fischer P, **Liu X**, Lizotte-Waniewski M, Kamal IH, Ramzy RM, Williams SA. 1999. Development of a quantitative, competitive polymerase chain reaction-enzyme-linked immunosorbent assay for the detection of Wuchereria bancrofti DNA. XParasitol Res 85(3):176-83.
 <br>[[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/9951959)
