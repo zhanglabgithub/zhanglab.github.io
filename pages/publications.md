@@ -17,6 +17,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](https://authors.elsevier.com/a/1dpi5L7PXe-fh)
 - Zeng Z#, Wong C#, Yang L#, Ouardaoui N, Li D, Zhang W, Gu SS, Zhang Y, Liu Y, Wang Z, Fu J, Zhou L, Zhang B, Kim S, Yates KB, Brown M, Freeman GJ, Uppaluri R, Manguso, **Liu XS**. 2021. TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response. Nuc Acids Res. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34534350)
+[[Full Paper]](/resources/publications/NucAcidRes_1_2021.pdf)
 - Song L#, Cohen D, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33986545) 
 [[Full Paper]](/resources/publications/NatMed18_627.pdf)
@@ -38,6 +39,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Code]](https://github.com/liulab-dfci/CHIPS)
 - Wu SZ, Al-Eryani G, Roden DL, Junakar S, Harvey K, Andersson A et al. 2021.  A single-cell and spatially resolved atlas of human breast cancers. Nat Genet 53(9):1334-1337.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34493872/)
+[[Full Paper]](https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/s41588-021-00911-1.pdf)
 - Penter L, Zhang Y, Saveli A Huang T, Cieri N, thrash EM, Kim-Schulze S, Jhaveri A, Fu J, Ranasinghe S, Li S, Zhang W, Hathaway ES, Nazzaro M, Kim HT, Chen H, Thurin M, Rodig SJ, Severgnini M, Cibulskis C, Gabriel S, Livak KJ, Cutler C, Antin JH, Nikiforow S, Koreth J, Ho VT, Armand P, Ritz J, Streicher H, Neuberg D, Hodi FS, Gnjatic S, Soiffer RJ, **Liu XS**, Davids MS, Bachireddy P, Wu CJ. 2021. Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies after transplantation. Blood 137(23):3212-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33720354)
 [[Full Paper]](/resources/publications/Blood137_2021.pdf)
@@ -93,6 +95,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/Li_NucAcidsRsh_2020.pdf)
 - Zeng Z#, Fu J#, Cibulskis C, Jhivari A, Gumbs C, Das B, Sanchez-Espiridion B, Janssens S, Taing L#, Wang J, Lindsay J, Vilimas T, Zhang J, Tokheim C, Sahu AD, Jiang P, Yan C, Y. Duose D, Cerami E, Chen L, Cohen D, Chen QR, Enos RA, Huang X, Lee JJ, Liu Y, Neuberg DS, Nguyen C, Patterson C, Sarkar S, Shukla SA, Tang M, Tsuji J, Uduman M, Wang X, Jason L Weirather, Jijun Yu, Joyce Yu, Zhang J, Zhang J, Meerzaman D, Thurin M, Futreal PA, Karlovich C, Gabriel SB, Wistuba II*, **Liu XS**\*, Wu C*. 2020. Cross-site concordance evaluation of tumor DNA and RNA sequencing platforms for the CIMAC-CIDC network. Clin Cancer Res. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33323402)
+[[Full Paper]](/resources/publications/CCR_5049.pdf)
 - Bagati A, Kumar A, Jiang P, Pyrdol J, Zou AE, Godicelj A, Mathewson ND, Cartwright ANR, Cejas P, Brown M, Giobbie-Hurder A, Dillon D, Agudo J, Mittendorf E, **Liu XS**, Wucherpfennig KW. 2020. Integrin &alpha;v&beta;6-TGF&beta;-SOX4 pathway drives immune evasion in triple-negative breast cancer. Cancer Cell 39:1-14.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33385331)
 [[Full Paper]](/resources/publications/CaCell_39.pdf)
