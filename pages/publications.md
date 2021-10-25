@@ -39,7 +39,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Code]](https://github.com/liulab-dfci/CHIPS)
 - Wu SZ, Al-Eryani G, Roden DL, Junakar S, Harvey K, Andersson A et al. 2021.  A single-cell and spatially resolved atlas of human breast cancers. Nat Genet 53(9):1334-1337.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34493872/)
-[[Full Paper]](https://drive.google.com/file/d/1HPrENRrDnVd0pZkfZKoEDyBB5zr3fxl-/view)
+[[Full Paper]](/resources/publications/NatGenet53_1336a-compressed.pdf)
 - Penter L, Zhang Y, Saveli A Huang T, Cieri N, thrash EM, Kim-Schulze S, Jhaveri A, Fu J, Ranasinghe S, Li S, Zhang W, Hathaway ES, Nazzaro M, Kim HT, Chen H, Thurin M, Rodig SJ, Severgnini M, Cibulskis C, Gabriel S, Livak KJ, Cutler C, Antin JH, Nikiforow S, Koreth J, Ho VT, Armand P, Ritz J, Streicher H, Neuberg D, Hodi FS, Gnjatic S, Soiffer RJ, **Liu XS**, Davids MS, Bachireddy P, Wu CJ. 2021. Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies after transplantation. Blood 137(23):3212-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33720354)
 [[Full Paper]](/resources/publications/Blood137_2021.pdf)
