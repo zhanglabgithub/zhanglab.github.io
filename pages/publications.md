@@ -15,7 +15,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **XS Liu**, Li H. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12:1-6.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34772935)
 [[Full Paper]](/resources/publications/NatCommun12_1.pdf)
-- Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Grown M, **Liu XS**. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell. Epub ahead of print.<br>
+- Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Grown M, **Liu XS**. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell 184(21):5357-5374.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34582788) 
 [[Full Paper]](https://authors.elsevier.com/a/1dpi5L7PXe-fh)
 - Zeng Z#, Wong C#, Yang L#, Ouardaoui N, Li D, Zhang W, Gu SS, Zhang Y, Liu Y, Wang Z, Fu J, Zhou L, Zhang B, Kim S, Yates KB, Brown M, Freeman GJ, Uppaluri R, Manguso, **Liu XS**. 2021. TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response. Nuc Acids Res. Epub ahead of print.<br>
