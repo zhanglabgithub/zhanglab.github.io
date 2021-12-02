@@ -12,7 +12,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
-- Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP*, Wei W*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
+- Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP\*, Wei W\*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34795215)
 [[Full Paper]](/resources/publications/NatCommun12_6704.pdf)
 - Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **XS Liu**, Li H. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12(1):1-6.<br>
