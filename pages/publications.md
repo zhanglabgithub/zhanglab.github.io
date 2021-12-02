@@ -12,7 +12,10 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
-- Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **XS Liu**, Li H. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12:1-6.<br>
+-Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP*, Wei W*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34795215)
+[[Full Paper]](/resources/publications/NatCommun12_6704.pdf)
+- Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **XS Liu**, Li H. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12(1):1-6.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34772935)
 [[Full Paper]](/resources/publications/NatCommun12_1.pdf)
 - Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Grown M, **Liu XS**. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell 184(21):5357-5374.<br>
