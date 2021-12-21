@@ -12,6 +12,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2021
+- Zhang Y#, Liu Y, **Liu XS**\*. 2021. Neural network architecture search with AMBER. Comp Gen 3:372-373.<br>
+[[Full Paper]](/resources/publications/CompGen3_372.pdf)
 - Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP\*, Wei W\*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34795215)
 [[Full Paper]](/resources/publications/NatCommun12_6704.pdf)
