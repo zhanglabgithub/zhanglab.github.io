@@ -34,7 +34,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33589424)
 [[Full Paper]](/resources/publications/CancDisc_11_2021.pdf)
 [[Data and Code]](https://github.com/WubingZhang/MHCI_TRAF3)
-- Tokheim C, Wang X, Timms RT, Zhang B, Mena EL, Wang B, chen C, Ge J, Zhang W, Elledge SJ\*, Brown M\*, **Liu XS**\*. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
+- Tokheim C#, Wang X, Timms RT, Zhang B, Mena EL, Wang B, Chen C, Ge J, Zhang W, Elledge SJ\*, Brown M\*, **Liu XS**\*. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
 [[Full Paper]](/resources/publications/MolCell81_1.pdf)
 [[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
