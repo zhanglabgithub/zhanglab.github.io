@@ -59,7 +59,10 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Full Paper]](/resources/publications/ClinCancerRes_5038.pdf)
 - Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA\*, Regev A\*, Suvà ML\*, Wucherpfennig KW\*. 2021. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 184:1-18.<br> 
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
-[[Full Paper]](/resources/publications/Cell184_1.pdf) 
+[[Full Paper]](/resources/publications/Cell184_1.pdf)
+- Cejas P, Xie Y, Font-Tello A, Lim K, Syamala S, Qiu X, Tewari AK, Shah N, Nguyen HM, Patel RA, Brown L, Coleman I, Hackeng WM, Brosens L, Dreijerink KMA, Ellis L, Abou Alaiwi S, Seo J, Baca S, Beltran H, Khani F, Pomerantz M, Dall'Agnese A, Crowdis J, Van Allen EM, Bellmunt J, Morrisey C, Nelson PS, DeCaprio J, Farago A, Dyson N, Drapkin B, **Liu XS**, Freedman M, Haffner M, Corey E, Brown M\*, Long HW\*. 2021. Subtype heterogeneity and epigenetic convergence in neuroendocrine prostate cancer. Nat Commun 12:5775.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34599169)
+[[Full Paper]](/resources/publications/NatCommun12_5775.pdf)
 
 ## 2020
 - Meyer CA, **Liu XS**. 2020. Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci 45(12):1094-5.<br>
