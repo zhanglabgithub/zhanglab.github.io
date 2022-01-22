@@ -192,7 +192,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Jiang P, Lee W, Li X, Johnson C, Liu JS, Brown M, Aster JC\*, **Liu XS**\*. 2018. Genome-scale signatures of gene interaction from compound screens predict clinical efficacy of targeted cancer therapies. Cell Syst 6(3):343-354.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29428415)
 [[Full Paper]](/resources/publications/Jiang_OCP_2018.pdf)
-- Pan D#, Kobayashi A#, Jiang P#, Ferrari de Andrade L, Tay RE, Luoma A, Tsoucas D, Qiu X, Lim K, Rao P, Long HW, Yuan GC, Doench J, Brown M, **Liu XS**\*, Wucherpfennig KW\#. 2018. A major chromatin regulator determines resistance of tumor cells to T cell-mediated killing. Science 359(6377):770-5.
+- Pan D#, Kobayashi A#, Jiang P#, Ferrari de Andrade L, Tay RE, Luoma A, Tsoucas D, Qiu X, Lim K, Rao P, Long HW, Yuan GC, Doench J, Brown M, **Liu XS**\*, Wucherpfennig KW\*. 2018. A major chromatin regulator determines resistance of tumor cells to T cell-mediated killing. Science 359(6377):770-5.
 <br>[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29301958)
 [[Full Paper]](/resources/publications/Pan_Science_2018.pdf)
 [[CRISPR screen data]](https://drive.google.com/file/d/124h_Qr8T2xIBX4jAzeeU33f7oBcgZVIw/view?usp=sharing)
