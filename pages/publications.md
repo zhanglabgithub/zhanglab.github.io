@@ -11,13 +11,18 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)<br>
 \# Co-first authors; \* Co-corresponding authors
 
+## 2022
+- Liao Y#, Chen CH#, Xiao T, Peña Avalos B, Dray EV, Cai C, Gao S, Shah N, Zhang Z, Feit A, Xue P, Liu Z, Yang M, Ji HL, Xu H, Li W, Mei X, Pierre RS, Shu S, Fei T, Duarte M, Xhao J, Badner JE, Polyak K, Kantoff PW, Long H, Balk SP, **Liu XS**\*, Brown M*\*, Xu K*\*. 2022. Inhibition of EZH2 transactivation function sensitizes solid tumors to genotoxic stress. Proc Natl Acad Sci USA. Epub ahead of print.<br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35031563)
+[[Full Paper]](/resources/publications/PNAS119_2022.pdf)
+
 ## 2021
 - Zhang Y#, Liu Y, **Liu XS**\*. 2021. Neural network architecture search with AMBER. Nat Machine Intell 3:372-373.<br>
 [[Full Paper]](/resources/publications/CompGen3_372.pdf)
 - Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP\*, Wei W\*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34795215)
 [[Full Paper]](/resources/publications/NatCommun12_6704.pdf)
-- Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **XS Liu**\*, Li H\*. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12(1):1-6.<br>
+- Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **Liu XS**\*, Li H\*. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12(1):1-6.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34772935)
 [[Full Paper]](/resources/publications/NatCommun12_1.pdf)
 - Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Brown M\*, **Liu XS**\*. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell 184(21):5357-5374.<br>
