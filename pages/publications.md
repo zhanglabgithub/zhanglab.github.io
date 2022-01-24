@@ -12,7 +12,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2022
-- Liao Y#, Chen CH#, Xiao T, Peña Avalos B, Dray EV, Cai C, Gao S, Shah N, Zhang Z, Feit A, Xue P, Liu Z, Yang M, Ji HL, Xu H, Li W, Mei X, Pierre RS, Shu S, Fei T, Duarte M, Xhao J, Badner JE, Polyak K, Kantoff PW, Long H, Balk SP, **Liu XS**\*, Brown M*\*, Xu K*\*. 2022. Inhibition of EZH2 transactivation function sensitizes solid tumors to genotoxic stress. Proc Natl Acad Sci USA. Epub ahead of print.<br>
+- Liao Y#, Chen CH#, Xiao T, Peña Avalos B, Dray EV, Cai C, Gao S, Shah N, Zhang Z, Feit A, Xue P, Liu Z, Yang M, Ji HL, Xu H, Li W, Mei X, Pierre RS, Shu S, Fei T, Duarte M, Xhao J, Badner JE, Polyak K, Kantoff PW, Long H, Balk SP, **Liu XS**\*, Brown M\*, Xu K\*. 2022. Inhibition of EZH2 transactivation function sensitizes solid tumors to genotoxic stress. Proc Natl Acad Sci USA. Epub ahead of print.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35031563)
 [[Full Paper]](/resources/publications/PNAS119_2022.pdf)
 
