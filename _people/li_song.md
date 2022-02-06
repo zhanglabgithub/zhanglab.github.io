@@ -15,5 +15,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Li Song received Ph.D. in Computer Science from Johns Hopkins University in 2018. His research area is on computational biology. He has designed and implemented algorithms to analyze next-generation sequencing data, mostly RNA-seq data, for various applications, such as transcriptome assembly, error correction, scaffolding, and metagenomics. 
+desp: Li Song received his Ph.D. in Computer Science from Johns Hopkins University in 2018. His research area is on computational biology. He has designed and implemented algorithms to analyze next-generation sequencing data, mostly RNA-seq data, for various applications, such as transcriptome assembly, error correction, scaffolding, and metagenomics. 
 ---
