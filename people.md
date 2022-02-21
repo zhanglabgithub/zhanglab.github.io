@@ -15,7 +15,6 @@ subtitle: This isn't a perfect man, but a perfect team!
 - [Hao Tingting](/ourteam/haotingting.md)
 ### Student
 - [Liu Hengkang](/ourteam/liuhengkang.md)
-- [Yang Hui](/ourteam/yanghui.md)
 - [Liu Xinyu](/ourteam/liuxinyu.md)
 - [Cao Qi](/ourteam/caoqi.md)
 - [Chen Xuechun](/ourteam/chenxuechun.md)
