@@ -9,7 +9,7 @@ permalink: /publication
 ## 2021
 - Xiao Xiang, Ziyang Liu, Chong Zhang, Zhao Li, Jie Gao, Changkun Zhang, Qi Cao, Jinghui Cheng, Hengkang Liu, Dingbao Chen, Qian Cheng, Ning Zhang, Ruidong Xue,* Fan Bai,* and Jiye Zhu* IDH Mutation Subgroup Status Associates with Intratumor Heterogeneity and the Tumor Microenvironment in Intrahepatic Cholangiocarcinoma. Advanced Science. 2021 Sep;8(17):e2101230.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34250753/)
-[[Full Paper]](publications/2021-09-08.pdf)
+[[Full Paper]](publications/1.pdf)
 - Lin Guo#, Xianfu Yi#, Lu Chen#, Ti Zhang#, Hua Guo, Ziye Chen, Jinghui Cheng, Qi Cao, Hengkang Liu, Chunyu Hou, Lisha Qi, Zhiyan Zhu, Yucun Liu, Ruirui Kong, Chong Zhang, Xiaohua Zhou, Zemin Zhang, Tianqiang Song, Ruidong Xue*, Ning Zhang*. Single cell DNA sequencing reveals punctuated and gradual clonal evolution in hepatocellular carcinoma. Gastroenterology. 2021 Sep 2;IF=22.682（共同通讯作者）<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34481846/)
 [[Full Paper]]()
