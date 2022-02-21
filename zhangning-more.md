@@ -103,5 +103,27 @@ subtitle: Have a comprehensive understanding of Mr. Zhang
 - 美国国立癌症研究所。 Frederick, USA
 #### 1999年
 - 国际粘菌大会。 Bar Harbor, USA
+### 社会工作
+- 先后担任约翰.霍普金斯大学医学院中国学生、学者联谊会高级顾问、主席。
+- 作为留美学生学者代表得到朱镕基总理接见。
+- 作为留美学生学者代表迎接江泽民总书记。
+### 获奖情况
+- 2020年 细胞出版社2019中国年度论文
+- 2016年 天津市杰出人才
+- 2014年 国家高层次人才特殊支持计划（万人计划）
+- 2013年 国家百千万人才、突出贡献专家
+- 2013年 科技部中青年科技创新领军人才
+- 2011年 国家杰出青年科学基金获得者
+- 2010年 天津市千人计划
+- 2009年 天津市青年科技奖
+- 2008年 天津市十佳杰出留学人员
+- 2007年 教育部新世纪人才
+- 2007年 天津市特聘教授
+- 2004年 美国李氏基金杰出成就奖
+- 2004年 美国国立卫生院研究优秀奖
+### 应邀编写学术专著
+- Oppenheim, J.J. and Zhang N.: Crosstalk between chemokine, opioid, and vanilloid receptors.  Moser, B., Letts, G., and Neote, K. (Eds). In Chemokine Biology: Basic Research and Clinical Application. Vol. I: Immunology of Chemokines. Birkhauser Publishing, Basel, Switzerland. 2005, pp 137. （ISBN号：9783764373078）
+- Zhang, N. and Oppenheim, J.J.: Neuropeptides that regulate immune responses. A. J. Kastin, (Ed.). In: Handbook of Biologically Active Peptides. Academic Press, Elsevier, London, UK. 2005. （ISBN号：9780123694423）
+- Gan W, Schneidman D, Zhang N, Ma B, Nussinov R. Probing Oligomerized Conformations of Defensin in the Membrane. Methods Mol Biol. 2017;1529:353-362.
 
 
