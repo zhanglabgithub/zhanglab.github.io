@@ -127,5 +127,31 @@ subtitle: Have a comprehensive understanding of Mr. Zhang
 - Oppenheim, J.J. and Zhang N.: Crosstalk between chemokine, opioid, and vanilloid receptors.  Moser, B., Letts, G., and Neote, K. (Eds). In Chemokine Biology: Basic Research and Clinical Application. Vol. I: Immunology of Chemokines. Birkhauser Publishing, Basel, Switzerland. 2005, pp 137. （ISBN号：9783764373078）
 - Zhang, N. and Oppenheim, J.J.: Neuropeptides that regulate immune responses. A. J. Kastin, (Ed.). In: Handbook of Biologically Active Peptides. Academic Press, Elsevier, London, UK. 2005. （ISBN号：9780123694423）
 - Gan W, Schneidman D, Zhang N, Ma B, Nussinov R. Probing Oligomerized Conformations of Defensin in the Membrane. Methods Mol Biol. 2017;1529:353-362.
+### 申请专利
+- 制人Akt2基因表达的siRNA序列及其融合表达载体（已授权）（专利号：ZL200710150207.7）
+- Akt2-siRNA融合表达载体在制备抑制人乳腺癌细胞转移药物中的应用（专利申请号：200710150206.2）
+- PKD1-siRNA序列及其融合表达载体（专利申请号：200810052965.X）
+- PKD1-siRNA融合表达载体的用途（专利申请号：200810052964.5）
+- 1-甲基-2-氨基对苯二酸盐的医药用途（专利申请号：200810054373.1）
+- 乳腺癌移植瘤自发转移模型及其应用（专利申请号200810153935.8）
+- 4-甲基-3-硝基-苯甲酸的医药用途（专利申请号：200910312224.5）
+- 肿瘤靶向的光动力载药纳米粒子及其制备方法和用途（已授权）（专利号：ZL201310505945.4）
+- 抗肿瘤化合物及其医药用途（已授权）（专利号：ZL201410446415.1）
+- PCT专利：ANTI-TUMOR COMPOUND AND THE MEDICAL USE THEREOF（专利申请号：PCT/CN2015/ 088842）
+- 肝癌标志物单克隆抗体的制备及其应用（专利申请号：201510682917.9）
+- 肝癌标志物单链抗体的制备及其应用（专利申请号：201510759337.5）
+- 用于肝癌检测的标志物组合及检测试剂盒（已授权）（专利号：ZL201510854154.1）（尚未拿到专利证书）
+- PCT专利：靶向肿瘤的声、光动力载药纳米胶束及其制备方法和用途（专利申请号：PCT/CN2015/089969）
+- R848或R848与索拉非尼联合用于治疗癌症的药物组合物和用途（专利申请号201910170645.2）
+
+
+					
+					
+					
+					
+					
+					
+
+
 
 
