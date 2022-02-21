@@ -4,5 +4,9 @@ title: Our Team
 subtitle: This isn't a perfect man, but a perfect team!
 ---
 ### Principle Investigator
-[[Zhang Ning]](zhangning-more)
-### 
+[Zhang Ning](zhangning-more.md)
+### Staff
+[Liu Rong](/our-team/liurong.md)
+[Kong Ruirui](/ourteam/kongruirui.md)
+[Xue Ruidong](/ourteam/xueruidong.md)
+[Yang Hui](/ourteam/yanghui.md)
