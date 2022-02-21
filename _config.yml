@@ -21,7 +21,7 @@ description: Ning Zhang Lab in BJMU
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  News & Events: "news"
+  News & Events: "news-and-events"
   People: "people"
   Publications: "publication"
   Careers: "careers"
