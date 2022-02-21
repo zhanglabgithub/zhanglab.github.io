@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-subtitle: Publications in Liu Lab
+subtitle: Publications in Zhang Lab
 permalink: /publication
 ---
 
@@ -11,67 +11,11 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)<br>
 \# Co-first authors; \* Co-corresponding authors
 
-## 2022
-- Liao Y#, Chen CH#, Xiao T, Peña Avalos B, Dray EV, Cai C, Gao S, Shah N, Zhang Z, Feit A, Xue P, Liu Z, Yang M, Ji HL, Xu H, Li W, Mei X, Pierre RS, Shu S, Fei T, Duarte M, Xhao J, Badner JE, Polyak K, Kantoff PW, Long H, Balk SP, **Liu XS**\*, Brown M\*, Xu K\*. 2022. Inhibition of EZH2 transactivation function sensitizes solid tumors to genotoxic stress. Proc Natl Acad Sci USA. Epub ahead of print.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35031563)
-[[Full Paper]](/resources/publications/PNAS119_2022.pdf)
-- Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM\*, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R\*, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. Epub ahead of print.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35058328)
-[[Full Paper]](/resources/publications/Zhou_JITC_2022.pdf)
-
 ## 2021
-- Zhang Y#, Liu Y, **Liu XS**\*. 2021. Neural network architecture search with AMBER. Nat Machine Intell 3:372-373.<br>
-[[Full Paper]](/resources/publications/CompGen3_372.pdf)
-- Liu J#, Tokheim C#, Lee JD#, Gan W, North BJ, **Liu XS**\*, Pandolfi PP\*, Wei W\*. 2021. Genetic fusions favor tumorigenesis through degron loss in oncogenes. Nat Commun 12(1):6704.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34795215)
-[[Full Paper]](/resources/publications/NatCommun12_6704.pdf)
-- Zhang H#, Song L#, Wang X, Cheng H, Wang C, Meyer CA, Liu T, Tang M, Aluru S, Yur F, **Liu XS**\*, Li H\*. 2021. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun 12(1):1-6.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34772935)
-[[Full Paper]](/resources/publications/NatCommun12_1.pdf)
-- Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Brown M\*, **Liu XS**\*. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell 184(21):5357-5374.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34582788) 
-[[Full Paper]](/resources/publications/Cell184_5357.pdf)
-- Zeng Z#, Wong C#, Yang L#, Ouardaoui N, Li D, Zhang W, Gu SS, Zhang Y, Liu Y, Wang Z, Fu J, Zhou L, Zhang B, Kim S, Yates KB, Brown M, Freeman GJ, Uppaluri R, Manguso, **Liu XS**. 2021. TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response. Nuc Acids Res. Epub ahead of print.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34534350)
-[[Full Paper]](/resources/publications/NucAcidRes_1_2021.pdf)
-- Song L#, Cohen D, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33986545) 
-[[Full Paper]](/resources/publications/NatMed18_627.pdf)
-[[Code]](https://github.com/liulab-dfci/TRUST4)
-- Gu S#, Zhang W, Wang X, Jiang P, Traugh N, Li Z, Meyer C, Stewig B, Xie Y, Bu X, Manos MP, Font-Tello A, Gjini E, Lako A, Lim K, Conway J, Tewari AK, Zeng Z, Das Sahu A, Tokheim C, Weirather JL, Fu J, Zhang Y, Kroger B, Liang JH, Cejas P, Freeman GJ, Rodig S, Long HW, Gewurz BE, Hodi FS, Brown M\*, **Liu XS**\*. 2021. Therapeutically increasing MHC-I expression potentiates immune checkpoint blockade. Cancer Discov 11:1-18.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33589424)
-[[Full Paper]](/resources/publications/CancDisc_11_2021.pdf)
-[[Data and Code]](https://github.com/WubingZhang/MHCI_TRAF3)
-- Tokheim C#, Wang X, Timms RT, Zhang B, Mena EL, Wang B, Chen C, Ge J, Zhang W, Elledge SJ\*, Brown M\*, **Liu XS**\*. 2021. Systematic characterization of mutations altering protein degradation in human cancers. Mol Cell 81:1-17.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
-[[Full Paper]](/resources/publications/MolCell81_1.pdf)
-[[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
-- Qiu X, Feit AS, Feiglin A, Xie Y, Taing L, Perkins J, Gu S, Li Y, Cejas P, Zhou N, Jeselsohn R, Brown M, **Liu XS**, Long HW. 2021. COBRA: Containerized bioinformatics workflow for reproducible ChIP/ATAC-seq analysis. Genomics Proteomics Bioinformatics. Epub ahead of print.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34284136)
-[[Full Paper]](https://www.sciencedirect.com/science/article/pii/S1672022921001546)
-- Taing L#, Bai G#, Cousins C#, Cejas P, Oiu X, Herbert ZT, Brown M, Meyer CA, **Liu XS**, Long HW\*, Tang M\*. 2021. CHIPS: A snakemake pipeline for quality control and reproducible processing of chromatin profiling data (version 1; peer review: awaiting peer review). F1000 Rsch 10:517.<br>
-[[Abstract]](https://f1000research.com/articles/10-517/v1)
-[[Full Paper]](/resources/publications/F1000Rsch10_517.pdf)
-[[Code]](https://github.com/liulab-dfci/CHIPS)
-- Wu SZ, Al-Eryani G, Roden DL, Junakar S, Harvey K, Andersson A et al. 2021.  A single-cell and spatially resolved atlas of human breast cancers. Nat Genet 53(9):1334-1337.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34493872/)
-[[Full Paper]](https://drive.google.com/file/d/1HPrENRrDnVd0pZkfZKoEDyBB5zr3fxl-/view?usp=sharing)
-- Penter L, Zhang Y, Saveli A Huang T, Cieri N, thrash EM, Kim-Schulze S, Jhaveri A, Fu J, Ranasinghe S, Li S, Zhang W, Hathaway ES, Nazzaro M, Kim HT, Chen H, Thurin M, Rodig SJ, Severgnini M, Cibulskis C, Gabriel S, Livak KJ, Cutler C, Antin JH, Nikiforow S, Koreth J, Ho VT, Armand P, Ritz J, Streicher H, Neuberg D, Hodi FS, Gnjatic S, Soiffer RJ, **Liu XS**, Davids MS\*, Bachireddy P\*, Wu CJ\*. 2021. Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies after transplantation. Blood 137(23):3212-17.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33720354)
-[[Full Paper]](/resources/publications/Blood137_2021.pdf)
-- Kumar S#, Zeng Z#, Bagati A, Tay RE, Sanz LA, Hartono SR, Ito Y, Abderazzaq F, Hatchi E, Jiang P, Cartwright ANR, Olawoyin O, Mathewson ND, Pyrdol JW, Li MZ, Doench JG, Booker MA, Tolstorukov MY, Elledge SJ, Chedin F, **Liu XS**\*, Wucherpfennig KW*. 2021. CARM1 inhibition enables immunotherapy of resistant tumors by dual action on tumor cells and T cells. Cancer Discov 11:2051-71.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33707234)
-[[Full Paper]](/resources/publications/CancerDiscov_2051_Kumar.pdf)
-- Chen HX, Song M, Maecker HT, Gnjatic S, Patton D, Lee JJ, Adam SJ, Moravec R, **Liu XS**, Cerami E, Lindsay J, Hodi FS, Wu C, Wistuba II, Al-Atrash G, Bernatchez C, Bendall SC, Hewitt SM, Sharon E, Streicher H, Enos RA, Bowman MD, Tatard-Leitman VM, Sanchez-Espiridion B, Ranasinghe S, Pichavent M, Del Valle DM, Yu J, Janssens S, Peterson-Klaus J, Rowe C, Bongers G, Jenq RR, Chang CC, Abrams JS, Mooney M, Doroshow JH, Harris LN, Thurin M. 2021. Network for biomarker immunoprofiling for cancer immunotherapy: cancer immune monitoring and analysis centers and cancer immunologic Data Commons (CIMAC-CIDC). Clin Cancer Res 27(18):5038-5048.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33419780)
-[[Full Paper]](/resources/publications/ClinCancerRes_5038.pdf)
-- Mathewson ND, Ashenberg O, Tirosh I, Gritsch S, Perez EM, Marx S, Jerby-Aron L, Chanoch-Myers R, Hara T, Richman AR, Ito Y, Pyrdol J, Friedrich M, Schumann K, Poitras MJ, Gokhale PC, Gonzales Castro LN, Shore ME, Hebert CM, Shaw B, Cahil HL, Drummond M, Zhang W, Olawoyin O, Wakimoto H, Rozenblatt-Rosen O, Brastianos PK, **Liu XS**, Jones PS, Cahill DP, Frosch MP, Louis DN, Freeman GJ, Ligon KL, Marson A, Chiocca EA, Reardon DA\*, Regev A\*, Suvà ML\*, Wucherpfennig KW\*. 2021. Inhibitory CD-161 receptor identified in glioma-infiltrating T cells by single-cell analysis. Cell 184:1-18.<br> 
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33592174)
-[[Full Paper]](/resources/publications/Cell184_1.pdf)
-- Cejas P, Xie Y, Font-Tello A, Lim K, Syamala S, Qiu X, Tewari AK, Shah N, Nguyen HM, Patel RA, Brown L, Coleman I, Hackeng WM, Brosens L, Dreijerink KMA, Ellis L, Abou Alaiwi S, Seo J, Baca S, Beltran H, Khani F, Pomerantz M, Dall'Agnese A, Crowdis J, Van Allen EM, Bellmunt J, Morrisey C, Nelson PS, DeCaprio J, Farago A, Dyson N, Drapkin B, **Liu XS**, Freedman M, Haffner M, Corey E, Brown M\*, Long HW\*. 2021. Subtype heterogeneity and epigenetic convergence in neuroendocrine prostate cancer. Nat Commun 12:5775.<br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34599169)
-[[Full Paper]](/resources/publications/NatCommun12_5775.pdf)
-
+- Xiao Xiang, Ziyang Liu, Chong Zhang, Zhao Li, Jie Gao, Changkun Zhang, Qi Cao, Jinghui Cheng, Hengkang Liu, Dingbao Chen, Qian Cheng, Ning Zhang, Ruidong Xue,* Fan Bai,* and Jiye Zhu* IDH Mutation Subgroup Status Associates with Intratumor Heterogeneity and the Tumor Microenvironment in Intrahepatic Cholangiocarcinoma. Advanced Science. 2021 Sep;8(17):e2101230.<br>
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34250753/)
+[[Full Paper]](/publications/2021-09-08.pdf)
+- 
 ## 2020
 - Meyer CA, **Liu XS**. 2020. Computaional approaches to modeling transcription factor activity and gene regulation. Trends Biochem Sci 45(12):1094-5.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33051080)
