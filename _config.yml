@@ -21,13 +21,10 @@ description: Ning Zhang Lab in BJMU
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Software: "software"
   News & Events: "news"
   People: "people"
   Publications: "publication"
-  Teaching: "teaching"
   Careers: "careers"
-  Contact: "contact"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
