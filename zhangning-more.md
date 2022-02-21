@@ -20,3 +20,88 @@ subtitle: Have a comprehensive understanding of Mr. Zhang
 - 1995-2001：美国约翰霍普金斯大学医学院 （The Johns Hopkins University School of Medicine），生化、细胞及分子生物学博士，师从Prof. Peter N. Devreotes，研究真核细胞趋化运动机理。
 - 1991-1995：美国佐治亚大学，学士，硕士。师从Dr. Michael Pierce。从事癌细胞中的转糖酶和癌转移的研究。
 - 1988-1991：北京大学化学系，攻读本科学位，后转学美国。
+### 主要学术任职
+- 中国老年学及老年医学学会转化医学与临床创新分会主任委员
+- 中国抗癌协会常务理事副秘书长
+- 中国抗癌协会期刊出版专业委员会主任委员
+- 中国抗癌协会纳米肿瘤学专业委员会前任主任委员
+- 《Cancer Biology & Medicine》 常务副主编
+### 应邀学术报告
+#### 2021年
+- Cancer Stem Cells: Advances in Biology and Clinical Translation (EK46-2021)
+#### 2020年
+- 2020中国肿瘤学大会。Guangzhou，China
+- 第二届北京大学国际癌症研究院学术研讨会。Beijing，China
+- 第四届肝胆肿瘤及传染病精准诊疗国际论坛。Beijing，China
+#### 2019年
+- 第八届中国棒槌岛国际肿瘤前沿论坛。Nanjing，China
+- 第一届肿瘤前沿学术研讨会
+- 第四届国际肿瘤精准医学高峰论坛-大会专场五肝癌分子遗传学研究进展。Chongqing，China
+- 肝胆肿瘤创新研究论坛。Guizhou，China
+#### 2018年
+- 2018年肝脏肿瘤精准诊疗国际论坛。Beijing，China
+#### 2017年
+- 2017 EMN国际二维材料大会。Lyon，France
+- 2017年第七届肿瘤系统生物学国际研讨会。Zhuhai，China
+#### 2016年
+- 2016国际纳米生物与医学学术会议。Fuzhou，China
+- 第十届电气和电子工程师协会纳米/分子医学&工程国际会议。Macau，China
+- 第九届中国肿瘤学术大会。Wuhan，China
+- 第三届纳米生物物理学术研讨会。Beihai，China
+#### 2015年
+- 2015中加（NSFC-FRQS）癌症研究论坛。Shanghai，China
+- 第三届分子影像与纳米医学国际学术研讨会。Suzhou，China
+- 2015年	纳米药物及纳米生物技术国际学术大会。Hangzhou，China
+- 晋阳肿瘤研究国际前沿论坛。Taiyuan，China
+#### 2014年
+- 第八届中国肿瘤学术大会纳米肿瘤学分会场。Jinan，China
+#### 2013年
+- 2013年	第22届亚太抗癌大会转化医学分会场。Tianjin, China
+- 纳米技术在肿瘤治疗与诊断中的应用学术研讨会。Shanghai, China
+- 第二届中国.大连 国际肿瘤前沿论坛。Dalian，China
+- 托马斯.杰佛森大学。Philadelphia，USA
+#### 2012年
+- 第449次香山科学会议 肿瘤纳米技术和纳米医学前沿研讨会。 Beijing， China
+- 世界抗癌大会。Montreal，Canada
+- 第七届中国肿瘤大会。  Beijing，China
+#### 2011年
+- 美国国立肿瘤研究所。  Washington，USA
+- 亚太地区国际肿瘤生物学和医学学术会议。 Shanghai，China
+- 天津乳腺癌防治研究国际研讨会。 Tianjin，China
+#### 2010年
+- 第二届中美纳米生物和纳米医学研讨会。  Washington，USA
+- 第六届中国肿瘤大会。  Shijiazhuang，China
+- 世界抗癌大会。 Shenzhen，China、
+#### 2009年
+- 中美肿瘤研究合作30年高层论坛。 Beijing, China
+- 第六次全国肿瘤中青年学术会议。 Nanjing, China
+- 西南癌症中心第二届肿瘤基础与新药研究前沿论坛。 Chongqing, China
+- 香港肿瘤生物标记物会议。 Hongkong
+#### 2008年
+- 瑞士世界肿瘤大会。 Switzerland
+- 瑞典卡洛琳斯卡大学。 Sweden
+- 第五届中国肿瘤学术大会。Shijiazhuang, China
+- 第331次香山科学会议 肿瘤纳米技术与纳米药物。 Beijing, China
+#### 2007年
+- 国际神经免疫学术交流会。Rome, Italy
+- 日本名古屋市里大学医学院。Nagoya, Japan
+#### 2006年
+- 美国神经免疫学年会。 Santa Fe, USA
+- 美国威斯康星医学院。 Wisconsin, USA.
+#### 2005年
+- 中国化学生物学年会。 Wuhan, China
+- 耶鲁大学医学院。 New Heaven, USA
+#### 2004年
+- 美国国立卫生研究院细胞因子研讨会。 Frederick, USA
+- 全球关节病年会。Montreal, Canada.
+- 美国天普大学医学院(Temple Univ. )。 Philadelphia, USA
+#### 2003年
+- 国际白细胞年会。Philadelphia, USA.
+#### 2002年
+- 戈登会议(Gordon Conference)。  Ventura, USA.
+#### 2001年
+- 美国国立癌症研究所。 Frederick, USA
+#### 1999年
+- 国际粘菌大会。 Bar Harbor, USA
+
+
