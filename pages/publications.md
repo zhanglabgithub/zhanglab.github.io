@@ -149,3 +149,20 @@ permalink: /publication
 -	Ning Zhang, Kou-Cheng Peng, Lin Chen, David Puett and Michael Pierce*. Circular Dichroic Spectroscopy of N-Acetylglucosaminyltransferase V and Its Substrate Interactions. Journal of Biological Chemistry. 1997 Feb 14;272(7):4225-9. （第一作者）  IF=4.2404
 ## 1995
 -	Lin Chen, Ning Zhang, Beverly Adler, Jeffery Browne, Nevis Freigen, Michael Pierce*. Preparation of antisera to recombinant, soluble N-acetylglucosaminyltransferase V and its visualization in situ. Glycoconjugate Journal. 1995 Dec;12(6):813-23. （第二作者） IF=2.1924
+## 核心期刊
+- Lichao Sun, Joseph Burnett, Mari Gasparyan, Fangying Xu, Hui Jiang, Chang-Ching Lin, Ila Myers, Hasan Korkaya, Yajing Liu, Jamie Connarn, Huining He, Ning Zhang, Max S. Wicha, Duxin Sun*. Novel cancer stem cell targets during epithelial to mesenchymal transition in PTEN-deficient trastuzumab-resistant breast cancer. Oncotarget. 2016 Aug 9;7(32):51408-51422.  （第十二作者）  IF=5.1702
+- Bo Sun#, Liwei Chen#, Hui Fu, Lin Guo, Hua Guo*, Ning Zhang*. Upregulation of RICTOR gene transcription by the proinflammatory cytokines through NF-κB pathway contributes to the metastasis of renal cell carcinoma. Tumour Biology. 2016 Apr;37(4):4457-66  （共同通讯作者）  IF=0
+- Duo Zuo#, Liwei Chen#, Xiaoqian Liu, Xia Wang, Qing Xi, Yi Luo, Ning Zhang. Hua Guo*. Combination of miR-125b and miR-27a enhances sensitivity and specificity of AFP-based diagnosis of hepatocellular carcinoma. Tumour Biology. 2016 May;37(5):6539-49.  （第七作者）  IF=0
+- 陈思亲，桂心蕊，袁丽晶，张宁*，陈研*. 基于脂质体的新型肿瘤成像荧光探针的构建及初步评价. 药学学报. 2016, 51 (5): 806−812
+- 罗艺，白钢，罗国安，齐欣，张宁，郭华*，董林毅*. 治咳川贝枇杷滴丸UPLC-Q-TOF-MS~E指纹图谱研究. 药物分析杂志. 2012，32( 11)：1940-1944
+- 郭华，张宁*. 上皮间充质转化与肿瘤干细胞的研究进展. 中国肿瘤临床. 2013年 第15期 941-945页
+- 左铎，罗艺，郭华，张宁*. 联合检测血清miR-125b 和AFP 对原发性肝细胞癌的诊断价值. 中国肿瘤临床. 2014年 第10期 662-666页
+- 韩堃，黎燕，张宁*. GTP 酶激活蛋白( Src 同源结构域3) 结合蛋白1 在乳腺癌细胞MDA-MB-231 体外迁移中的作用. 中国免疫学杂志. 2013年 第5期 481-485页
+- 刘岩，张飞，郭华，张晓方，张宁*. 不同片段的NPM1-EGFP 融合表达载体的构建和表达. 山东医药. 2012年 第12期 45-47页
+- 刘岩，张飞，郭华，张晓方，张宁*. NucIeophosmin/B23对结肠癌侵袭能力的影响. 中国肿瘤临床. 2012年 第7期 373-376页
+- 马宁，张飞，郭华，张晓方，曹淑贞，牛瑞芳，张宁.* PKCζ在肺腺癌中的表达与侵袭转移及预后关系的探讨. 中国肿瘤临床. 2010年 第10期 557-560页
+- 李萌辉，张飞，郭华，张晓方，赵陪起，张宁*，牛瑞芳. 胞运动抑制剂4-甲基-3-硝基-苯甲酸的基础研究. 中国肿瘤临床. 2010年第37卷11期 601-604页
+- 李悦国，张宁*. 趋化因子CCL15 在肝细胞肝癌组织中的表达及其临床意义. 中国肿瘤临床. 2011年 第2期 87-88页
+- 李鸿雁，张宁*. 乳腺癌骨转移机制的研究进展. 医学研究杂志. 2010年 第5期 6-8页
+
+
